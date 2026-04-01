@@ -1,0 +1,65 @@
+patch:
+  schema/name: "简体中文"
+  key_binder:
+    bindings:
+      - {accept: "Control+space", toggle: ascii_mode, when: always}
+      - {accept: "Control+Shift+2", toggle: zh_simp, when: always}
+      - {accept: "Control+k", send: Up, when: composing}
+      - {accept: "Control+j", send: Down, when: composing}
+      - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+      - {accept: Tab, send: "Shift+Right", when: composing}
+      - {accept: comma, send: Page_Up, when: paging}
+      - {accept: period, send: Page_Down, when: has_menu}
+  switches:
+    - name: ascii_mode
+      reset: 1
+      states: ["中文", "西文"]
+    - name: zh_simp
+      reset: 1
+      states: [ 漢字, 汉字 ]
+  punctuator/full_shape: noop
+  punctuator/half_shape:
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": "#"  
+    "$": "$"     
+    "%": "％"
+    "&": "&"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": "*"
+    "+": "+"
+    ",": {commit: "，"}
+    "-": "-"
+    .: {commit: "。"}
+    "/": ["/", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": "《"
+    "=": "="
+    ">": "》"
+    "?": {commit: "？"}
+    "@": "@"
+    "[": "【"
+    "\\": "、"
+    "]":  "】"
+    "^": {commit: "……"}
+    _: "——"
+    "`": "`"
+    "{": "｛"
+    "|": "｜"
+    "}": "｝"
+    "~": "~"
+  punctuator/symbols/+:
+    "/xk": "😂"
+    "/xx": ["✨", "🌟"]
+    "/hj": ["🚀"]
+    "/mg": ["🌹"]
+    "/dg": ["✅"]
+    "/rmb": ["￥"]
+    "/ax": ["❤️", "🩷", "♥", "♡", "❤", "💔"]
+    "/hello": ["Hello World!"]
+
+  recognizer/patterns/reverse_lookup: noop
+  translator/dictionary: luna_pinyin.extended
