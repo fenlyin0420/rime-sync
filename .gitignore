@@ -2,3 +2,5 @@ build
 luna_pinyin.userdb
 stroke.userdb
 terra_pinyin.userdb
+ibus_rime.custom.yaml
+weasel.custom.yaml
