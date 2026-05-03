@@ -62,6 +62,7 @@ patch:
     "/ax": ["❤️", "🩷", "♥", "♡", "❤", "💔"]
     "/hello": ["Hello World!"]
     "/yuandian": ["·", "•", "●", "∘", "◦"]
+    "/dg": ["✓"]
 
   recognizer/patterns/reverse_lookup: noop
   translator/dictionary: luna_pinyin.extended

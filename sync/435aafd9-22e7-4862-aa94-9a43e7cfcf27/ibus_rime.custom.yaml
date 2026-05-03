@@ -3,7 +3,9 @@ patch:
   style/color_scheme: aqua
   style/horizontal: true
   style/inline_preedit: true
+  style/cursor_type: select
   style/layout/corner_radius: 2
   style/comment_font_face: "SimSun"
   style/font_face: "SimSun"
   style/label_font_face: "SimSun"
+
