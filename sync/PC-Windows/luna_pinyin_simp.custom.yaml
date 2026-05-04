@@ -14,6 +14,7 @@ patch:
     - name: ascii_mode
       reset: 1
       states: ["中文", "西文"]
+      abbrev: ["简", "E"]
     - name: zh_simp
       reset: 1
       states: [ 漢字, 汉字 ]
@@ -60,6 +61,8 @@ patch:
     "/rmb": ["￥"]
     "/ax": ["❤️", "🩷", "♥", "♡", "❤", "💔"]
     "/hello": ["Hello World!"]
+    "/yuandian": ["·", "•", "●", "∘", "◦"]
+    "/dg": ["✓"]
 
   recognizer/patterns/reverse_lookup: noop
   translator/dictionary: luna_pinyin.extended

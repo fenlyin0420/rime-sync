@@ -5,6 +5,7 @@ patch:
     - schema: luna_pinyin_simp
   switcher/hotkeys:
     - F4
-  switcher/caption: "〔方案菜单〕"
+  switcher/caption: "【输入模式】"
   ascii_composer/switch_key/Shift_L: noop
-  # ascii_composer/switch_key/Shift_R: noop
+  ascii_composer/switch_key/Shift_R: noop
+
