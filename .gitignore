@@ -1,6 +1,12 @@
+# 构建文件夹
 build
+
+# 词典文件夹
 luna_pinyin.userdb
 stroke.userdb
 terra_pinyin.userdb
+
+# 各平台独立的文件
 ibus_rime.custom.yaml
 weasel.custom.yaml
+installation.yaml
