@@ -1,7 +1,7 @@
 # Rime user dictionary
 #@/db_name	luna_pinyin
 #@/db_type	userdb
-#@/rime_version	1.10.0
+#@/rime_version	1.13.1
 #@/tick	51676
 #@/user_id	435aafd9-22e7-4862-aa94-9a43e7cfcf27
 a 	啊	c=44 d=1.13799 t=51676
@@ -12,7 +12,7 @@ a a a 	啊啊啊	c=1 d=0.000190664 t=51676
 a di san fang 	啊第三方	c=1 d=4.88927e-24 t=51676
 a dou 	阿斗	c=1 d=3.25427e-29 t=51676
 a hong 	阿訇	c=0 d=6.41479e-14 t=51676
-a li 	阿里	c=1 d=4.19166e-07 t=51676
+a li 	阿里	c=2 d=0.000337144 t=51676
 a li yun 	阿里雲	c=2 d=2.32592e-19 t=51676
 a lie fu 	阿列夫	c=0 d=2.0686e-23 t=51676
 a lie fu yi 	阿列夫一	c=2 d=4.33049e-08 t=51676
@@ -22,6 +22,7 @@ a you 	阿尤	c=0 d=6.63629e-31 t=51676
 a zhi 	阿志	c=0 d=4.17146e-10 t=51676
 ai 	唉	c=2 d=5.37086e-41 t=51676
 ai 	愛	c=7 d=0.296925 t=51676
+ai fa dian 	愛發電	c=2 d=1.99501 t=48389
 ai hao 	愛好	c=3 d=2.85634e-58 t=51676
 ai mi si 	愛彌思	c=2 d=1.02428e-07 t=51676
 ai mi si 	愛彌斯	c=3 d=8.79581e-08 t=51676
@@ -56,14 +57,16 @@ an zhu 	按住	c=1 d=1.71858e-47 t=51676
 an zhuang 	安裝	c=130 d=1.61788 t=51676
 an zhuang de 	安裝的	c=1 d=4.26198e-85 t=51676
 an zhuang ge 	安裝個	c=1 d=1.13169e-73 t=51676
-an zhuo 	安卓	c=1 d=1.16583e-11 t=51676
+an zhuo 	安卓	c=2 d=9.49258e-06 t=51676
 ang 	昂	c=1 d=1.34418e-68 t=51676
+ao 	凹	c=2 d=1.80271 t=47377
 ao 	奧	c=1 d=1.74342e-10 t=51676
 ao gu si ta 	奧古斯塔	c=1 d=4.6116e-42 t=51676
+ao han shu 	凹函數	c=2 d=1.97531 t=47379
 ao xian chu 	凹陷處	c=1 d=2.93579e-82 t=51676
-ba 	吧	c=20 d=0.0792502 t=51676
+ba 	吧	c=20 d=0.449329 t=51676
 ba 	壩	c=0 d=1.32237e-53 t=51676
-ba 	把	c=12 d=2.07645e-06 t=51676
+ba 	把	c=12 d=5.03046e-06 t=51676
 ba chong shen zi 	八重神子	c=1 d=3.27671e-51 t=51676
 ba diao 	拔掉	c=1 d=0.0072265 t=51676
 ba ge 	八個	c=1 d=3.63626e-70 t=51676
@@ -93,10 +96,10 @@ bai yue kui 	白月魁	c=1 d=2.32063e-51 t=51676
 ban 	伴	c=0 d=1.26616e-42 t=51676
 ban 	半	c=1 d=5.54575e-65 t=51676
 ban 	板	c=5 d=0.0370088 t=51676
-ban 	版	c=19 d=1.67856e-05 t=51676
+ban 	版	c=19 d=1.78405e-05 t=51676
 ban 	班	c=1 d=2.65551e-78 t=51676
 ban 	辦	c=11 d=0.160414 t=51676
-ban ben 	版本	c=75 d=1.89787e-06 t=51676
+ban ben 	版本	c=76 d=5.84456e-06 t=51676
 ban ben en en 	版本嗯嗯	c=1 d=2.46925e-46 t=51676
 ban ben hao 	版本號	c=1 d=3.5216e-46 t=51676
 ban ben wo 	版本我	c=1 d=4.05839e-68 t=51676
@@ -113,7 +116,8 @@ ban xiu 	半袖	c=1 d=4.16551e-51 t=51676
 ban yue tong mian 	伴月同眠	c=1 d=1.27251e-41 t=51676
 ban zi dong 	半自動	c=2 d=3.50978e-30 t=51676
 bang 	幫	c=1 d=8.9167e-05 t=51676
-bang ding 	綁定	c=3 d=2.97459e-60 t=51676
+bang 	磅	c=2 d=1.99501 t=47557
+bang ding 	綁定	c=4 d=0.767206 t=51676
 bang ni 	幫你	c=1 d=0.00904991 t=51676
 bang wo 	幫我	c=200 d=2.99509 t=51676
 bang wo ge ming 	幫我革命	c=1 d=5.24539e-57 t=51676
@@ -125,7 +129,7 @@ bao 	包	c=48 d=0.121239 t=51676
 bao 	報	c=6 d=0.154124 t=51676
 bao 	寶	c=3 d=5.26938e-54 t=51676
 bao bao 	寶寶	c=2 d=0.0143874 t=51676
-bao chi 	保持	c=10 d=0.00582847 t=51676
+bao chi 	保持	c=12 d=0.142254 t=51676
 bao chi zai 	保持在	c=1 d=1.24667e-35 t=51676
 bao cu 	爆粗	c=1 d=1.3318e-18 t=51676
 bao cun 	保存	c=41 d=0.60937 t=51676
@@ -150,6 +154,7 @@ bao lu 	暴露	c=3 d=2.63929e-06 t=51676
 bao lv 	爆率	c=2 d=0.733447 t=51676
 bao shi 	寶石	c=3 d=1.29476e-63 t=51676
 bao wei 	保衛	c=1 d=1.35847e-16 t=51676
+bao wei 	包圍	c=2 d=1.97531 t=46907
 bao wei he 	包围盒	c=1 d=1.22174e-62 t=51676
 bao wen 	保溫	c=1 d=1.56991e-12 t=51676
 bao wen 	報文	c=1 d=1.57778e-12 t=51676
@@ -161,7 +166,7 @@ bao zheng 	保證	c=10 d=0.00767337 t=51676
 bei 	倍	c=1 d=1.51216e-71 t=51676
 bei 	備	c=1 d=1.07339e-39 t=51676
 bei 	盃	c=7 d=1.62246e-17 t=51676
-bei 	被	c=59 d=0.536261 t=51676
+bei 	被	c=59 d=0.950232 t=51676
 bei 	貝	c=1 d=0.606531 t=51676
 bei bao 	背包	c=2 d=0.267135 t=51676
 bei fen 	備份	c=4 d=3.4951e-16 t=51676
@@ -169,14 +174,16 @@ bei feng de hun xia 	北风的魂匣	c=1 d=1.12938e-49 t=51676
 bei feng zhuang 	被封裝	c=1 d=8.65906e-13 t=51676
 bei hang 	北航	c=1 d=1.84891e-54 t=51676
 bei jing 	北京	c=7 d=0.100078 t=51676
-bei jing 	背景	c=19 d=2.78098e-05 t=51676
+bei jing 	背景	c=20 d=0.176655 t=51676
 bei jing se 	背景色	c=2 d=4.47201e-15 t=51676
 bei la 	貝拉	c=1 d=4.23306e-05 t=51676
+bei mian 	背面	c=1 d=1 t=48256
 bei sai er 	贝赛尔	c=2 d=6.18884e-21 t=51676
 bei shu 	倍數	c=1 d=1.18907e-96 t=51676
 bei wo 	被我	c=1 d=0.0107807 t=51676
 bei ye 	貝葉	c=0 d=2.6565e-54 t=51676
 bei ye si 	貝葉斯	c=2 d=5.57649e-53 t=51676
+bei yin yong 	被引用	c=1 d=1 t=48380
 bei you 	北郵	c=1 d=1.0249e-54 t=51676
 bei zhu 	備注	c=2 d=7.28524e-10 t=51676
 ben 	本	c=13 d=0.167698 t=51676
@@ -187,21 +194,21 @@ ben di hua 	本地化	c=1 d=1.16774e-89 t=51676
 ben gong si 	本公司	c=1 d=4.97669e-56 t=51676
 ben gong zuo liu 	本工作流	c=1 d=3.29247e-78 t=51676
 ben ji 	本機	c=18 d=0.822835 t=51676
-ben ke 	本科	c=15 d=0.0818666 t=51676
+ben ke 	本科	c=19 d=0.113889 t=51676
 ben kui 	奔潰	c=2 d=3.16692e-83 t=51676
 ben lai 	本來	c=2 d=1.7056e-46 t=51676
 ben lun 	本輪	c=1 d=4.97431e-21 t=51676
-ben lun wen 	本論文	c=1 d=0.0173355 t=51676
+ben lun wen 	本論文	c=2 d=0.0173355 t=51676
 ben ren 	本人	c=2 d=8.7446e-11 t=51676
-ben shen 	本身	c=6 d=8.58924e-06 t=51676
+ben shen 	本身	c=6 d=0.790571 t=51676
 ben shi 	本事	c=1 d=0.00625109 t=51676
 ben shi 	本是	c=3 d=0.00621991 t=51676
 ben suan fa 	本算法	c=1 d=0.00242967 t=51676
 ben ti 	本體	c=2 d=2.54012e-26 t=51676
 ben xi tong 	本系統	c=1 d=8.1712e-66 t=51676
-ben xiang mu 	本項目	c=5 d=0.00644796 t=51676
+ben xiang mu 	本項目	c=6 d=0.827058 t=51676
 ben ying 	本應	c=1 d=6.86543e-47 t=51676
-ben zhi 	本質	c=26 d=0.000157814 t=51676
+ben zhi 	本質	c=26 d=0.00135358 t=51676
 ben zhi shang 	本質上	c=1 d=2.56696e-32 t=51676
 beng 	泵	c=1 d=3.54298e-29 t=51676
 beng huai 	崩壞	c=5 d=1.08503e-42 t=51676
@@ -220,24 +227,25 @@ bi bei 	必備	c=1 d=0.346456 t=51676
 bi ji 	筆記	c=26 d=0.460731 t=51676
 bi ji ben 	筆記本	c=8 d=0.19398 t=51676
 bi jiao 	比較	c=17 d=0.82339 t=51676
+bi jiao da 	比較大	c=1 d=1 t=46885
 bi jiao hao 	比較好	c=2 d=4.95894e-14 t=51676
 bi li 	比例	c=3 d=1.37212e-07 t=51676
 bi mian 	避免	c=17 d=0.751574 t=51676
 bi ou shi 	必歐式	c=1 d=9.52039e-11 t=51676
 bi ran 	必然	c=3 d=3.24818e-07 t=51676
 bi ru 	比如	c=11 d=1.10044 t=51676
-bi she 	畢設	c=1 d=0.0152985 t=51676
+bi she 	畢設	c=2 d=0.0152985 t=51676
 bi wen 	必問	c=1 d=0.701173 t=51676
 bi xu 	必須	c=23 d=0.496784 t=51676
 bi xu yao 	必須要	c=4 d=0.106992 t=51676
 bi xuan xiang 	必選項	c=1 d=4.15998e-06 t=51676
 bi yao 	必要	c=3 d=1.02389e-13 t=51676
-bi ye 	畢業	c=11 d=0.198145 t=51676
+bi ye 	畢業	c=18 d=0.198145 t=51676
 bi yu 	比喻	c=2 d=4.32593e-25 t=51676
 bian 	便	c=2 d=2.13298e-59 t=51676
-bian 	變	c=6 d=1.90011e-06 t=51676
+bian 	變	c=8 d=0.730639 t=51676
 bian 	遍	c=2 d=3.73224e-53 t=51676
-bian 	邊	c=5 d=0.0333733 t=51676
+bian 	邊	c=6 d=0.0333733 t=51676
 bian chang 	變長	c=0 d=1.19555e-14 t=51676
 bian chang 	邊長	c=1 d=1.20757e-13 t=51676
 bian chang a 	變長啊	c=1 d=1.20154e-13 t=51676
@@ -246,7 +254,7 @@ bian cheng 	變成	c=4 d=0.767206 t=51676
 bian cheng ti 	編程體	c=1 d=3.01852e-56 t=51676
 bian de 	變得	c=1 d=2.02751e-80 t=51676
 bian duo 	變多	c=1 d=3.55457e-38 t=51676
-bian hao 	編號	c=12 d=0.00554582 t=51676
+bian hao 	編號	c=16 d=0.262994 t=51676
 bian hou 	變厚	c=1 d=0.000550326 t=51676
 bian hua 	變化	c=7 d=0.298197 t=51676
 bian huan 	變換	c=23 d=1.05247 t=51676
@@ -254,17 +262,17 @@ bian huan dao 	變換到	c=3 d=0.0736852 t=51676
 bian huan hou 	變換後	c=2 d=1.67666e-71 t=51676
 bian hui 	便會	c=4 d=0.00134741 t=51676
 bian hui shi 	便會是	c=1 d=5.87385e-06 t=51676
-bian ji 	編輯	c=7 d=2.65654e-09 t=51676
+bian ji 	編輯	c=9 d=0.755837 t=51676
 bian ji qi 	編輯器	c=11 d=1 t=51676
 bian jie 	便捷	c=1 d=9.21271e-95 t=51676
-bian jie 	邊界	c=2 d=0.00308117 t=51676
+bian jie 	邊界	c=2 d=0.0776922 t=51676
 bian ju 	邊距	c=1 d=9.22144e-18 t=51676
 bian kuang 	邊框	c=5 d=6.51263e-13 t=51676
 bian lan 	邊欄	c=2 d=9.11332e-21 t=51676
 bian li 	遍歷	c=6 d=1.21024e-47 t=51676
 bian liang 	變量	c=42 d=0.814411 t=51676
 bian liang en ding er 	變量摁釘兒	c=1 d=8.29073e-31 t=51676
-bian ma 	編碼	c=38 d=0.2334 t=51676
+bian ma 	編碼	c=39 d=0.2334 t=51676
 bian ma qi 	編碼器	c=2 d=1.30383e-24 t=51676
 bian ma wei 	編碼爲	c=1 d=6.51839e-25 t=51676
 bian neng 	便能	c=1 d=1.70061e-41 t=51676
@@ -277,21 +285,24 @@ bian xie guo 	編寫過	c=1 d=1.03806e-57 t=51676
 bian xing 	變形	c=1 d=1.76035e-06 t=51676
 bian xue 	邊學	c=1 d=2.83394e-49 t=51676
 bian yi 	便宜	c=1 d=2.17748e-96 t=51676
-bian yi 	編譯	c=21 d=3.90203e-06 t=51676
+bian yi 	編譯	c=22 d=0.00417336 t=51676
 bian yi qi 	編譯器	c=5 d=0.00918669 t=51676
 bian yi shi 	編譯時	c=1 d=2.78218e-38 t=51676
+bian yi wei 	編譯爲	c=2 d=1.94176 t=47483
 bian yu 	便於	c=4 d=0.486752 t=51676
 bian yuan 	邊緣	c=3 d=1.41017e-70 t=51676
+bian yun xing 	邊運行	c=1 d=1 t=47461
+bian zao 	編造	c=3 d=1.02935 t=47542
 bian zhi 	編制	c=0 d=2.60576e-33 t=51676
 bian zhi hao 	編制好	c=1 d=2.61882e-32 t=51676
 bian zuo 	邊做	c=1 d=2.84815e-49 t=51676
 biao 	標	c=2 d=0.23457 t=51676
-biao 	表	c=30 d=0.000754089 t=51676
+biao 	表	c=30 d=0.0548516 t=51676
 biao chi 	標尺	c=1 d=1.50237e-24 t=51676
-biao da 	表達	c=8 d=1.3606e-05 t=51676
+biao da 	表達	c=8 d=0.0300468 t=51676
 biao da shi 	表達式	c=11 d=4.93336e-12 t=51676
-biao ge 	表格	c=28 d=2.01621e-18 t=51676
-biao hao 	標號	c=1 d=0.00013845 t=51676
+biao ge 	表格	c=30 d=0.107118 t=51676
+biao hao 	標號	c=2 d=0.0422141 t=51676
 biao ji 	標記	c=10 d=0.0580411 t=51676
 biao jiao 	鰾膠	c=1 d=4.24302e-62 t=51676
 biao mian 	表面	c=3 d=5.96735e-62 t=51676
@@ -302,10 +313,11 @@ biao qian lan 	標籤欄	c=1 d=0.585669 t=51676
 biao qian ye 	標籤頁	c=1 d=1.35322e-88 t=51676
 biao qing 	表情	c=8 d=5.04494e-24 t=51676
 biao sao miao 	表掃描	c=0 d=8.01102e-40 t=51676
+biao she ji 	表設計	c=1 d=1 t=48115
 biao shi 	標識	c=2 d=5.83504e-75 t=51676
 biao shi 	表示	c=16 d=0.896553 t=51676
 biao shu 	表述	c=5 d=0.000312395 t=51676
-biao ti 	標題	c=12 d=0.0248587 t=51676
+biao ti 	標題	c=14 d=0.053671 t=51676
 biao ti lan 	標題欄	c=1 d=3.9656e-90 t=51676
 biao xian 	表現	c=1 d=4.51783e-65 t=51676
 biao xiang 	表項	c=2 d=3.51909e-67 t=51676
@@ -373,12 +385,12 @@ bu bao cuo 	不報錯	c=1 d=1.72191e-11 t=51676
 bu bao han 	不包含	c=1 d=0.0177743 t=51676
 bu bei 	不被	c=1 d=1.47739e-62 t=51676
 bu bi 	不必	c=2 d=1.13856e-56 t=51676
-bu bian 	不變	c=7 d=0.00585769 t=51676
+bu bian 	不變	c=9 d=0.135155 t=51676
 bu bie niu 	不別扭	c=1 d=9.4952e-68 t=51676
 bu bo 	不播	c=0 d=3.95886e-71 t=51676
 bu bo fang 	不播放	c=1 d=3.97871e-70 t=51676
 bu cheng gong 	不成功	c=1 d=1.11434e-09 t=51676
-bu chong 	補充	c=10 d=7.86896e-05 t=51676
+bu chong 	補充	c=11 d=0.0976649 t=51676
 bu chong fu 	不重複	c=1 d=1.09824e-73 t=51676
 bu chong wan 	補充玩	c=1 d=8.61706e-44 t=51676
 bu chu 	不出	c=1 d=9.10243e-71 t=51676
@@ -403,7 +415,7 @@ bu er nuo 	布爾諾	c=0 d=1.08887e-32 t=51676
 bu er nuo neng gou 	布爾諾能夠	c=2 d=2.37852e-31 t=51676
 bu fa bu 	不發佈	c=1 d=0.256661 t=51676
 bu fang bian 	不方便	c=2 d=6.64059e-67 t=51676
-bu fen 	部分	c=27 d=0.135445 t=51676
+bu fen 	部分	c=30 d=0.135445 t=51676
 bu fen er 	部分而	c=1 d=0.110803 t=51676
 bu fen fen shi 	部分分式	c=1 d=3.74127e-52 t=51676
 bu fu he 	不符合	c=5 d=0.000156102 t=51676
@@ -413,14 +425,14 @@ bu gai bian 	不改變	c=2 d=3.26836e-21 t=51676
 bu gao 	不高	c=2 d=0.00900478 t=51676
 bu gen 	不跟	c=2 d=0.000112788 t=51676
 bu gong 	不公	c=1 d=1.97657e-16 t=51676
-bu gou 	不夠	c=1 d=1.33271e-26 t=51676
+bu gou 	不夠	c=2 d=0.0309618 t=51676
 bu gua zai 	不掛載	c=1 d=0.458406 t=51676
 bu guan 	不管	c=1 d=3.81308e-11 t=51676
 bu guan xin 	不關心	c=1 d=3.24929e-11 t=51676
 bu guan zhu 	不關注	c=1 d=3.73237e-24 t=51676
 bu guo 	不過	c=1 d=1.34812e-73 t=51676
 bu han 	不含	c=2 d=1.50703e-31 t=51676
-bu hao 	不好	c=3 d=1.76761e-25 t=51676
+bu hao 	不好	c=4 d=0.0301974 t=51676
 bu hao kan 	不好看	c=3 d=1.08159e-11 t=51676
 bu he li 	不合理	c=1 d=3.30908e-49 t=51676
 bu huan hang 	不換行	c=1 d=0.219808 t=51676
@@ -434,12 +446,12 @@ bu jian 	不見	c=7 d=0.000921083 t=51676
 bu jian 	部件	c=3 d=2.21778e-32 t=51676
 bu jian le 	不見了	c=1 d=6.12254e-82 t=51676
 bu jian rong 	不兼容	c=4 d=7.9521e-11 t=51676
-bu ju 	佈局	c=4 d=6.53866e-33 t=51676
-bu kao lv 	不考慮	c=1 d=1.49259e-06 t=51676
+bu ju 	佈局	c=5 d=0.037068 t=51676
+bu kao lv 	不考慮	c=2 d=0.00132678 t=51676
 bu ke 	不可	c=4 d=0.0301974 t=51676
 bu ke kao 	不可靠	c=1 d=7.31234e-83 t=51676
 bu ke ni 	不可逆	c=2 d=2.44601e-23 t=51676
-bu ke yong 	不可用	c=1 d=2.31952e-16 t=51676
+bu ke yong 	不可用	c=2 d=0.67032 t=51676
 bu ku 	不哭	c=1 d=6.70733e-67 t=51676
 bu li jie 	不理解	c=1 d=4.14192e-43 t=51676
 bu li xiang 	不理想	c=2 d=6.98746e-19 t=51676
@@ -460,7 +472,7 @@ bu qi zuo yong 	不起作用	c=2 d=1.63365e-39 t=51676
 bu qia dang 	不恰當	c=1 d=1.34034e-05 t=51676
 bu qie huan 	不切換	c=1 d=0.00190171 t=51676
 bu quan 	補全	c=7 d=3.22779 t=51676
-bu ran 	不然	c=5 d=1.78886e-37 t=51676
+bu ran 	不然	c=6 d=0.458406 t=51676
 bu rang 	不讓	c=0 d=1.75844e-53 t=51676
 bu rong yi 	不容易	c=1 d=1.20212e-48 t=51676
 bu ru 	不如	c=2 d=6.36029e-89 t=51676
@@ -492,15 +504,15 @@ bu xi 	不喜	c=1 d=4.70476e-42 t=51676
 bu xi huan 	不喜歡	c=1 d=1.28176e-38 t=51676
 bu xi wang 	不希望	c=1 d=7.16266e-75 t=51676
 bu xia 	不下	c=0 d=3.38639e-57 t=51676
-bu xian shi 	不顯示	c=2 d=0.0376283 t=51676
+bu xian shi 	不顯示	c=2 d=0.882497 t=51676
 bu xiang 	不想	c=14 d=0.894113 t=51676
 bu xiao xin 	不小心	c=2 d=0.440573 t=51676
 bu xie 	不寫	c=2 d=7.52886e-44 t=51676
 bu xing 	不行	c=5 d=1.20987e-06 t=51676
 bu xing ma 	不行嗎	c=1 d=9.5496e-47 t=51676
-bu xu yao 	不需要	c=13 d=0.146739 t=51676
+bu xu yao 	不需要	c=14 d=0.146739 t=51676
 bu xun huan 	不循環	c=1 d=2.12899e-37 t=51676
-bu yao 	不要	c=39 d=0.733055 t=51676
+bu yao 	不要	c=41 d=0.733055 t=51676
 bu yi ding 	不一定	c=2 d=1.32372e-64 t=51676
 bu yi lai 	不依賴	c=1 d=4.5769e-12 t=51676
 bu yi yang 	不一樣	c=3 d=1.26379e-19 t=51676
@@ -510,18 +522,18 @@ bu yong 	不用	c=9 d=0.421052 t=51676
 bu you hao 	不友好	c=1 d=8.94739e-16 t=51676
 bu yu 	補語	c=1 d=9.98373e-70 t=51676
 bu zai 	不再	c=2 d=2.83895e-11 t=51676
-bu zai 	不在	c=5 d=1.35849e-32 t=51676
+bu zai 	不在	c=7 d=0.27228 t=51676
 bu zai hu 	不在乎	c=1 d=4.71277e-62 t=51676
 bu zhan yong 	不佔用	c=1 d=2.8202e-80 t=51676
 bu zhe yang 	不這樣	c=1 d=4.12617e-57 t=51676
 bu zhi 	不知	c=1 d=4.01758e-08 t=51676
 bu zhi chi 	不支持	c=16 d=0.0784746 t=51676
-bu zhi dao 	不知道	c=8 d=2.09915e-18 t=51676
+bu zhi dao 	不知道	c=9 d=0.179964 t=51676
 bu zhi guan 	不直觀	c=1 d=4.56974e-23 t=51676
 bu zhong yao 	不重要	c=1 d=3.57775e-85 t=51676
 bu zhou 	步驟	c=6 d=2.40664e-38 t=51676
 bu zou 	不走	c=2 d=1.60468e-05 t=51676
-bu zu 	不足	c=4 d=0.0170774 t=51676
+bu zu 	不足	c=5 d=0.0170774 t=51676
 bu zu 	補足	c=1 d=1.01346e-69 t=51676
 bu zun xun 	不遵循	c=1 d=2.91926e-45 t=51676
 bu zuo 	不做	c=1 d=4.77977e-81 t=51676
@@ -544,26 +556,27 @@ cai shen 	財神	c=0 d=3.05259e-42 t=51676
 cai shi 	才是	c=2 d=1.86527e-40 t=51676
 cai suan 	才算	c=1 d=6.28843e-73 t=51676
 cai xing 	才行	c=3 d=2.6578e-07 t=51676
+cai yang 	採樣	c=2 d=1.9802 t=48636
 cai yong 	採用	c=11 d=0.0037164 t=51676
 cai yong de 	採用的	c=1 d=1.55186e-23 t=51676
 cai yuan gun gun 	財源滾滾	c=1 d=2.99214e-41 t=51676
-cai zhi 	材質	c=56 d=1.13991e-07 t=51676
+cai zhi 	材質	c=62 d=3.0424 t=51676
 cai zhi ming 	材質名	c=1 d=1.89797e-68 t=51676
 can cha 	殘差	c=2 d=6.7653e-44 t=51676
 can cha 	殘查	c=2 d=1.97188e-76 t=51676
 can cha 	餐叉	c=1 d=2.34915e-77 t=51676
 can cha lian jie 	殘差連接	c=1 d=6.04205e-44 t=51676
 can jian 	參見	c=1 d=8.67353e-62 t=51676
-can kao 	參考	c=22 d=0.0399575 t=51676
+can kao 	參考	c=22 d=0.0742574 t=51676
 can kao tu 	參考圖	c=2 d=4.84867e-25 t=51676
 can kao wen xian 	參考文獻	c=2 d=2.44419e-73 t=51676
 can shu 	參數	c=52 d=1.19295 t=51676
 can shu liang 	參數量	c=3 d=2.49584e-25 t=51676
-can yu 	參與	c=3 d=4.79496e-51 t=51676
+can yu 	參與	c=4 d=3.68005e-05 t=51676
 cang ku 	倉庫	c=57 d=8.29855 t=51676
 cang qi lai 	藏起來	c=1 d=5.10892e-41 t=51676
 cao 	槽	c=3 d=1.68867e-09 t=51676
-cao 	草	c=2 d=0.0255325 t=51676
+cao 	草	c=2 d=0.122456 t=51676
 cao de 	草的	c=1 d=0.0108347 t=51676
 cao ni 	肏你	c=1 d=0.0156858 t=51676
 cao ni 	草擬	c=0 d=1.40917e-95 t=51676
@@ -576,7 +589,7 @@ cao zuo xia 	操作下	c=1 d=6.39367e-33 t=51676
 ce 	側	c=2 d=9.53336e-27 t=51676
 ce 	測	c=1 d=1.22261e-41 t=51676
 ce jian 	策蹇	c=1 d=9.48581e-27 t=51676
-ce lve 	策略	c=4 d=8.69802e-07 t=51676
+ce lve 	策略	c=5 d=0.00748391 t=51676
 ce lve zu 	策略組	c=4 d=7.19814e-43 t=51676
 ce shi 	測試	c=48 d=0.418956 t=51676
 ce yan 	測驗	c=1 d=4.01801e-68 t=51676
@@ -604,7 +617,7 @@ cha kan 	查看	c=75 d=1.70033 t=51676
 cha kan qi 	查看器	c=1 d=3.51e-66 t=51676
 cha pai 	插排	c=1 d=1.82448e-74 t=51676
 cha ru 	插入	c=15 d=0.896248 t=51676
-cha xun 	查詢	c=34 d=0.592373 t=51676
+cha xun 	查詢	c=35 d=0.592373 t=51676
 cha xun hou 	查詢後	c=2 d=1.46761e-35 t=51676
 cha yao 	叉腰	c=2 d=8.80218e-51 t=51676
 cha yi 	差異	c=4 d=2.86548e-06 t=51676
@@ -615,6 +628,7 @@ cha zhao chu 	查找出	c=1 d=0.618783 t=51676
 cha zhi 	插值	c=1 d=3.37995e-63 t=51676
 chai 	拆	c=1 d=2.13414e-36 t=51676
 chai diao 	拆掉	c=1 d=2.35859e-36 t=51676
+chai le 	拆了	c=1 d=1 t=48540
 chan 	產	c=1 d=2.82182e-28 t=51676
 chan chu 	產出	c=1 d=3.75439e-05 t=51676
 chan pin 	產品	c=1 d=3.19863e-32 t=51676
@@ -631,7 +645,7 @@ chang chun 	長春	c=1 d=7.8754e-44 t=51676
 chang ci yi wang 	長此以往	c=1 d=6.41349e-40 t=51676
 chang du 	長度	c=26 d=0.0300468 t=51676
 chang he 	場合	c=2 d=5.25956e-67 t=51676
-chang jian 	常見	c=8 d=3.76014e-23 t=51676
+chang jian 	常見	c=10 d=0.00222255 t=51676
 chang jing 	場景	c=8 d=1.80645e-16 t=51676
 chang jing zhong 	場景中	c=1 d=4.8596e-70 t=51676
 chang kuan 	長寬	c=1 d=3.04532e-13 t=51676
@@ -651,7 +665,7 @@ chang yong yu 	常用於	c=1 d=3.02273e-43 t=51676
 chang zhu 	常駐	c=3 d=1.20835e-91 t=51676
 chao 	抄	c=4 d=2.79725e-35 t=51676
 chao 	朝	c=3 d=3.3471e-07 t=51676
-chao 	超	c=1 d=2.28076e-44 t=51676
+chao 	超	c=2 d=1.59668e-05 t=51676
 chao chang 	超長	c=2 d=0.0319048 t=51676
 chao chu 	超出	c=5 d=3.54961e-79 t=51676
 chao fan 	超凡	c=2 d=2.52707e-73 t=51676
@@ -663,7 +677,7 @@ chao ping mian 	超平面	c=1 d=4.35428e-43 t=51676
 chao shi 	超市	c=1 d=1.94873e-55 t=51676
 chao shi 	超時	c=4 d=6.17816e-12 t=51676
 chao xiang 	朝向	c=2 d=0.0645703 t=51676
-chao xiang su 	超像素	c=18 d=0.156523 t=51676
+chao xiang su 	超像素	c=24 d=0.745595 t=51676
 chao xiong 	超雄	c=1 d=2.3383e-52 t=51676
 che 	徹	c=1 d=4.77683e-15 t=51676
 che di 	徹底	c=1 d=1.61762e-70 t=51676
@@ -674,26 +688,26 @@ chen shan 	襯衫	c=1 d=4.1035e-51 t=51676
 chen xian 	襯線	c=1 d=2.1197e-06 t=51676
 cheng 	呈	c=3 d=9.22292e-37 t=51676
 cheng 	城	c=2 d=1.49483e-53 t=51676
-cheng 	成	c=12 d=1.22818e-06 t=51676
+cheng 	成	c=12 d=9.70776e-05 t=51676
 cheng 	程	c=2 d=4.97177e-66 t=51676
 cheng 	稱	c=4 d=1.292e-14 t=51676
 cheng du 	成都	c=12 d=6.15848e-07 t=51676
 cheng du 	程度	c=1 d=3.56134e-31 t=51676
 cheng fa 	乘法	c=1 d=1.0684e-43 t=51676
-cheng gong 	成功	c=46 d=4.42506e-06 t=51676
+cheng gong 	成功	c=46 d=1.07029e-05 t=51676
 cheng guo 	成果	c=6 d=0.130029 t=51676
 cheng ji 	成績	c=18 d=0.0365162 t=51676
 cheng ji dan 	成績單	c=4 d=1.50908e-10 t=51676
 cheng jiu 	成就	c=3 d=3.61039e-52 t=51676
-cheng le 	成了	c=1 d=7.18144e-47 t=51676
+cheng le 	成了	c=2 d=0.00532682 t=51676
 cheng nuo 	承諾	c=0 d=1.98371e-30 t=51676
 cheng qing 	澄清	c=1 d=1.9605e-67 t=51676
 cheng shi 	城市	c=1 d=1.05357e-55 t=51676
 cheng wei 	成爲	c=2 d=5.26468e-12 t=51676
-cheng wei 	稱爲	c=6 d=0.12493 t=51676
+cheng wei 	稱爲	c=10 d=0.12493 t=51676
 cheng xian chu 	呈現出	c=1 d=3.88192e-45 t=51676
 cheng xiao 	成效	c=1 d=7.88319e-85 t=51676
-cheng xu 	程序	c=129 d=0.727986 t=51676
+cheng xu 	程序	c=132 d=0.727986 t=51676
 cheng xu yuan 	程序員	c=1 d=3.72146e-19 t=51676
 cheng yuan 	成員	c=2 d=2.11619e-12 t=51676
 chi 	喫	c=2 d=2.35338e-10 t=51676
@@ -717,13 +731,14 @@ chong gu 	重估	c=1 d=1.53789e-93 t=51676
 chong he 	重合	c=5 d=0.166242 t=51676
 chong hui 	重繪	c=6 d=3.17499e-42 t=51676
 chong jian 	重建	c=2 d=3.5725e-09 t=51676
-chong kai 	重開	c=1 d=4.86472e-53 t=51676
+chong kai 	重開	c=2 d=0.217621 t=51676
 chong ming 	重名	c=2 d=1.42639e-69 t=51676
 chong ming ming 	重命名	c=4 d=1.56298e-11 t=51676
 chong neng 	充能	c=1 d=0.0066709 t=51676
 chong qi 	重啓	c=22 d=0.89604 t=51676
 chong qi hou 	重啓後	c=3 d=3.7311e-20 t=51676
 chong qing 	重慶	c=4 d=0.0461896 t=51676
+chong shi 	充實	c=1 d=1 t=48009
 chong tu 	衝突	c=13 d=8.69325e-10 t=51676
 chong xie 	重寫	c=4 d=0.991807 t=51676
 chong xin 	重新	c=32 d=0.950936 t=51676
@@ -744,14 +759,15 @@ chu 	出	c=31 d=0.774671 t=51676
 chu 	初	c=1 d=4.70251e-07 t=51676
 chu 	處	c=10 d=4.02661e-05 t=51676
 chu 	除	c=4 d=0.00211225 t=51676
-chu bu 	初步	c=3 d=1.72837e-55 t=51676
+chu bu 	初步	c=4 d=0.255381 t=51676
 chu chu 	出處	c=1 d=3.72578e-62 t=51676
-chu ci 	初次	c=1 d=9.47875e-77 t=51676
+chu ci 	初次	c=2 d=0.00212284 t=51676
 chu ci 	除此	c=1 d=1.08104e-05 t=51676
 chu cuo 	出錯	c=3 d=1.26706e-20 t=51676
 chu fa 	觸發	c=7 d=0.951229 t=51676
 chu fa 	除法	c=3 d=0.0519829 t=51676
 chu fei 	除非	c=3 d=0.310367 t=51676
+chu gao 	初稿	c=1 d=1 t=47968
 chu lai 	出來	c=1 d=9.48904e-31 t=51676
 chu le 	出了	c=1 d=3.6494e-83 t=51676
 chu le 	除了	c=17 d=0.515214 t=51676
@@ -761,7 +777,7 @@ chu li wan 	處理完	c=1 d=0.000939653 t=51676
 chu sheng 	出生	c=1 d=2.40713e-11 t=51676
 chu shi 	初始	c=6 d=0.000147011 t=51676
 chu shi 	初試	c=1 d=1.31895e-51 t=51676
-chu shi hua 	初始化	c=18 d=1.10307e-07 t=51676
+chu shi hua 	初始化	c=20 d=9.78161e-05 t=51676
 chu shi zhi 	初始值	c=1 d=9.37516e-36 t=51676
 chu ti 	出題	c=1 d=3.25195e-50 t=51676
 chu tu 	出圖	c=2 d=2.23134e-50 t=51676
@@ -782,6 +798,7 @@ chuan 	川	c=2 d=2.10308e-40 t=51676
 chuan 	穿	c=1 d=1.96939e-32 t=51676
 chuan 	船	c=1 d=1.39904e-68 t=51676
 chuan can 	傳參	c=2 d=3.46603e-14 t=51676
+chuan chu 	穿出	c=1 d=1 t=47334
 chuan di 	傳遞	c=12 d=0.319819 t=51676
 chuan di dao 	傳遞到	c=1 d=3.95267e-81 t=51676
 chuan di gei 	傳遞給	c=1 d=3.61898e-14 t=51676
@@ -843,7 +860,7 @@ ci pan 	磁盤	c=12 d=0.0359725 t=51676
 ci pin 	詞頻	c=4 d=1.59933e-93 t=51676
 ci ren 	此人	c=1 d=2.62864e-76 t=51676
 ci shi 	此時	c=9 d=0.474147 t=51676
-ci shu 	次數	c=8 d=2.24401e-09 t=51676
+ci shu 	次數	c=9 d=0.201897 t=51676
 ci tiao 	詞條	c=1 d=2.94158e-17 t=51676
 ci tu 	此圖	c=1 d=5.97767e-65 t=51676
 ci wai 	此外	c=3 d=1.23385e-31 t=51676
@@ -880,16 +897,17 @@ cun zhuang 	村莊	c=1 d=1.84163e-37 t=51676
 cuo 	錯	c=5 d=2.72013e-08 t=51676
 cuo ci 	措辭	c=1 d=8.46974e-47 t=51676
 cuo le 	錯了	c=1 d=4.63171e-05 t=51676
-cuo wu 	錯誤	c=20 d=0.000352662 t=51676
+cuo wu 	錯誤	c=21 d=0.000420107 t=51676
 cuo wu lv 	錯誤率	c=1 d=0.000713734 t=51676
 da 	大	c=19 d=0.0222903 t=51676
-da 	打	c=30 d=0.239934 t=51676
+da 	打	c=30 d=0.467666 t=51676
 da an 	答案	c=4 d=6.62843e-07 t=51676
 da bai 	大擺	c=0 d=4.42837e-66 t=51676
 da bai bai 	大拜拜	c=1 d=1.36738e-34 t=51676
 da bai chui 	大擺鎚	c=1 d=4.45056e-65 t=51676
 da bao 	打包	c=7 d=5.75293e-08 t=51676
 da bian 	答辯	c=1 d=8.57673e-77 t=51676
+da bu da 	大不大	c=1 d=1 t=48547
 da bu guo 	打不過	c=1 d=1.06803e-39 t=51676
 da bu kai 	打不開	c=2 d=0.00603614 t=51676
 da chang 	大廠	c=1 d=6.37954e-07 t=51676
@@ -901,11 +919,12 @@ da du hui 	大都會	c=15 d=4.49661e-33 t=51676
 da duan 	打斷	c=2 d=2.12979e-12 t=51676
 da duo 	大多	c=5 d=2.52616e-20 t=51676
 da duo shu 	大多數	c=3 d=1.24777e-16 t=51676
-da fa 	打法	c=5 d=0.654764 t=51676
+da fa 	打法	c=6 d=0.654764 t=51676
 da fang 	大方	c=1 d=1.99664e-76 t=51676
 da fu 	大幅	c=1 d=1.14431e-27 t=51676
 da gai 	大概	c=2 d=2.45664e-15 t=51676
-da gang 	大綱	c=5 d=0.0350212 t=51676
+da gang 	大綱	c=7 d=0.0350212 t=51676
+da ge 	打個	c=1 d=1 t=47031
 da guai 	打怪	c=0 d=3.36961e-28 t=51676
 da guang 	打光	c=2 d=3.11356e-53 t=51676
 da hai 	大海	c=2 d=1.28792e-81 t=51676
@@ -937,7 +956,7 @@ da pei 	搭配	c=3 d=2.78416e-17 t=51676
 da ping 	大屏	c=1 d=0.852144 t=51676
 da qi 	打起	c=1 d=1.68369e-41 t=51676
 da qi lai 	打起來	c=1 d=3.15155e-34 t=51676
-da ren 	大人	c=2 d=5.24599e-08 t=51676
+da ren 	大人	c=2 d=4.46161e-06 t=51676
 da sai 	大賽	c=8 d=2.10996e-49 t=51676
 da san 	大三	c=1 d=1.128e-64 t=51676
 da sha 	大廈	c=2 d=0.000200439 t=51676
@@ -952,6 +971,7 @@ da wan 	打完	c=3 d=0.0259911 t=51676
 da wen jian 	大文件	c=1 d=3.01964e-31 t=51676
 da wen ti 	大問題	c=2 d=1.6762e-18 t=51676
 da xiao 	大小	c=12 d=0.0430669 t=51676
+da xiao xie 	大小寫	c=1 d=1 t=47797
 da xie 	大寫	c=1 d=3.37603e-20 t=51676
 da xing 	大型	c=3 d=3.25992e-20 t=51676
 da xue 	大學	c=67 d=2.37646 t=51676
@@ -969,7 +989,7 @@ da zhao 	大招	c=1 d=1.17607e-55 t=51676
 da zhu 	打主	c=1 d=0.208045 t=51676
 da zi 	打字	c=1 d=3.20855e-39 t=51676
 dai 	代	c=2 d=1.0345e-46 t=51676
-dai 	帶	c=10 d=7.54346e-08 t=51676
+dai 	帶	c=10 d=0.0850088 t=51676
 dai 	待	c=4 d=2.51177e-41 t=51676
 dai 	戴	c=2 d=8.50357e-64 t=51676
 dai biao 	代表	c=2 d=1.00604e-13 t=51676
@@ -978,13 +998,14 @@ dai gai jin 	待改進	c=1 d=1.03109e-66 t=51676
 dai hui 	帶回	c=1 d=1.22832e-37 t=51676
 dai ji 	待機	c=6 d=1.42512e-50 t=51676
 dai lai 	帶來	c=8 d=1.11233e-16 t=51676
-dai li 	代理	c=44 d=1.71274e-05 t=51676
+dai li 	代理	c=44 d=0.00189318 t=51676
 dai li fu wu qi 	代理服務器	c=1 d=1.01695e-80 t=51676
 dai li li 	代理裏	c=1 d=5.00845e-72 t=51676
 dai li zu 	代理組	c=7 d=0.0283545 t=51676
-dai ma 	代碼	c=193 d=1.24794 t=51676
+dai ma 	代碼	c=200 d=1.24794 t=51676
 dai ma duan 	代碼段	c=1 d=1.89269e-94 t=51676
-dai ma kuai 	代碼塊	c=2 d=2.63041e-76 t=51676
+dai ma kuai 	代碼塊	c=6 d=0.00133225 t=51676
+dai ma kuai zhong 	代碼塊中	c=1 d=1 t=47369
 dai ma qu 	代碼區	c=1 d=7.52453e-96 t=51676
 dai ma ti 	代碼題	c=1 d=1.32855e-48 t=51676
 dai ma ye 	代碼頁	c=1 d=1.13489e-18 t=51676
@@ -994,9 +1015,11 @@ dai shi 	歹勢	c=1 d=1.45317e-44 t=51676
 dai shu 	代數	c=4 d=1.46777e-44 t=51676
 dai ti 	代替	c=1 d=2.58326e-77 t=51676
 dai tian chong 	帶填充	c=1 d=6.1363e-79 t=51676
-dai you 	帶有	c=2 d=4.97439e-23 t=51676
+dai you 	帶有	c=3 d=9.35125e-06 t=51676
+dai zhe 	帶着	c=1 d=1 t=48426
 dan 	但	c=90 d=1.7012 t=51676
 dan 	單	c=1 d=4.00926e-13 t=51676
+dan bu neng 	但不能	c=1 d=1 t=46489
 dan chun 	單純	c=1 d=6.68091e-50 t=51676
 dan ci 	單次	c=2 d=1.41988e-79 t=51676
 dan ci 	單詞	c=7 d=0.00113276 t=51676
@@ -1013,7 +1036,7 @@ dan qian 	丹鉛	c=1 d=1.03685e-14 t=51676
 dan ren 	單人	c=1 d=2.43754e-41 t=51676
 dan shi 	但是	c=103 d=1.81496 t=51676
 dan shua 	單刷	c=2 d=2.63771e-36 t=51676
-dan wei 	單位	c=1 d=5.51245e-53 t=51676
+dan wei 	單位	c=2 d=0.0428521 t=51676
 dan xian cheng 	單線程	c=1 d=2.69702e-84 t=51676
 dan xian zai 	但現在	c=1 d=2.11441e-15 t=51676
 dan ye 	單頁	c=3 d=3.90242e-11 t=51676
@@ -1039,13 +1062,13 @@ dao 	刀	c=13 d=7.38379e-21 t=51676
 dao 	到	c=171 d=2.84872 t=51676
 dao 	導	c=1 d=7.02465e-52 t=51676
 dao 	道	c=1 d=1.36812e-11 t=51676
-dao chu 	導出	c=29 d=9.6657e-09 t=51676
+dao chu 	導出	c=32 d=0.270719 t=51676
 dao chu shi 	導出時	c=1 d=4.37476e-10 t=51676
 dao chu wei 	導出爲	c=1 d=1.10228e-28 t=51676
 dao ci 	到此	c=1 d=1.94648e-12 t=51676
 dao da 	到大	c=2 d=8.8364e-48 t=51676
 dao da 	到達	c=1 d=1.56789e-85 t=51676
-dao di 	到底	c=6 d=0.42139 t=51676
+dao di 	到底	c=6 d=0.460704 t=51676
 dao fan fu 	刀反復	c=2 d=1.60181e-52 t=51676
 dao fang 	刀房	c=19 d=2.67964e-09 t=51676
 dao fang gan su sheng de fen 	刀房甘肅省得分	c=1 d=2.69307e-08 t=51676
@@ -1055,7 +1078,7 @@ dao ju 	道具	c=1 d=3.60449e-55 t=51676
 dao lai 	刀來	c=1 d=1.41094e-50 t=51676
 dao na ge 	到那個	c=1 d=3.70266e-77 t=51676
 dao ru 	導入	c=25 d=0.568548 t=51676
-dao shi 	導師	c=14 d=2.08779e-06 t=51676
+dao shi 	導師	c=14 d=0.00477195 t=51676
 dao shi hou 	到時候	c=4 d=1.82728e-39 t=51676
 dao shu 	倒數	c=1 d=6.67978e-48 t=51676
 dao shu 	導數	c=3 d=8.93163e-52 t=51676
@@ -1089,7 +1112,7 @@ deng zi qi 	鄧紫棋	c=2 d=2.74797e-87 t=51676
 di 	低	c=4 d=0.384239 t=51676
 di 	底	c=2 d=2.44836e-12 t=51676
 di 	棣	c=1 d=1.66032e-53 t=51676
-di 	第	c=12 d=0.0352719 t=51676
+di 	第	c=15 d=0.0352719 t=51676
 di 	迪	c=2 d=1.08314e-49 t=51676
 di ba 	第八	c=1 d=2.26611e-36 t=51676
 di ban 	地板	c=1 d=1.8559e-69 t=51676
@@ -1103,7 +1126,7 @@ di er ge 	第二個	c=3 d=0.609571 t=51676
 di er hang 	第二行	c=4 d=0.39481 t=51676
 di er lei 	第二類	c=1 d=1.61817e-74 t=51676
 di er tiao 	第二條	c=1 d=2.68657e-09 t=51676
-di er zhang 	第二章	c=3 d=0.0356285 t=51676
+di er zhang 	第二章	c=4 d=0.0356285 t=51676
 di fang 	地方	c=13 d=0.122775 t=51676
 di gui 	遞歸	c=7 d=3.98765e-12 t=51676
 di guo 	帝國	c=1 d=3.20408e-52 t=51676
@@ -1120,6 +1143,7 @@ di san 	第三	c=3 d=1.80891e-32 t=51676
 di san bo 	第三波	c=3 d=1.67388e-12 t=51676
 di san ci 	第三次	c=1 d=2.66193e-77 t=51676
 di san dao 	第三道	c=1 d=1.88107e-51 t=51676
+di san duan 	第三段	c=1 d=1 t=47167
 di san fang 	第三方	c=14 d=4.86488e-25 t=51676
 di san ge 	第三個	c=4 d=7.78381e-48 t=51676
 di san ren cheng 	第三人稱	c=1 d=1.68771e-69 t=51676
@@ -1140,9 +1164,9 @@ di yi ge 	第一個	c=8 d=0.797632 t=51676
 di yi hang 	第一行	c=3 d=0.00782963 t=51676
 di yi jia 	第一家	c=2 d=0.023014 t=51676
 di yi lie 	第一列	c=1 d=8.04981e-37 t=51676
-di yi ren cheng 	第一人稱	c=1 d=3.02736e-61 t=51676
+di yi ren cheng 	第一人稱	c=2 d=0.111359 t=51676
 di yi tiao 	第一條	c=1 d=2.64657e-09 t=51676
-di yi zhang 	第一章	c=1 d=0.0129068 t=51676
+di yi zhang 	第一章	c=4 d=0.0129068 t=51676
 di yi zhong 	第一種	c=1 d=4.69246e-70 t=51676
 di yi zu 	第一組	c=1 d=7.27215e-77 t=51676
 di you xian ji 	低優先級	c=1 d=1.27095e-56 t=51676
@@ -1185,7 +1209,7 @@ diao du qi 	調度器	c=5 d=5.50777e-43 t=51676
 diao du ti 	調度體	c=1 d=2.3314e-76 t=51676
 diao luo 	掉落	c=0 d=8.01239e-42 t=51676
 diao tong 	吊桶	c=1 d=7.69273e-62 t=51676
-diao yong 	調用	c=76 d=0.0905796 t=51676
+diao yong 	調用	c=76 d=0.932394 t=51676
 diao zheng 	調正	c=1 d=9.43369e-21 t=51676
 die 	疊	c=1 d=1.19202e-38 t=51676
 die ceng 	疊層	c=1 d=2.2496e-97 t=51676
@@ -1205,8 +1229,8 @@ ding ji fen 	定積分	c=2 d=7.27791e-64 t=51676
 ding li 	定理	c=9 d=2.53608e-15 t=51676
 ding wei 	定位	c=5 d=6.74139e-09 t=51676
 ding xiang 	定向	c=2 d=1.73261e-25 t=51676
-ding yi 	定義	c=29 d=0.00311986 t=51676
-ding yi de 	定義的	c=1 d=0.806541 t=51676
+ding yi 	定義	c=33 d=0.66456 t=51676
+ding yi de 	定義的	c=1 d=0.904837 t=51676
 ding yin 	定音	c=1 d=3.00714e-41 t=51676
 ding yu 	定於	c=1 d=1.68221e-60 t=51676
 ding yue 	訂閱	c=5 d=0.0319048 t=51676
@@ -1235,20 +1259,23 @@ dong zui o 	動嘴哦	c=1 d=9.58736e-64 t=51676
 dong zuo 	動作	c=18 d=3.25316e-25 t=51676
 dou 	都	c=69 d=0.19398 t=51676
 dou bao 	豆包	c=7 d=1.13585e-28 t=51676
+dou bei 	都被	c=1 d=1 t=48384
 dou bu hui 	都不會	c=1 d=7.55759e-30 t=51676
 dou de 	都得	c=1 d=8.98525e-95 t=51676
 dou dou 	痘痘	c=1 d=2.03248e-50 t=51676
+dou gei chu 	都給出	c=1 d=1 t=47536
 dou hao 	逗號	c=8 d=4.4124e-44 t=51676
 dou hao 	都好	c=1 d=1.7696e-97 t=51676
 dou hui 	都會	c=11 d=0.283654 t=51676
 dou hui bei 	都會被	c=1 d=3.28117e-67 t=51676
 dou hui shi 	都會是	c=1 d=1.25955e-97 t=51676
 dou jiang 	都將	c=1 d=3.02994e-71 t=51676
-dou mei you 	都沒有	c=2 d=4.82237e-09 t=51676
+dou ke yi 	都可以	c=1 d=1 t=47180
+dou mei you 	都沒有	c=2 d=0.000611253 t=51676
 dou shi 	都是	c=23 d=0.574078 t=51676
 dou wei 	都爲	c=1 d=1.56012e-56 t=51676
 dou xu yao 	都需要	c=3 d=2.12112e-09 t=51676
-dou yao 	都要	c=2 d=2.5572e-46 t=51676
+dou yao 	都要	c=4 d=8.71002e-05 t=51676
 dou ying gai 	都應該	c=1 d=0.273898 t=51676
 dou you 	都有	c=6 d=8.69654e-05 t=51676
 dou you suo 	都有所	c=1 d=1.23978e-58 t=51676
@@ -1259,6 +1286,7 @@ du 	毒	c=1 d=3.81101e-34 t=51676
 du 	讀	c=3 d=4.34466e-17 t=51676
 du li 	獨立	c=16 d=0.00271219 t=51676
 du li xing 	獨立性	c=1 d=2.0571e-74 t=51676
+du liang 	度量	c=1 d=1 t=48070
 du qu 	讀取	c=36 d=0.410897 t=51676
 du qu dao 	讀取到	c=1 d=6.21613e-84 t=51676
 du ru 	讀入	c=2 d=2.37746e-22 t=51676
@@ -1269,13 +1297,14 @@ du zhang 	毒瘴	c=1 d=5.80317e-40 t=51676
 duan 	斷	c=3 d=2.04639e-37 t=51676
 duan 	段	c=2 d=1.99919e-94 t=51676
 duan 	短	c=1 d=2.58378e-50 t=51676
-duan 	端	c=8 d=0.839457 t=51676
+duan 	端	c=10 d=0.839457 t=51676
 duan biao 	段表	c=1 d=1.96993e-94 t=51676
 duan dian 	斷電	c=1 d=2.03178e-46 t=51676
 duan dian 	斷點	c=3 d=5.35426e-34 t=51676
 duan dian 	端點	c=1 d=3.49856e-57 t=51676
 duan diao 	斷掉	c=1 d=2.53262e-50 t=51676
 duan hang 	斷行	c=1 d=0.00121866 t=51676
+duan hou 	斷後	c=1 d=1 t=47515
 duan kai 	斷開	c=2 d=3.7511e-12 t=51676
 duan kou 	端口	c=11 d=0.718924 t=51676
 duan kou ma 	端口嗎	c=1 d=1.78689e-35 t=51676
@@ -1311,14 +1340,14 @@ dui kang 	對抗	c=1 d=4.30889e-08 t=51676
 dui le 	對了	c=1 d=3.16132e-41 t=51676
 dui lie 	隊列	c=17 d=2.15851e-25 t=51676
 dui ma 	對嗎	c=24 d=0.895977 t=51676
-dui qi 	對齊	c=8 d=0.288875 t=51676
+dui qi 	對齊	c=9 d=0.288875 t=51676
 dui qu 	堆區	c=1 d=1.53115e-12 t=51676
 dui xiang 	對象	c=49 d=0.0593116 t=51676
 dui ying 	對影	c=1 d=2.16566e-32 t=51676
-dui ying 	對應	c=59 d=0.151123 t=51676
+dui ying 	對應	c=61 d=0.151123 t=51676
 dui ying dao 	對應到	c=1 d=0.00165327 t=51676
 dui you 	隊友	c=2 d=4.89754e-31 t=51676
-dui yu 	對於	c=27 d=0.239309 t=51676
+dui yu 	對於	c=28 d=0.239309 t=51676
 dui yu ni 	對於你	c=0 d=7.28206e-94 t=51676
 dui yu ni gai 	對於你該	c=1 d=7.31856e-93 t=51676
 dui yuan 	隊員	c=1 d=7.51582e-53 t=51676
@@ -1326,6 +1355,7 @@ dui zhao 	對照	c=1 d=7.65802e-97 t=51676
 dui zhe 	對着	c=1 d=1.82833e-40 t=51676
 dun 	盾	c=1 d=8.9146e-61 t=51676
 dun 	頓	c=1 d=2.98909e-29 t=51676
+dun hua 	鈍化	c=2 d=1.99501 t=46494
 duo 	多	c=8 d=0.0117312 t=51676
 duo ci 	多次	c=10 d=0.0642483 t=51676
 duo da 	多大	c=4 d=0.00618889 t=51676
@@ -1343,7 +1373,7 @@ duo lun 	多輪	c=1 d=1.18486e-25 t=51676
 duo mo 	多模	c=0 d=6.9775e-62 t=51676
 duo mo tai 	多模態	c=8 d=1.59668e-05 t=51676
 duo ren 	多人	c=1 d=1.46423e-45 t=51676
-duo shao 	多少	c=21 d=0.000168942 t=51676
+duo shao 	多少	c=21 d=0.00449861 t=51676
 duo shao ceng 	多少層	c=1 d=1.14255e-09 t=51676
 duo shao ming 	多少名	c=1 d=1.27871e-10 t=51676
 duo shao wei 	多少位	c=1 d=0.895834 t=51676
@@ -1386,7 +1416,7 @@ er ci 	二次	c=4 d=2.01815e-55 t=51676
 er deng 	二等	c=1 d=1.04942e-38 t=51676
 er deng jiang 	二等獎	c=3 d=8.38565e-59 t=51676
 er guo 	而過	c=1 d=6.08411e-08 t=51676
-er ji 	二級	c=1 d=1.25873e-60 t=51676
+er ji 	二級	c=2 d=0.444858 t=51676
 er ji hao 	二級號	c=1 d=3.00602e-66 t=51676
 er jin zhi 	二進制	c=13 d=0.406327 t=51676
 er lai 	而來	c=3 d=0.364219 t=51676
@@ -1404,7 +1434,7 @@ er wo 	而我	c=1 d=6.75818e-97 t=51676
 er xiang 	二項	c=1 d=7.89822e-78 t=51676
 er yan 	而言	c=2 d=6.94551e-07 t=51676
 er yuan 	二元	c=1 d=3.88456e-53 t=51676
-er zhang 	二章	c=1 d=0.0156076 t=51676
+er zhang 	二章	c=2 d=0.0241131 t=51676
 fa 	法	c=7 d=3.11107e-39 t=51676
 fa 	發	c=9 d=0.00172074 t=51676
 fa biao 	發表	c=7 d=1.3915e-72 t=51676
@@ -1413,10 +1443,11 @@ fa bu 	發佈	c=10 d=1.93605 t=51676
 fa bu dao 	發不到	c=1 d=0.379083 t=51676
 fa chu 	發出	c=10 d=3.90052e-06 t=51676
 fa de 	發的	c=2 d=5.87547e-68 t=51676
+fa dian 	發電	c=0 d=0.1 t=48387
 fa gei 	發給	c=1 d=2.2439e-14 t=51676
 fa gei ni 	發給你	c=2 d=3.60326e-51 t=51676
 fa gei o 	發給哦	c=1 d=2.69656e-82 t=51676
-fa gei wo 	發給我	c=10 d=5.65129e-43 t=51676
+fa gei wo 	發給我	c=11 d=0.000281606 t=51676
 fa gen 	髮根	c=1 d=4.74946e-65 t=51676
 fa hui 	發揮	c=2 d=1.30725e-05 t=51676
 fa lai 	發來	c=1 d=2.70234e-19 t=51676
@@ -1436,9 +1467,9 @@ fa si 	髮絲	c=2 d=7.80356e-65 t=51676
 fa song 	發送	c=26 d=0.932394 t=51676
 fa song gei 	發送給	c=4 d=0.532491 t=51676
 fa song ni 	發送你	c=1 d=1.82895e-44 t=51676
-fa wo 	發我	c=6 d=0.0186681 t=51676
+fa wo 	發我	c=7 d=0.0186681 t=51676
 fa xian 	發現	c=22 d=0.449329 t=51676
-fa xing ban 	發行版	c=3 d=5.82953e-82 t=51676
+fa xing ban 	發行版	c=4 d=5.81541e-06 t=51676
 fa zhan 	發展	c=3 d=0.000254974 t=51676
 fan 	反	c=1 d=3.1596e-64 t=51676
 fan 	泛	c=2 d=1.39856e-64 t=51676
@@ -1448,7 +1479,8 @@ fan er 	反而	c=1 d=7.08777e-69 t=51676
 fan fu 	反復	c=0 d=5.16554e-54 t=51676
 fan guang 	泛光	c=1 d=3.96291e-82 t=51676
 fan guo lai 	反過來	c=1 d=4.34895e-58 t=51676
-fan hui 	返回	c=55 d=0.369354 t=51676
+fan hui 	返回	c=56 d=0.369354 t=51676
+fan hui dao 	返回到	c=1 d=1 t=48273
 fan hui de 	返回的	c=3 d=0.00458484 t=51676
 fan hui qi 	返回其	c=1 d=0.00366107 t=51676
 fan hui zhi 	返回值	c=8 d=4.48398e-06 t=51676
@@ -1458,7 +1490,7 @@ fan mian 	反面	c=1 d=2.76012e-62 t=51676
 fan ren lei 	反人類	c=1 d=2.60071e-68 t=51676
 fan shi 	凡是	c=11 d=0.146607 t=51676
 fan shi 	範式	c=2 d=5.44462e-25 t=51676
-fan ti 	繁體	c=1 d=0.404542 t=51676
+fan ti 	繁體	c=4 d=0.404542 t=51676
 fan tui 	反推	c=2 d=1.07264e-42 t=51676
 fan wei 	範圍	c=5 d=1.64134e-06 t=51676
 fan wei nei 	範圍內	c=1 d=4.63486e-13 t=51676
@@ -1467,14 +1499,14 @@ fan wen 	範文	c=1 d=3.49558e-47 t=51676
 fan xiang 	反向	c=5 d=0.115256 t=51676
 fan xu lie hua 	反序列化	c=1 d=1.18809e-57 t=51676
 fan yi 	翻譯	c=48 d=2.03708 t=51676
-fan yi wei 	翻譯爲	c=4 d=5.76048e-12 t=51676
-fan ying 	反應	c=7 d=0.778801 t=51676
+fan yi wei 	翻譯爲	c=9 d=0.134823 t=51676
+fan ying 	反應	c=8 d=0.778801 t=51676
 fan zheng 	反正	c=1 d=8.27073e-32 t=51676
 fan zhuan 	反轉	c=4 d=0.0599047 t=51676
 fan zuo bi 	反作弊	c=1 d=5.20593e-27 t=51676
-fang 	仿	c=3 d=0.000113922 t=51676
+fang 	仿	c=4 d=0.499074 t=51676
 fang 	房	c=7 d=3.11488e-15 t=51676
-fang 	放	c=11 d=0.405838 t=51676
+fang 	放	c=13 d=1.06658 t=51676
 fang 	方	c=2 d=3.29604e-32 t=51676
 fang 	芳	c=2 d=1.41118e-52 t=51676
 fang an 	方案	c=41 d=0.694579 t=51676
@@ -1488,9 +1520,10 @@ fang da dao 	放大到	c=1 d=3.35555e-66 t=51676
 fang dao 	放到	c=9 d=0.0212797 t=51676
 fang diao 	放掉	c=1 d=2.45484e-36 t=51676
 fang fa 	方法	c=56 d=0.603576 t=51676
+fang huo qiang 	防火牆	c=1 d=1 t=46400
 fang jian 	房間	c=2 d=7.35721e-08 t=51676
 fang jin 	放進	c=1 d=5.32393e-26 t=51676
-fang kong 	防空	c=9 d=0.270302 t=51676
+fang kong 	防空	c=11 d=0.889994 t=51676
 fang kuang 	方框	c=3 d=2.52834e-42 t=51676
 fang kuo hao 	方括號	c=1 d=1.10307e-07 t=51676
 fang mian 	方面	c=24 d=1.21328 t=51676
@@ -1503,6 +1536,8 @@ fang xia 	放下	c=1 d=2.36132e-79 t=51676
 fang xiang 	方向	c=27 d=0.13012 t=51676
 fang xiang jian 	方向鍵	c=1 d=3.04325e-05 t=51676
 fang xiang shang 	方向上	c=1 d=7.84146e-52 t=51676
+fang xin 	放心	c=1 d=1 t=48404
+fang xing 	放行	c=2 d=1.97045 t=46407
 fang yi 	防疫	c=1 d=0.000997758 t=51676
 fang yu 	防禦	c=0 d=1.10762e-27 t=51676
 fang yu ta 	防禦它	c=1 d=1.11317e-26 t=51676
@@ -1513,7 +1548,7 @@ fang zhi 	放置	c=1 d=4.74315e-20 t=51676
 fang zhi 	防止	c=7 d=7.17556e-08 t=51676
 fang zi 	房子	c=1 d=2.0154e-39 t=51676
 fei 	肥	c=1 d=0.0110536 t=51676
-fei 	非	c=11 d=0.733462 t=51676
+fei 	非	c=13 d=0.733462 t=51676
 fei 	飛	c=1 d=2.28608e-51 t=51676
 fei bi 	菲比	c=5 d=1.58819e-07 t=51676
 fei bi 	非比	c=1 d=6.74232e-40 t=51676
@@ -1537,6 +1572,7 @@ fei ma 	費馬	c=1 d=1.10661e-74 t=51676
 fei nie er 	菲涅爾	c=2 d=2.77708e-67 t=51676
 fei qiang zhi 	非強制	c=1 d=8.69922e-38 t=51676
 fei wu 	廢物	c=1 d=8.72146e-68 t=51676
+fei xing 	飛行	c=1 d=1 t=48266
 fei xue 	緋雪	c=3 d=0.0555762 t=51676
 fei xue 	飛雪	c=1 d=3.87124e-42 t=51676
 fei yao 	非要	c=1 d=1.16881e-41 t=51676
@@ -1544,7 +1580,7 @@ fei yong 	費用	c=1 d=2.13552e-73 t=51676
 fei yu qi 	非預期	c=1 d=0.00444934 t=51676
 fei zu se 	非阻塞	c=5 d=8.06418e-84 t=51676
 fen 	份	c=0 d=0.000379148 t=51676
-fen 	分	c=15 d=1.46527e-05 t=51676
+fen 	分	c=15 d=0.00377257 t=51676
 fen 	芬	c=0 d=4.95641e-09 t=51676
 fen bei 	分貝	c=1 d=7.69454e-06 t=51676
 fen bian 	分辨	c=2 d=3.12523e-43 t=51676
@@ -1562,7 +1598,7 @@ fen dai 	分代	c=1 d=0.0294518 t=51676
 fen dou 	奮鬥	c=1 d=1.22307e-16 t=51676
 fen duan 	分段	c=2 d=1.62539e-66 t=51676
 fen fa 	分發	c=2 d=6.96185e-64 t=51676
-fen ge 	分割	c=22 d=0.176534 t=51676
+fen ge 	分割	c=27 d=1.05762 t=51676
 fen ge 	分隔	c=7 d=5.17291e-11 t=51676
 fen ge hou 	分隔後	c=1 d=3.58335e-74 t=51676
 fen hao 	分號	c=6 d=0.10435 t=51676
@@ -1612,7 +1648,7 @@ feng yuan 	風源	c=1 d=4.56323e-65 t=51676
 feng zhuang 	封裝	c=12 d=0.0232837 t=51676
 fou 	否	c=1 d=0.25924 t=51676
 fou ze 	否則	c=1 d=0.110251 t=51676
-fu 	副	c=1 d=0.219808 t=51676
+fu 	副	c=2 d=0.470011 t=51676
 fu 	弗	c=2 d=1.69767e-50 t=51676
 fu 	父	c=4 d=1.09092e-08 t=51676
 fu 	符	c=7 d=0.532592 t=51676
@@ -1633,12 +1669,12 @@ fu he 	符合	c=9 d=0.000154549 t=51676
 fu he 	複合	c=1 d=3.71161e-76 t=51676
 fu he gong 	複合弓	c=2 d=6.19587e-38 t=51676
 fu hua 	孵化	c=1 d=3.9981e-39 t=51676
-fu huo 	復活	c=7 d=3.67684e-34 t=51676
+fu huo 	復活	c=8 d=0.000239969 t=51676
 fu huo jie 	復活節	c=1 d=5.56804e-24 t=51676
 fu jian 	附件	c=1 d=2.61935e-05 t=51676
 fu jiao shou 	副教授	c=1 d=3.36596e-73 t=51676
 fu jie dian 	父節點	c=1 d=9.21958e-45 t=51676
-fu jin 	附近	c=8 d=7.32052e-08 t=51676
+fu jin 	附近	c=9 d=0.171187 t=51676
 fu lei 	父類	c=3 d=1.89146e-57 t=51676
 fu li ye 	傅里葉	c=1 d=1.10951e-46 t=51676
 fu luo 	弗洛	c=1 d=1.6892e-50 t=51676
@@ -1655,10 +1691,10 @@ fu shi xian 	複試線	c=1 d=3.19798e-59 t=51676
 fu shu 	負數	c=1 d=2.31149e-34 t=51676
 fu wu 	服務	c=31 d=0.774916 t=51676
 fu wu de 	服務的	c=1 d=2.47093e-54 t=51676
-fu wu duan 	服務端	c=12 d=0.717675 t=51676
+fu wu duan 	服務端	c=14 d=0.717675 t=51676
 fu wu qi 	服務器	c=43 d=0.254107 t=51676
 fu xi 	復習	c=1 d=0.000934966 t=51676
-fu xian 	復現	c=3 d=1.62758e-24 t=51676
+fu xian 	復現	c=5 d=0.00556878 t=51676
 fu yin 	複印	c=1 d=7.45165e-11 t=51676
 fu yin jian 	複印件	c=1 d=5.59386e-49 t=51676
 fu yong 	復用	c=11 d=0.00990218 t=51676
@@ -1668,7 +1704,7 @@ fu yuan 	復原	c=1 d=9.42085e-05 t=51676
 fu za 	複雜	c=1 d=6.95357e-50 t=51676
 fu za du 	複雜度	c=24 d=6.95305e-12 t=51676
 fu zai 	負載	c=3 d=9.39623e-33 t=51676
-fu ze 	負責	c=14 d=0.0548337 t=51676
+fu ze 	負責	c=14 d=0.666977 t=51676
 fu ze ren 	負責人	c=0 d=1.92436e-55 t=51676
 fu ze ren er ni 	負責人而你	c=1 d=1.93401e-54 t=51676
 fu zhi 	複製	c=13 d=0.891894 t=51676
@@ -1679,7 +1715,7 @@ fu zhi gei 	賦值給	c=1 d=2.49627e-27 t=51676
 fu zhu 	輔助	c=9 d=1.07047e-07 t=51676
 fu zhu xia 	輔助下	c=1 d=5.6865e-07 t=51676
 gai 	改	c=9 d=0.00565622 t=51676
-gai 	該	c=205 d=1.01753 t=51676
+gai 	該	c=205 d=1.60674 t=51676
 gai bian 	改變	c=34 d=3.95386 t=51676
 gai bian la 	改變啦	c=1 d=3.12009e-63 t=51676
 gai biao 	該表	c=1 d=3.15681e-83 t=51676
@@ -1694,7 +1730,7 @@ gai gai 	改改	c=1 d=4.67557e-57 t=51676
 gai gen 	該跟	c=1 d=2.20663e-76 t=51676
 gai guo lai 	改過來	c=1 d=8.64112e-18 t=51676
 gai jiao ben 	該腳本	c=3 d=0.163654 t=51676
-gai jin 	改進	c=3 d=8.30202e-47 t=51676
+gai jin 	改進	c=5 d=0.0276007 t=51676
 gai kan yi xia 	該看一下	c=1 d=4.42535e-57 t=51676
 gai lian jie 	該鏈接	c=1 d=2.02468e-93 t=51676
 gai lv 	概率	c=13 d=2.79264e-24 t=51676
@@ -1708,7 +1744,7 @@ gai ruan jian 	該軟件	c=2 d=1.56101e-31 t=51676
 gai shi yong 	該使用	c=1 d=1.05453e-07 t=51676
 gai shu 	概述	c=1 d=3.5969e-89 t=51676
 gai shu xing 	該屬性	c=1 d=2.12929e-68 t=51676
-gai tu 	該圖	c=2 d=9.59288e-12 t=51676
+gai tu 	該圖	c=9 d=0.128175 t=51676
 gai tu shi 	該圖時	c=1 d=7.21498e-43 t=51676
 gai wai 	該外	c=1 d=4.05727e-06 t=51676
 gai wei 	改爲	c=17 d=0.0658767 t=51676
@@ -1735,7 +1771,7 @@ gan jing 	乾淨	c=1 d=0.00778933 t=51676
 gan jue 	感覺	c=5 d=5.83244e-11 t=51676
 gan jue shi 	感覺是	c=1 d=7.71027e-30 t=51676
 gan le 	幹了	c=1 d=2.02971e-34 t=51676
-gan ma 	幹嘛	c=2 d=1.18155e-39 t=51676
+gan ma 	幹嘛	c=3 d=0.0930145 t=51676
 gan ma ne 	幹嘛呢	c=1 d=1.90165e-32 t=51676
 gan rao 	干擾	c=3 d=7.58127e-08 t=51676
 gan shen me 	幹什麼	c=30 d=0.840036 t=51676
@@ -1757,7 +1793,7 @@ gang wei ba 	崗位吧	c=1 d=3.40279e-54 t=51676
 gang xing 	剛性	c=1 d=3.86914e-65 t=51676
 gao 	搞	c=5 d=9.61117e-05 t=51676
 gao 	稿	c=2 d=4.21122e-40 t=51676
-gao 	高	c=7 d=1.64558e-08 t=51676
+gao 	高	c=8 d=0.000696112 t=51676
 gao bu qing 	搞不清	c=1 d=1.18426e-19 t=51676
 gao cha 	高差	c=1 d=4.31462e-53 t=51676
 gao da shang 	高大上	c=1 d=5.99723e-74 t=51676
@@ -1773,7 +1809,7 @@ gao jing du 	高精度	c=3 d=1.07447e-12 t=51676
 gao liang 	高亮	c=6 d=0.0141025 t=51676
 gao mo 	高模	c=3 d=4.09944e-10 t=51676
 gao pin 	高頻	c=2 d=1.24413e-11 t=51676
-gao qing 	高清	c=4 d=2.07778e-42 t=51676
+gao qing 	高清	c=6 d=0.0286072 t=51676
 gao qing chu 	搞清楚	c=1 d=2.58739e-37 t=51676
 gao quan xian 	高權限	c=2 d=3.40118e-07 t=51676
 gao san 	高三	c=2 d=6.26286e-78 t=51676
@@ -1800,38 +1836,42 @@ ge bian liang 	各變量	c=1 d=6.74461e-44 t=51676
 ge bu fen 	各部分	c=1 d=1.67958e-71 t=51676
 ge da 	各大	c=1 d=2.92274e-59 t=51676
 ge duan 	各段	c=1 d=2.02992e-94 t=51676
-ge ge 	各個	c=15 d=2.41282e-08 t=51676
+ge ge 	各個	c=15 d=0.136014 t=51676
+ge ji 	各級	c=1 d=1 t=46500
+ge jia 	各家	c=1 d=1 t=47112
 ge jie dian 	各節點	c=1 d=1.88921e-43 t=51676
 ge kai 	隔開	c=1 d=0.324652 t=51676
 ge ke 	各科	c=2 d=1.06361e-78 t=51676
 ge li 	隔離	c=4 d=1.82499e-88 t=51676
 ge mang 	各忙	c=1 d=5.27169e-57 t=51676
 ge ming 	革命	c=0 d=5.21923e-58 t=51676
-ge na 	擱那	c=1 d=2.4872e-43 t=51676
+ge na 	擱那	c=2 d=0.000547581 t=51676
 ge qu 	歌曲	c=13 d=1.78704e-86 t=51676
 ge ren 	個人	c=15 d=0.823109 t=51676
 ge ren jian li 	個人簡歷	c=1 d=3.43395e-73 t=51676
-ge shi 	格式	c=52 d=0.232341 t=51676
+ge shi 	格式	c=57 d=0.326208 t=51676
 ge shi de 	格式的	c=1 d=8.03971e-81 t=51676
-ge shi hua 	格式化	c=9 d=2.56127e-05 t=51676
-ge shu 	個數	c=5 d=2.0923e-09 t=51676
+ge shi hua 	格式化	c=12 d=0.00125096 t=51676
+ge shu 	個數	c=6 d=5.77146e-05 t=51676
 ge shu 	各數	c=0 d=8.51364e-50 t=51676
 ge shu zi 	個數字	c=1 d=7.36449e-49 t=51676
 ge shu zi 	各數字	c=1 d=8.55631e-49 t=51676
 ge suan fa 	各算法	c=1 d=0.000930303 t=51676
 ge xiao 	各校	c=1 d=5.45853e-55 t=51676
 ge xing hua 	個性化	c=1 d=7.76211e-50 t=51676
+ge zhang 	各章	c=1 d=1 t=46784
 ge zhong 	各種	c=16 d=0.546074 t=51676
 ge zi 	各自	c=5 d=0.0129746 t=51676
 gei 	給	c=30 d=0.937452 t=51676
-gei chu 	給出	c=101 d=0.450399 t=51676
+gei chu 	給出	c=108 d=0.450399 t=51676
+gei chu me 	給出麼	c=1 d=1 t=47976
 gei chu nu 	給出努	c=1 d=4.3928e-29 t=51676
 gei chu yi ge 	給出一個	c=1 d=4.05205e-79 t=51676
 gei cu 	給粗	c=1 d=8.07313e-71 t=51676
 gei de 	給得	c=1 d=1.15e-56 t=51676
 gei ding 	給定	c=3 d=6.14956e-24 t=51676
 gei lie 	給列	c=1 d=3.14984e-57 t=51676
-gei ni 	給你	c=2 d=1.0979e-40 t=51676
+gei ni 	給你	c=3 d=0.0277367 t=51676
 gei ta 	給他	c=1 d=0.00257991 t=51676
 gei wo 	給我	c=20 d=0.0724398 t=51676
 gei yi ge 	給一個	c=1 d=2.23503e-50 t=51676
@@ -1839,8 +1879,8 @@ gen 	根	c=0 d=6.36307e-07 t=51676
 gen 	跟	c=17 d=0.000558643 t=51676
 gen ben 	根本	c=4 d=8.12656e-31 t=51676
 gen fen qu 	根分區	c=1 d=6.39496e-06 t=51676
-gen ju 	根據	c=33 d=0.172793 t=51676
-gen mu lu 	根目錄	c=7 d=0.00106747 t=51676
+gen ju 	根據	c=33 d=0.543927 t=51676
+gen mu lu 	根目錄	c=8 d=0.00106747 t=51676
 gen shou 	跟手	c=1 d=7.5227e-05 t=51676
 gen sui 	跟隨	c=2 d=1.61158e-26 t=51676
 gen wo lai 	跟我來	c=1 d=1.04959e-40 t=51676
@@ -1871,11 +1911,12 @@ geng xin 	更新	c=42 d=0.993632 t=51676
 geng xing 	更姓	c=4 d=0.00591656 t=51676
 geng you 	更優	c=1 d=3.28642e-27 t=51676
 gong 	供	c=2 d=2.22373e-63 t=51676
-gong 	共	c=5 d=0.0203434 t=51676
+gong 	共	c=6 d=0.0203434 t=51676
 gong 	功	c=3 d=1.63706e-39 t=51676
 gong 	工	c=1 d=3.5198e-40 t=51676
 gong 	弓	c=1 d=1.92639e-37 t=51676
 gong bei shu 	公倍數	c=1 d=3.84015e-06 t=51676
+gong ce 	公測	c=2 d=1.87372 t=47071
 gong chan dang 	共產黨	c=1 d=0.000120966 t=51676
 gong chang 	工廠	c=2 d=6.42114e-17 t=51676
 gong cheng 	工程	c=27 d=0.148072 t=51676
@@ -1903,7 +1944,7 @@ gong ping 	公平	c=1 d=1.25403e-16 t=51676
 gong qing tuan yuan 	共青團員	c=1 d=9.05608e-11 t=51676
 gong ren 	工人	c=10 d=9.59199e-17 t=51676
 gong sheng 	共生	c=0 d=1.36389e-05 t=51676
-gong shi 	公式	c=20 d=0.251584 t=51676
+gong shi 	公式	c=20 d=0.305622 t=51676
 gong si 	公司	c=10 d=0.946485 t=51676
 gong tong 	共同	c=1 d=1.593e-66 t=51676
 gong tong fu yu 	共同富裕	c=1 d=0.000135032 t=51676
@@ -1918,6 +1959,7 @@ gong ying shang 	供應商	c=2 d=3.55342e-43 t=51676
 gong yong 	共用	c=1 d=0.00427488 t=51676
 gong zuo 	工作	c=37 d=0.985112 t=51676
 gong zuo liu 	工作流	c=9 d=4.726e-42 t=51676
+gong zuo liu cheng 	工作流程	c=1 d=1 t=46772
 gong zuo qu 	工作區	c=3 d=1.91527e-92 t=51676
 gong zuo shi 	工作時	c=2 d=1.19499e-07 t=51676
 gong zuo zhong 	工作中	c=1 d=1.50938e-20 t=51676
@@ -1940,7 +1982,7 @@ gu cheng 	古城	c=1 d=1.04834e-26 t=51676
 gu ding 	固定	c=19 d=0.0480747 t=51676
 gu ding de 	固定的	c=1 d=1.09473e-06 t=51676
 gu er 	孤兒	c=2 d=2.15353e-17 t=51676
-gu ge 	穀歌	c=2 d=1.07712e-21 t=51676
+gu ge 	穀歌	c=3 d=0.00013845 t=51676
 gu ge 	骨骼	c=7 d=7.72297e-10 t=51676
 gu ji 	估計	c=1 d=8.61972e-77 t=51676
 gu jian 	固件	c=5 d=2.59041e-30 t=51676
@@ -1962,8 +2004,8 @@ gua shi 	掛飾	c=1 d=1.57259e-32 t=51676
 gua zai 	掛載	c=14 d=2.32994 t=51676
 gua zai dao 	掛載到	c=5 d=3.36321e-05 t=51676
 gua zai dian 	掛載點	c=3 d=2.59907e-08 t=51676
-guai 	怪	c=3 d=2.34716e-36 t=51676
-guan 	管	c=1 d=0.0338776 t=51676
+guai 	怪	c=4 d=0.0953692 t=51676
+guan 	管	c=2 d=0.438235 t=51676
 guan 	關	c=5 d=0.0332068 t=51676
 guan bi 	關閉	c=29 d=1.05335 t=51676
 guan bi hou 	關閉後	c=2 d=1.99745e-22 t=51676
@@ -1999,6 +2041,7 @@ guan zhu 	關注	c=3 d=0.00161245 t=51676
 guang 	光	c=6 d=7.32916e-42 t=51676
 guang bai 	光白	c=1 d=0.2334 t=51676
 guang biao 	光標	c=13 d=1.30864 t=51676
+guang de fan she 	光的反射	c=1 d=1 t=48105
 guang dong 	廣東	c=1 d=1.14824e-38 t=51676
 guang fan 	廣泛	c=1 d=5.96122e-62 t=51676
 guang hua 	光滑	c=7 d=4.57232e-51 t=51676
@@ -2014,7 +2057,7 @@ guang zhui 	光追	c=1 d=3.22837e-82 t=51676
 gui 	貴	c=1 d=4.58796e-11 t=51676
 gui bing 	歸併	c=2 d=3.89832e-81 t=51676
 gui dang 	歸檔	c=1 d=7.16435e-19 t=51676
-gui fan 	規範	c=7 d=0.00246649 t=51676
+gui fan 	規範	c=8 d=0.00246649 t=51676
 gui gong si 	貴公司	c=1 d=0.00180897 t=51676
 gui hua 	規劃	c=4 d=1.63371e-10 t=51676
 gui lei 	歸類	c=1 d=1.64273e-16 t=51676
@@ -2023,7 +2066,7 @@ gui lv 	規律	c=3 d=2.19115e-52 t=51676
 gui shu 	歸屬	c=1 d=2.19451e-70 t=51676
 gui xia 	跪下	c=1 d=0.634448 t=51676
 gui ze 	規則	c=34 d=0.709737 t=51676
-gun 	滾	c=1 d=1.05306e-20 t=51676
+gun 	滾	c=2 d=7.54217e-06 t=51676
 gun chu qu 	滾出去	c=1 d=2.28057e-52 t=51676
 gun dong 	滾動	c=2 d=1.29611e-18 t=51676
 gun dong tiao 	滾動條	c=3 d=7.34821e-23 t=51676
@@ -2034,7 +2077,7 @@ guo biao 	國標	c=5 d=2.69081e-43 t=51676
 guo bu liao 	過不了	c=1 d=0.423162 t=51676
 guo chang 	過長	c=2 d=7.61359e-58 t=51676
 guo chen 	過陳	c=1 d=1.9796e-34 t=51676
-guo cheng 	過程	c=33 d=0.00410726 t=51676
+guo cheng 	過程	c=34 d=0.00410726 t=51676
 guo cheng zhong 	過程中	c=6 d=0.0221482 t=51676
 guo da 	過大	c=1 d=2.20738e-80 t=51676
 guo du 	過度	c=1 d=4.64829e-47 t=51676
@@ -2049,6 +2092,7 @@ guo lv chu 	過濾出	c=1 d=3.62206e-24 t=51676
 guo mi 	國密	c=5 d=3.88324e-49 t=51676
 guo mi 	國米	c=1 d=6.87362e-61 t=51676
 guo nei 	國內	c=7 d=0.0822835 t=51676
+guo nei wai 	國內外	c=2 d=1.02075 t=47574
 guo nei yuan 	國內源	c=1 d=0.826959 t=51676
 guo ni he 	過擬合	c=1 d=2.64866e-77 t=51676
 guo qi 	國企	c=1 d=2.17045e-58 t=51676
@@ -2056,12 +2100,12 @@ guo qi 	國旗	c=1 d=1.06618e-48 t=51676
 guo qi 	過期	c=1 d=2.79413e-59 t=51676
 guo qu 	過去	c=6 d=0.70822 t=51676
 guo ti 	國體	c=2 d=5.93121e-52 t=51676
-guo wai 	國外	c=2 d=1.99393e-60 t=51676
+guo wai 	國外	c=3 d=0.00379148 t=51676
 guo yu 	過於	c=6 d=1.35055e-06 t=51676
 guo yu da 	過於打	c=1 d=1.72268e-75 t=51676
 ha 	哈	c=2 d=4.66777e-08 t=51676
 ha ha 	哈哈	c=1 d=4.62132e-08 t=51676
-ha ha ha 	哈哈哈	c=1 d=1.21341e-11 t=51676
+ha ha ha 	哈哈哈	c=1 d=0.551563 t=51676
 ha ha ha ha 	哈哈哈哈	c=1 d=1.60076e-35 t=51676
 ha xi 	哈希	c=17 d=1.13999e-12 t=51676
 ha xi biao 	哈希表	c=7 d=0.902147 t=51676
@@ -2094,7 +2138,7 @@ hai xiang 	還想	c=1 d=3.55034e-24 t=51676
 hai xing 	還行	c=2 d=4.31389e-51 t=51676
 hai xu bu xu yao 	還需不需要	c=1 d=4.23653e-44 t=51676
 hai xu yao 	還需要	c=3 d=0.0153355 t=51676
-hai yao 	還要	c=4 d=1.71449e-19 t=51676
+hai yao 	還要	c=5 d=0.644036 t=51676
 hai yi ou 	還一漚	c=1 d=9.87998e-06 t=51676
 hai yi wei 	還以爲	c=1 d=1.20625e-59 t=51676
 hai you 	還有	c=36 d=0.970446 t=51676
@@ -2102,7 +2146,7 @@ hai you dian 	還有點	c=1 d=1.99488e-95 t=51676
 hai you mei 	還有沒	c=1 d=1.76851e-31 t=51676
 hai you mei you 	還有沒有	c=1 d=2.46975e-19 t=51676
 hai you xie 	還有些	c=1 d=1.21106e-47 t=51676
-hai zai 	還在	c=2 d=3.8001e-29 t=51676
+hai zai 	還在	c=3 d=1.44473e-05 t=51676
 han 	寒	c=6 d=1.14571e-41 t=51676
 han 	汗	c=0 d=5.40037e-77 t=51676
 han 	漢	c=7 d=1.04178e-10 t=51676
@@ -2113,11 +2157,12 @@ han hui su 	汗回溯	c=1 d=5.42744e-76 t=51676
 han ming 	漢名	c=2 d=1.3523e-75 t=51676
 han ming ju li 	漢明距離	c=1 d=1.07277e-91 t=51676
 han shi 	韓式	c=1 d=3.14652e-74 t=51676
-han shu 	函數	c=136 d=0.726331 t=51676
+han shu 	函數	c=149 d=3.36552 t=51676
 han yi 	含義	c=4 d=5.25674e-47 t=51676
 han zi 	漢字	c=10 d=0.1417 t=51676
-hang 	行	c=12 d=0.000997758 t=51676
+hang 	行	c=12 d=0.135704 t=51676
 hang gao 	行高	c=1 d=2.03358e-27 t=51676
+hang hao 	行號	c=2 d=1.98511 t=48677
 hang jian 	行間	c=1 d=6.57676e-71 t=51676
 hang kong 	航空	c=1 d=1.67296e-54 t=51676
 hang lie shi 	行列式	c=1 d=6.94979e-73 t=51676
@@ -2127,7 +2172,7 @@ hang xiang liang 	行向量	c=1 d=1.04202e-43 t=51676
 hao 	好	c=43 d=0.744093 t=51676
 hao 	皓	c=1 d=6.47926e-13 t=51676
 hao 	耗	c=4 d=2.01909e-89 t=51676
-hao 	號	c=10 d=3.32859e-14 t=51676
+hao 	號	c=11 d=0.0526021 t=51676
 hao ba 	好吧	c=2 d=5.26289e-08 t=51676
 hao chang 	好長	c=1 d=1.4607e-46 t=51676
 hao chu 	好處	c=1 d=2.2143e-58 t=51676
@@ -2171,7 +2216,7 @@ he 	和	c=291 d=2.84841 t=51676
 he 	盒	c=2 d=3.24962e-53 t=51676
 he 	鶴	c=1 d=1.13019e-28 t=51676
 he bing 	合並	c=9 d=2.35587 t=51676
-he cheng 	合成	c=2 d=7.34677e-41 t=51676
+he cheng 	合成	c=3 d=5.13208e-06 t=51676
 he chu 	何處	c=1 d=2.27824e-40 t=51676
 he dan 	核彈	c=1 d=0.0106734 t=51676
 he fa xing 	合法性	c=2 d=3.98723e-07 t=51676
@@ -2179,11 +2224,12 @@ he ge 	合格	c=1 d=3.36721e-48 t=51676
 he hu yan 	和胡言	c=1 d=2.73414e-39 t=51676
 he lan 	荷蘭	c=1 d=1.06086e-48 t=51676
 he li 	合理	c=4 d=0.00272578 t=51676
+he li lo 	合理咯	c=1 d=1 t=47882
 he li xing 	合理性	c=2 d=9.04045e-49 t=51676
 he lo 	和咯	c=-1 d=0 t=51676
 he shi 	何時	c=1 d=9.8441e-22 t=51676
 he shi 	合適	c=12 d=1.0423 t=51676
-he si 	赫斯	c=0 d=0.1 t=51673
+he si 	赫斯	c=0 d=0.0985112 t=51676
 he wo shuo 	和我說	c=1 d=5.43223e-57 t=51676
 he xi 	河西	c=1 d=8.52842e-40 t=51676
 he xie 	和諧	c=0 d=1.36389e-05 t=51676
@@ -2194,6 +2240,8 @@ he yue 	合約	c=1 d=3.84317e-74 t=51676
 he zuo 	合作	c=1 d=4.85134e-50 t=51676
 hei 	黑	c=5 d=1.6163e-32 t=51676
 hei an 	黑暗	c=1 d=5.54026e-24 t=51676
+hei bai 	黑白	c=1 d=1 t=48315
+hei bei 	黑背	c=1 d=1 t=48319
 hei cai shen 	黑財神	c=1 d=3.06789e-41 t=51676
 hei chuang kou 	黑窗口	c=1 d=1.6244e-31 t=51676
 hei kuang 	黑框	c=1 d=5.99353e-08 t=51676
@@ -2257,11 +2305,13 @@ hou xuan 	候選	c=2 d=9.62754e-25 t=51676
 hou xuan kuang 	候選框	c=9 d=1.17451e-10 t=51676
 hou yao 	後搖	c=2 d=2.40032e-52 t=51676
 hou zhe 	後者	c=1 d=1.42028e-10 t=51676
-hou zhui 	後綴	c=10 d=4.93101e-19 t=51676
+hou zhui 	後綴	c=11 d=0.396531 t=51676
 hou zou 	後走	c=1 d=7.87968e-21 t=51676
 hu 	胡	c=1 d=2.22358e-19 t=51676
 hu chi 	互斥	c=1 d=8.97637e-54 t=51676
 hu chu 	呼出	c=2 d=9.46969e-07 t=51676
+hu die 	蝴蝶	c=0 d=0.1 t=48589
+hu die dao 	蝴蝶到	c=1 d=1 t=48590
 hu duan 	護短	c=0 d=8.02929e-08 t=51676
 hu lian 	互聯	c=2 d=0.32628 t=51676
 hu lian wang 	互聯網	c=9 d=1.97758e-22 t=51676
@@ -2274,7 +2324,7 @@ hua 	化	c=12 d=1.04779e-05 t=51676
 hua 	畫	c=4 d=0.143704 t=51676
 hua 	花	c=1 d=0.000162866 t=51676
 hua 	華	c=2 d=3.91026e-42 t=51676
-hua 	話	c=18 d=0.478866 t=51676
+hua 	話	c=20 d=0.478866 t=51676
 hua chu 	畫出	c=1 d=1.24727e-70 t=51676
 hua dong 	滑動	c=2 d=2.86057e-12 t=51676
 hua er 	花兒	c=1 d=6.67388e-67 t=51676
@@ -2298,6 +2348,7 @@ huan 	換	c=5 d=3.09086e-32 t=51676
 huan 	環	c=2 d=3.63933e-51 t=51676
 huan chong qu 	緩衝區	c=1 d=1.89301e-96 t=51676
 huan cun 	緩存	c=5 d=0.628135 t=51676
+huan dao 	換到	c=1 d=1 t=46416
 huan gong yao 	環公鑰	c=1 d=1.06267e-68 t=51676
 huan hang 	換行	c=13 d=0.0218712 t=51676
 huan huan xiang kou 	環環相扣	c=1 d=6.44564e-40 t=51676
@@ -2309,7 +2360,7 @@ huan qu 	喚取	c=9 d=2.13649e-92 t=51676
 huan ran yi xin 	煥然一新	c=1 d=6.25514e-40 t=51676
 huan wei 	換爲	c=2 d=3.91972e-12 t=51676
 huan wo 	還我	c=1 d=2.08939e-22 t=51676
-huan xing 	環形	c=1 d=5.62956e-65 t=51676
+huan xing 	環形	c=2 d=0.00118858 t=51676
 huan yao yong bao 	環腰擁抱	c=1 d=3.47933e-51 t=51676
 huan you 	還有	c=1 d=3.77321e-05 t=51676
 huan yuan 	還原	c=7 d=2.08409e-08 t=51676
@@ -2334,13 +2385,14 @@ hui biao 	回表	c=5 d=0.667754 t=51676
 hui bu hui 	會不會	c=4 d=2.57174e-39 t=51676
 hui chen 	灰塵	c=1 d=3.55011e-82 t=51676
 hui chu 	會出	c=1 d=3.71956e-13 t=51676
-hui da 	回答	c=15 d=1.33919 t=51676
+hui da 	回答	c=16 d=1.33919 t=51676
 hui diao 	回調	c=4 d=1.5996e-86 t=51676
 hui du 	灰度	c=2 d=1.52556e-73 t=51676
 hui fa sheng 	會發生	c=1 d=6.05377e-08 t=51676
 hui fu 	回復	c=4 d=0.546837 t=51676
 hui fu 	恢復	c=13 d=0.000455097 t=51676
 hui gei ni 	會給你	c=0 d=2.635e-76 t=51676
+hui gu 	回顧	c=1 d=1 t=47707
 hui gun 	回滾	c=2 d=0.00315111 t=51676
 hui he 	回合	c=1 d=1.37535e-73 t=51676
 hui hua 	會話	c=5 d=0.502466 t=51676
@@ -2355,7 +2407,7 @@ hui shi 	會使	c=1 d=6.66253e-47 t=51676
 hui shou 	回收	c=2 d=0.0295994 t=51676
 hui shou shi 	回收時	c=1 d=1.57339e-38 t=51676
 hui su 	回溯	c=0 d=5.40037e-77 t=51676
-hui tu 	繪圖	c=29 d=0.00746686 t=51676
+hui tu 	繪圖	c=29 d=0.0907087 t=51676
 hui tui 	回退	c=2 d=1.83837e-20 t=51676
 hui tui dao 	回退到	c=1 d=1.62694e-20 t=51676
 hui xian 	回顯	c=1 d=2.88413e-79 t=51676
@@ -2371,7 +2423,8 @@ hui zen me yang 	會怎麼樣	c=1 d=6.54528e-44 t=51676
 hui zhang 	會長	c=1 d=0.631284 t=51676
 hui zhi 	繪製	c=28 d=0.110251 t=51676
 hui zhi hou 	繪製後	c=1 d=1.23813e-13 t=51676
-hui zong 	匯總	c=1 d=5.73937e-57 t=51676
+hui zong 	匯總	c=1 d=0.00555762 t=51676
+hui zong hang 	匯總行	c=1 d=1 t=48124
 hun 	混	c=1 d=1.86838e-89 t=51676
 hun 	魂	c=1 d=1.37563e-47 t=51676
 hun dun 	混沌	c=3 d=7.50635e-71 t=51676
@@ -2403,11 +2456,11 @@ ji 	基	c=2 d=0.0703213 t=51676
 ji 	幾	c=2 d=2.58246e-44 t=51676
 ji 	急	c=0 d=0.000504176 t=51676
 ji 	擊	c=1 d=1.12436e-26 t=51676
-ji 	機	c=6 d=0.00968105 t=51676
+ji 	機	c=8 d=0.00968105 t=51676
 ji 	級	c=14 d=0.242926 t=51676
 ji 	計	c=1 d=1.89965e-49 t=51676
 ji 	記	c=1 d=8.18844e-32 t=51676
-ji 	集	c=2 d=1.2482e-20 t=51676
+ji 	集	c=4 d=0.00197576 t=51676
 ji 	雞	c=4 d=6.25993e-39 t=51676
 ji ba 	幾把	c=1 d=0.744532 t=51676
 ji ba 	雞巴	c=1 d=0.0111177 t=51676
@@ -2419,8 +2472,8 @@ ji bie 	級別	c=4 d=8.52434e-05 t=51676
 ji bu qing 	記不清	c=1 d=1.07935e-16 t=51676
 ji chang 	極長	c=1 d=3.03839e-45 t=51676
 ji chang 	機場	c=2 d=2.24082e-51 t=51676
-ji cheng 	繼承	c=6 d=4.42941e-09 t=51676
-ji cheng 	集成	c=10 d=0.887116 t=51676
+ji cheng 	繼承	c=8 d=1.48166 t=51676
+ji cheng 	集成	c=12 d=0.887116 t=51676
 ji cheng dao 	集成到	c=1 d=1.06018e-11 t=51676
 ji chu 	基礎	c=17 d=0.67686 t=51676
 ji chu shang 	基礎上	c=5 d=0.000144875 t=51676
@@ -2436,10 +2489,10 @@ ji gou 	機構	c=2 d=1.81833e-71 t=51676
 ji gou ti 	機構體	c=1 d=9.53762e-91 t=51676
 ji guan 	機關	c=1 d=5.03201e-39 t=51676
 ji guan 	籍貫	c=1 d=2.28135e-56 t=51676
-ji he 	幾何	c=4 d=0.020141 t=51676
-ji he 	集合	c=4 d=0.000111109 t=51676
+ji he 	幾何	c=6 d=0.21067 t=51676
+ji he 	集合	c=8 d=0.00485706 t=51676
 ji hu 	幾乎	c=6 d=1.25989e-12 t=51676
-ji hua 	計劃	c=6 d=1.1272e-06 t=51676
+ji hua 	計劃	c=7 d=0.000662162 t=51676
 ji huo 	激活	c=33 d=0.903343 t=51676
 ji huo hou 	激活後	c=1 d=1.45391e-50 t=51676
 ji huo ma 	激活碼	c=1 d=8.55313e-74 t=51676
@@ -2466,6 +2519,7 @@ ji neng 	技能	c=14 d=0.115903 t=51676
 ji qi 	及其	c=1 d=0.0169922 t=51676
 ji qi 	極其	c=1 d=0.0169075 t=51676
 ji qi 	機器	c=9 d=0.88692 t=51676
+ji qi ma 	機器碼	c=3 d=2.76817 t=47493
 ji qi ren 	機器人	c=3 d=1.30889e-12 t=51676
 ji qi xue xi 	機器學習	c=1 d=1.43543e-76 t=51676
 ji ran 	既然	c=4 d=8.11662e-46 t=51676
@@ -2493,9 +2547,9 @@ ji xu 	繼續	c=8 d=5.89006e-09 t=51676
 ji yi 	記憶	c=8 d=0.00509652 t=51676
 ji yi xia 	記一下	c=1 d=7.21375e-41 t=51676
 ji you 	紀遊	c=2 d=3.19482e-18 t=51676
-ji yu 	基於	c=40 d=0.719463 t=51676
-ji yu ci 	基於此	c=3 d=2.12388e-07 t=51676
-ji zai 	即在	c=1 d=0.0228227 t=51676
+ji yu 	基於	c=43 d=0.719463 t=51676
+ji yu ci 	基於此	c=3 d=8.06816e-05 t=51676
+ji zai 	即在	c=1 d=0.0448245 t=51676
 ji zhang 	幾張	c=2 d=9.11697e-31 t=51676
 ji zhe 	記者	c=1 d=2.26642e-67 t=51676
 ji zhi 	基址	c=1 d=6.22818e-48 t=51676
@@ -2504,12 +2558,12 @@ ji zhi 	機制	c=20 d=0.0794385 t=51676
 ji zhi dian 	極值點	c=1 d=1.11773e-74 t=51676
 ji zhong 	幾種	c=1 d=5.31363e-62 t=51676
 ji zhong 	集中	c=1 d=0.00398587 t=51676
-ji zhu 	記住	c=5 d=0.138408 t=51676
+ji zhu 	記住	c=6 d=0.138408 t=51676
 ji zhun 	基準	c=2 d=0.0086517 t=51676
 ji zu 	計組	c=1 d=1.89018e-49 t=51676
 jia 	假	c=1 d=5.80495e-73 t=51676
 jia 	價	c=1 d=3.41218e-57 t=51676
-jia 	加	c=24 d=0.00121066 t=51676
+jia 	加	c=25 d=0.00121066 t=51676
 jia 	夾	c=4 d=1.75247 t=51676
 jia 	家	c=3 d=0.0096577 t=51676
 jia cu 	加粗	c=2 d=7.9087e-56 t=51676
@@ -2529,11 +2583,12 @@ jia ran 	嘉然	c=2 d=0.596102 t=51676
 jia ru 	加入	c=21 d=0.00023977 t=51676
 jia shang 	加上	c=6 d=1.10148e-11 t=51676
 jia she 	假設	c=11 d=0.0352789 t=51676
+jia shi 	駕駛	c=1 d=1 t=47059
 jia su 	加速	c=4 d=1.49443e-20 t=51676
 jia suo yin 	加索引	c=1 d=2.0772e-12 t=51676
 jia yi 	加以	c=2 d=2.94111e-25 t=51676
 jia yi ge 	加一個	c=4 d=1.02884e-11 t=51676
-jia zai 	加載	c=30 d=0.0228227 t=51676
+jia zai 	加載	c=30 d=0.349938 t=51676
 jia zai dao 	加載到	c=1 d=1.54602e-08 t=51676
 jian 	件	c=7 d=1.4956e-05 t=51676
 jian 	劍	c=4 d=3.61013e-44 t=51676
@@ -2560,11 +2615,14 @@ jian duan dian 	間斷點	c=2 d=1.8776e-65 t=51676
 jian fan 	簡繁	c=2 d=0.937174 t=51676
 jian ge 	間隔	c=3 d=4.43092e-13 t=51676
 jian gou 	建構	c=1 d=3.98858e-11 t=51676
+jian guo 	堅果	c=0 d=0.1 t=46865
 jian guo 	見過	c=1 d=7.01725e-69 t=51676
+jian guo yun 	堅果雲	c=2 d=1.99501 t=46867
 jian hao 	建好	c=1 d=0.465334 t=51676
 jian ji 	剪輯	c=1 d=0.008271 t=51676
 jian jie 	簡潔	c=4 d=0.99005 t=51676
 jian ju 	兼具	c=1 d=1.08695e-69 t=51676
+jian ju 	間距	c=1 d=1 t=47516
 jian kang 	健康	c=1 d=3.54358e-31 t=51676
 jian kong 	監控	c=4 d=9.88295e-27 t=51676
 jian li 	建立	c=21 d=0.138069 t=51676
@@ -2576,14 +2634,14 @@ jian mie 	殲滅	c=1 d=8.66496e-21 t=51676
 jian mo 	建模	c=6 d=0.0330412 t=51676
 jian pan 	鍵盤	c=12 d=0.092089 t=51676
 jian qie ban 	剪切板	c=6 d=8.06816e-05 t=51676
-jian rong 	兼容	c=15 d=0.000332175 t=51676
+jian rong 	兼容	c=15 d=0.000368894 t=51676
 jian ru 	鍵入	c=4 d=0.185444 t=51676
 jian rui 	尖銳	c=2 d=1.0968e-44 t=51676
 jian shao 	減少	c=4 d=0.416862 t=51676
 jian suo 	檢索	c=4 d=0.000191619 t=51676
-jian ti 	簡體	c=3 d=1.25396 t=51676
+jian ti 	簡體	c=12 d=1.25396 t=51676
 jian ting 	監聽	c=4 d=1.46765e-16 t=51676
-jian tou 	箭頭	c=3 d=0.790571 t=51676
+jian tou 	箭頭	c=4 d=0.97531 t=51676
 jian xiao 	減小	c=1 d=7.6951e-95 t=51676
 jian xie 	簡寫	c=3 d=4.30129e-46 t=51676
 jian xin 	鑑心	c=1 d=1.19751e-91 t=51676
@@ -2635,17 +2693,17 @@ jiao ao de 	驕傲的	c=0 d=3.63491e-96 t=51676
 jiao ben 	腳本	c=158 d=0.771372 t=51676
 jiao cai 	教材	c=2 d=5.73392e-67 t=51676
 jiao cha 	交叉	c=4 d=1.90794e-53 t=51676
-jiao cheng 	教程	c=25 d=2.58736e-08 t=51676
+jiao cheng 	教程	c=25 d=0.628135 t=51676
 jiao chuan 	嬌喘	c=1 d=0.0141931 t=51676
 jiao cuo 	交錯	c=1 d=1.76323e-84 t=51676
 jiao da 	較大	c=2 d=2.8547e-17 t=51676
-jiao dian 	焦點	c=2 d=0.0834112 t=51676
+jiao dian 	焦點	c=2 d=0.168638 t=51676
 jiao du 	角度	c=8 d=2.06183e-42 t=51676
 jiao dui 	校對	c=2 d=4.35755e-73 t=51676
 jiao duo 	較多	c=1 d=1.27138e-60 t=51676
 jiao gao 	較高	c=4 d=0.008271 t=51676
 jiao hao 	較好	c=6 d=2.08329e-17 t=51676
-jiao hu 	交互	c=7 d=0.024972 t=51676
+jiao hu 	交互	c=8 d=0.024972 t=51676
 jiao hu xing 	交互性	c=1 d=1.73609e-78 t=51676
 jiao huan 	交換	c=3 d=1.42321e-47 t=51676
 jiao huan ji 	交換機	c=2 d=3.72708e-85 t=51676
@@ -2660,12 +2718,12 @@ jiao shou 	教授	c=4 d=3.91839e-08 t=51676
 jiao ti 	交替	c=1 d=3.8851e-84 t=51676
 jiao tong 	交通	c=29 d=1.63055 t=51676
 jiao xiao 	較小	c=4 d=4.54731e-48 t=51676
-jiao xue 	教學	c=4 d=1.5794e-24 t=51676
+jiao xue 	教學	c=5 d=0.0181334 t=51676
 jiao yan 	校驗	c=3 d=3.6266e-07 t=51676
 jiao yu 	教育	c=2 d=1.73379e-33 t=51676
 jiao yu ban 	教育辦	c=1 d=6.56893e-57 t=51676
 jiao zhi 	腳趾	c=1 d=2.17082e-60 t=51676
-jiao zhu 	腳註	c=2 d=3.13294e-74 t=51676
+jiao zhu 	腳註	c=3 d=0.00318278 t=51676
 jiao zuo 	叫做	c=1 d=2.40403e-84 t=51676
 jie 	借	c=2 d=2.58118e-59 t=51676
 jie 	姐	c=1 d=0.45612 t=51676
@@ -2686,16 +2744,16 @@ jie chu 	解除	c=1 d=1.98939e-92 t=51676
 jie chu guo 	接觸過	c=1 d=8.49627e-25 t=51676
 jie ci 	介詞	c=10 d=7.08976e-60 t=51676
 jie da 	解答	c=1 d=4.53985e-34 t=51676
-jie dian 	節點	c=63 d=0.174204 t=51676
+jie dian 	節點	c=68 d=0.914793 t=51676
 jie dian li 	節點裏	c=1 d=0.0105145 t=51676
-jie dian zu 	節點組	c=4 d=2.42556e-37 t=51676
+jie dian zu 	節點組	c=5 d=0.198891 t=51676
 jie duan 	截斷	c=4 d=0.00308075 t=51676
 jie duan 	階段	c=16 d=1.07525 t=51676
 jie fa 	解法	c=5 d=9.32284e-48 t=51676
 jie fa er 	解法二	c=2 d=2.51519e-48 t=51676
 jie fa yi 	解法一	c=1 d=1.16077e-48 t=51676
 jie gou 	結構	c=61 d=0.991694 t=51676
-jie gou 	解構	c=1 d=2.50435e-65 t=51676
+jie gou 	解構	c=2 d=1.62081e-05 t=51676
 jie gou xing 	結構性	c=1 d=3.45539e-58 t=51676
 jie guan 	接管	c=1 d=5.61825e-12 t=51676
 jie guo 	結果	c=50 d=0.0144076 t=51676
@@ -2720,12 +2778,13 @@ jie ou 	解耦	c=2 d=0.615697 t=51676
 jie qu 	截取	c=2 d=1.25399e-45 t=51676
 jie qu 	街區	c=0 d=2.86575e-93 t=51676
 jie ru 	介入	c=2 d=2.41493e-49 t=51676
-jie ru 	接入	c=9 d=0.00190171 t=51676
+jie ru 	接入	c=10 d=0.00190171 t=51676
 jie san 	解散	c=1 d=4.84046e-53 t=51676
 jie shao 	介紹	c=60 d=0.781944 t=51676
 jie sheng 	節省	c=3 d=0.850815 t=51676
-jie shi 	解釋	c=18 d=2.4842e-05 t=51676
+jie shi 	解釋	c=21 d=0.086104 t=51676
 jie shi qi 	解釋器	c=5 d=0.165299 t=51676
+jie shi wei 	解釋爲	c=1 d=1 t=47476
 jie shou 	接受	c=27 d=1.10799 t=51676
 jie shou 	接收	c=2 d=9.10627e-72 t=51676
 jie shou dao 	接收到	c=3 d=3.2645e-07 t=51676
@@ -2737,7 +2796,7 @@ jie tiao 	解調	c=1 d=1.05608e-83 t=51676
 jie tiao qi 	解調器	c=1 d=1.05081e-83 t=51676
 jie tu 	截圖	c=16 d=4.68808e-06 t=51676
 jie wei 	結尾	c=3 d=0.00231117 t=51676
-jie xi 	解析	c=21 d=0.000125275 t=51676
+jie xi 	解析	c=21 d=0.000713734 t=51676
 jie xi dao 	解析到	c=1 d=1.86616e-75 t=51676
 jie xi hou 	解析後	c=1 d=2.4446e-75 t=51676
 jie xia lai 	接下來	c=4 d=0.100259 t=51676
@@ -2749,14 +2808,14 @@ jie zhe 	接着	c=5 d=1.75826e-09 t=51676
 jie zhen 	接診	c=1 d=1.14801e-65 t=51676
 jie zhu 	藉助	c=1 d=5.87447e-66 t=51676
 jie zou 	節奏	c=1 d=0.0071546 t=51676
-jin 	僅	c=12 d=0.000555857 t=51676
+jin 	僅	c=13 d=0.000555857 t=51676
 jin 	津	c=1 d=2.49967e-43 t=51676
 jin 	禁	c=1 d=1.44513e-67 t=51676
 jin 	近	c=3 d=0.00021605 t=51676
 jin 	進	c=4 d=1.61273e-05 t=51676
 jin 	金	c=3 d=7.33174e-26 t=51676
 jin bi 	金幣	c=4 d=5.59404e-20 t=51676
-jin bu qu 	進不去	c=1 d=5.64834e-16 t=51676
+jin bu qu 	進不去	c=2 d=0.000837575 t=51676
 jin cha jian 	金插件	c=1 d=1.24388e-38 t=51676
 jin cheng 	進程	c=33 d=0.127244 t=51676
 jin cong 	僅從	c=1 d=3.38823e-33 t=51676
@@ -2799,7 +2858,7 @@ jing chang 	經常	c=3 d=3.31471e-69 t=51676
 jing dian 	經典	c=2 d=1.40015e-70 t=51676
 jing dong 	京東	c=1 d=1.40075e-53 t=51676
 jing du 	精度	c=10 d=0.000724521 t=51676
-jing gao 	警告	c=3 d=3.1009e-18 t=51676
+jing gao 	警告	c=4 d=1.05964e-05 t=51676
 jing guo 	經過	c=6 d=0.344728 t=51676
 jing ji 	經濟	c=1 d=2.23434e-17 t=51676
 jing jian 	精簡	c=2 d=9.7614e-11 t=51676
@@ -2807,7 +2866,7 @@ jing jue 	精絕	c=8 d=0.00218749 t=51676
 jing li 	精力	c=1 d=0.640824 t=51676
 jing li 	經歷	c=12 d=8.24074e-56 t=51676
 jing li le 	經歷了	c=1 d=9.99765e-57 t=51676
-jing ling 	精靈	c=2 d=0.327915 t=51676
+jing ling 	精靈	c=3 d=0.327915 t=51676
 jing mo 	靜默	c=3 d=1.35078e-08 t=51676
 jing que 	精確	c=5 d=9.89239e-13 t=51676
 jing que du 	精確度	c=1 d=8.40689e-77 t=51676
@@ -2849,8 +2908,8 @@ jiu qu 	就去	c=2 d=1.31739 t=51676
 jiu shi 	就是	c=64 d=0.853558 t=51676
 jiu shi zai 	就是在	c=1 d=5.59291e-47 t=51676
 jiu wei 	就爲	c=1 d=8.53132e-44 t=51676
-jiu xiang 	就像	c=4 d=0.0692522 t=51676
-jiu xing 	就行	c=5 d=4.1477e-30 t=51676
+jiu xiang 	就像	c=5 d=0.0692522 t=51676
+jiu xing 	就行	c=6 d=0.440432 t=51676
 jiu xu 	就緒	c=4 d=5.88767e-63 t=51676
 jiu xu yao 	就需要	c=2 d=0.140156 t=51676
 jiu yao 	就要	c=1 d=2.01883e-59 t=51676
@@ -2892,7 +2951,7 @@ ju yu wang 	局域網	c=4 d=1.56911e-06 t=51676
 ju zhen 	矩陣	c=18 d=1.20619 t=51676
 ju zhen de zhi 	矩陣的秩	c=1 d=3.16401e-51 t=51676
 ju zheng 	舉證	c=4 d=0.632669 t=51676
-ju zhong 	居中	c=2 d=3.96316e-24 t=51676
+ju zhong 	居中	c=4 d=0.133549 t=51676
 ju zhu 	居住	c=1 d=1.86203e-49 t=51676
 ju zi 	句子	c=5 d=4.03622e-33 t=51676
 juan 	卷	c=1 d=1.32286e-28 t=51676
@@ -2907,7 +2966,7 @@ jue jing 	絕境	c=1 d=1.01594e-39 t=51676
 jue qi 	撅起	c=1 d=0.0109436 t=51676
 jue qu 	絕區	c=1 d=2.8852e-55 t=51676
 jue qu ling 	絕區零	c=1 d=2.89966e-54 t=51676
-jue se 	角色	c=40 d=4.88095e-07 t=51676
+jue se 	角色	c=42 d=0.35567 t=51676
 jue se ka 	角色卡	c=1 d=8.04818e-64 t=51676
 jun 	均	c=17 d=0.203926 t=51676
 jun bao cun 	均保存	c=1 d=3.85009e-07 t=51676
@@ -2917,7 +2976,7 @@ jun wei 	均爲	c=1 d=4.72608e-07 t=51676
 jun yi 	均已	c=1 d=3.08704e-26 t=51676
 jun yun 	均勻	c=2 d=2.36792e-53 t=51676
 jun zai 	均在	c=1 d=2.81597e-33 t=51676
-ka 	卡	c=7 d=2.66627e-08 t=51676
+ka 	卡	c=7 d=0.000269215 t=51676
 ka chi 	卡池	c=5 d=2.86276e-92 t=51676
 ka chu 	卡出	c=1 d=4.35103e-93 t=51676
 ka dun 	卡頓	c=3 d=3.72729e-08 t=51676
@@ -2927,10 +2986,11 @@ ka luo er 	卡蘿爾	c=1 d=1.06068e-46 t=51676
 ka si 	卡死	c=2 d=6.47774e-69 t=51676
 ka ti 	卡提	c=2 d=1.15856e-55 t=51676
 ka ti xi ya 	卡提希婭	c=2 d=3.08897e-92 t=51676
-ka tong 	卡通	c=1 d=4.94229e-92 t=51676
+ka tong 	卡通	c=3 d=1.33165 t=51676
+ka xuan 	卡渲	c=1 d=1 t=48500
 ka zhe 	卡着	c=1 d=4.14924e-05 t=51676
-ka zhu 	卡主	c=2 d=3.58919e-05 t=51676
-kai 	開	c=8 d=3.37535e-10 t=51676
+ka zhu 	卡主	c=3 d=3.58919e-05 t=51676
+kai 	開	c=8 d=0.559898 t=51676
 kai de 	開的	c=1 d=1.01088e-39 t=51676
 kai fa 	開發	c=93 d=0.604286 t=51676
 kai fa ban 	開發板	c=8 d=1.32408 t=51676
@@ -2942,7 +3002,7 @@ kai ji 	開機	c=2 d=6.17573e-08 t=51676
 kai men 	開門	c=1 d=1.41555e-59 t=51676
 kai pi 	開闢	c=2 d=2.94521e-12 t=51676
 kai qi 	開啓	c=50 d=0.729789 t=51676
-kai qi le 	開啓了	c=2 d=6.25988e-30 t=51676
+kai qi le 	開啓了	c=4 d=0.00127892 t=51676
 kai qiang 	開槍	c=2 d=2.91876e-38 t=51676
 kai qiao 	開竅	c=1 d=0.008396 t=51676
 kai shi 	開始	c=56 d=0.316643 t=51676
@@ -2951,13 +3011,14 @@ kai tou 	開頭	c=5 d=1.61657e-33 t=51676
 kai yuan 	開源	c=11 d=0.171079 t=51676
 kai yuan de 	開源的	c=1 d=2.27243e-10 t=51676
 kai zhe 	開着	c=1 d=5.98518e-21 t=51676
+kan 	刊	c=1 d=1 t=47637
 kan 	看	c=24 d=0.923273 t=51676
 kan bing 	看病	c=2 d=8.79406e-66 t=51676
 kan bu dao 	看不到	c=1 d=0.00484407 t=51676
 kan bu jian 	看不見	c=1 d=6.61352e-19 t=51676
 kan bu qing 	看不清	c=1 d=0.000497955 t=51676
 kan chu 	看出	c=2 d=4.51413e-26 t=51676
-kan dao 	看到	c=27 d=0.0127784 t=51676
+kan dao 	看到	c=27 d=0.416719 t=51676
 kan dao yi xie 	看到一些	c=1 d=4.50938e-43 t=51676
 kan dong 	看懂	c=0 d=3.61651e-07 t=51676
 kan fa 	看法	c=1 d=1.23276e-50 t=51676
@@ -2968,7 +3029,7 @@ kan lai 	看來	c=1 d=3.80687e-80 t=51676
 kan le 	看了	c=1 d=4.44754e-58 t=51676
 kan ming 	刊名	c=2 d=3.80724e-44 t=51676
 kan qi 	看起	c=1 d=0.0685632 t=51676
-kan qi lai 	看起來	c=5 d=8.30795e-26 t=51676
+kan qi lai 	看起來	c=6 d=0.154124 t=51676
 kan shu 	砍樹	c=1 d=1.03915e-40 t=51676
 kan xiang 	看向	c=2 d=1.06898e-20 t=51676
 kan yi xia 	看一下	c=5 d=0.036334 t=51676
@@ -2989,7 +3050,7 @@ kao qian 	靠前	c=1 d=5.49039e-94 t=51676
 kao shang 	靠上	c=1 d=4.59704e-93 t=51676
 kao sheng 	考生	c=1 d=1.40753e-51 t=51676
 kao shi 	考試	c=12 d=1.01353e-11 t=51676
-kao yan 	考研	c=19 d=5.96768e-10 t=51676
+kao yan 	考研	c=19 d=5.28837e-06 t=51676
 kao yan pai 	考研派	c=1 d=3.07259e-59 t=51676
 ke 	克	c=1 d=4.25704e-42 t=51676
 ke 	可	c=37 d=0.188843 t=51676
@@ -3014,6 +3075,7 @@ ke gou 	克狗	c=1 d=1.53799e-35 t=51676
 ke guan tiao jian 	客觀條件	c=1 d=2.52042e-52 t=51676
 ke hou 	課後	c=9 d=1.5009e-06 t=51676
 ke hu duan 	客戶端	c=33 d=0.711854 t=51676
+ke hu ji 	客戶機	c=2 d=1.96079 t=46308
 ke hua 	刻畫	c=1 d=8.51336e-78 t=51676
 ke huan 	科幻	c=1 d=1.09567e-16 t=51676
 ke ji 	科技	c=25 d=0.734064 t=51676
@@ -3032,7 +3094,7 @@ ke li 	顆粒	c=2 d=1.88197e-49 t=51676
 ke lian jie 	可鏈接	c=3 d=1.14548e-68 t=51676
 ke long 	克隆	c=2 d=9.34138e-42 t=51676
 ke mu 	科目	c=3 d=9.37319e-83 t=51676
-ke neng 	可能	c=26 d=0.353455 t=51676
+ke neng 	可能	c=27 d=0.353455 t=51676
 ke ni 	可逆	c=1 d=6.93185e-72 t=51676
 ke pei zhi xiang 	可配置項	c=1 d=4.89609e-11 t=51676
 ke qing 	刻晴	c=4 d=3.86365e-97 t=51676
@@ -3052,13 +3114,13 @@ ke xi 	柯西	c=1 d=5.70686e-49 t=51676
 ke xi bu deng shi 	柯西不等式	c=1 d=5.6784e-49 t=51676
 ke xin 	可信	c=3 d=2.39105e-58 t=51676
 ke xin ren 	可信任	c=1 d=1.05737e-68 t=51676
-ke xing 	可行	c=1 d=4.76191e-37 t=51676
+ke xing 	可行	c=3 d=0.0123162 t=51676
 ke xu lie hua 	可序列化	c=1 d=1.25527e-57 t=51676
 ke xuan 	可選	c=9 d=0.369723 t=51676
 ke xue 	科學	c=25 d=0.891366 t=51676
 ke xue yuan 	科學院	c=2 d=0.0062865 t=51676
-ke yan 	科研	c=5 d=0.000796726 t=51676
-ke yi 	可以	c=201 d=1.52496 t=51676
+ke yan 	科研	c=6 d=0.104555 t=51676
+ke yi 	可以	c=201 d=1.63881 t=51676
 ke yi ma 	可以嗎	c=4 d=0.224249 t=51676
 ke yi yi jian 	可以一鍵	c=1 d=1.63699e-63 t=51676
 ke yong 	可用	c=5 d=1.67514 t=51676
@@ -3071,7 +3133,7 @@ ken ding 	肯定	c=1 d=3.94113e-76 t=51676
 ken ni 	肯尼	c=0 d=4.92131e-43 t=51676
 ken ni e guo 	肯尼俄國	c=1 d=4.94597e-42 t=51676
 kong 	控	c=1 d=2.09973e-80 t=51676
-kong 	空	c=10 d=4.60498e-33 t=51676
+kong 	空	c=11 d=0.172907 t=51676
 kong bai 	空白	c=5 d=0.00228631 t=51676
 kong bei 	空杯	c=1 d=1.51484e-33 t=51676
 kong de 	空的	c=1 d=1.50523e-17 t=51676
@@ -3084,15 +3146,17 @@ kong jian zhan 	空間站	c=6 d=6.15254e-14 t=51676
 kong jian zhong 	空間中	c=1 d=1.43748e-34 t=51676
 kong kong 	悾悾	c=1 d=0.637628 t=51676
 kong san 	空三	c=5 d=3.14958e-23 t=51676
-kong zhi 	控制	c=27 d=0.0340475 t=51676
+kong zhi 	控制	c=30 d=0.0340475 t=51676
 kong zhi qi 	控制器	c=11 d=0.000128562 t=51676
+kong zhi quan 	控制權	c=1 d=1 t=46446
 kong zhi tai 	控制檯	c=6 d=6.06511e-30 t=51676
 kong zhi zai 	控制在	c=1 d=5.57675e-13 t=51676
 kou 	口	c=7 d=0.648835 t=51676
 kou 	釦	c=1 d=1.97314e-25 t=51676
 kou ling 	口令	c=1 d=1.25677e-71 t=51676
 kou yu hua 	口語化	c=1 d=1.67644e-49 t=51676
-ku 	庫	c=25 d=0.00104369 t=51676
+ku 	哭	c=1 d=1 t=46241
+ku 	庫	c=25 d=0.0212936 t=51676
 ku hu duan 	庫護短	c=1 d=8.06953e-07 t=51676
 ku jie qu 	庫街區	c=1 d=2.88011e-92 t=51676
 ku li 	苦力	c=0 d=1.96564e-40 t=51676
@@ -3110,10 +3174,10 @@ kuai dian da 	快點打	c=1 d=2.06249e-46 t=51676
 kuai jian 	快件	c=1 d=2.13232e-26 t=51676
 kuai jie 	快捷	c=11 d=8.2491e-07 t=51676
 kuai jie fang shi 	快捷方式	c=1 d=2.6972e-26 t=51676
-kuai jie jian 	快捷鍵	c=25 d=0.862073 t=51676
+kuai jie jian 	快捷鍵	c=25 d=0.946504 t=51676
 kuai lai 	快來	c=1 d=3.03623e-66 t=51676
 kuai man 	快慢	c=2 d=3.75874e-48 t=51676
-kuai su 	快速	c=16 d=1.05825e-07 t=51676
+kuai su 	快速	c=19 d=0.72001 t=51676
 kuan 	寬	c=1 d=2.05157e-13 t=51676
 kuan du 	寬度	c=7 d=1.44923e-22 t=51676
 kuang 	框	c=17 d=8.50939e-13 t=51676
@@ -3121,7 +3185,8 @@ kuang 	況	c=1 d=2.03276e-81 t=51676
 kuang 	礦	c=4 d=1.14214e-39 t=51676
 kuang chu 	框出	c=2 d=1.11984e-28 t=51676
 kuang dong 	礦洞	c=5 d=1.90454e-37 t=51676
-kuang jia 	框架	c=10 d=0.71177 t=51676
+kuang jia 	框架	c=11 d=0.71177 t=51676
+kuang jia ai 	框架愛	c=1 d=1 t=47987
 kuang nei bu 	框內部	c=1 d=1.71362e-13 t=51676
 kuang tu 	框圖	c=1 d=1.3138e-05 t=51676
 kui 	魁	c=1 d=1.09847e-46 t=51676
@@ -3132,9 +3197,10 @@ kuo chong 	擴充	c=3 d=6.4277e-66 t=51676
 kuo dao 	闊刀	c=1 d=4.02361e-55 t=51676
 kuo hao 	括號	c=3 d=0.995012 t=51676
 kuo hao hou mian 	括號後面	c=1 d=0.000605171 t=51676
+kuo hao li 	括號裏	c=2 d=1.51685 t=48213
 kuo rong 	擴容	c=1 d=0.0867261 t=51676
 kuo san 	擴散	c=2 d=3.23408e-44 t=51676
-kuo xie 	擴寫	c=4 d=0.980346 t=51676
+kuo xie 	擴寫	c=5 d=0.980346 t=51676
 kuo zhan 	擴展	c=13 d=0.0811815 t=51676
 kuo zhang 	擴張	c=1 d=1.3212e-71 t=51676
 la 	啦	c=1 d=3.6401e-53 t=51676
@@ -3155,15 +3221,16 @@ lai 	來	c=60 d=0.790334 t=51676
 lai 	萊	c=4 d=2.11178e-41 t=51676
 lai de 	來的	c=2 d=2.80775e-28 t=51676
 lai hui 	來回	c=1 d=3.14779e-20 t=51676
+lai jiang 	來講	c=1 d=1 t=47321
 lai kan 	來看	c=1 d=2.52926e-05 t=51676
 lai ke 	萊克	c=0 d=4.95641e-09 t=51676
 lai la 	來啦	c=0 d=3.65348e-09 t=51676
 lai ren 	來人	c=7 d=6.06226e-24 t=51676
 lai shuo 	來說	c=11 d=0.0333733 t=51676
 lai wo zhe 	來我這	c=1 d=1.33085e-39 t=51676
-lai yuan 	來源	c=4 d=1.88407e-11 t=51676
+lai yuan 	來源	c=4 d=0.00299743 t=51676
 lai zhe 	來着	c=1 d=4.44754e-57 t=51676
-lai zi 	來自	c=9 d=0.869358 t=51676
+lai zi 	來自	c=12 d=0.869358 t=51676
 lan 	欄	c=4 d=1.46835 t=51676
 lan 	藍	c=1 d=2.42827e-55 t=51676
 lan jie 	攔截	c=8 d=1.74764e-09 t=51676
@@ -3204,7 +3271,7 @@ lei rong 	類容	c=1 d=4.84128e-55 t=51676
 lei shen 	雷神	c=1 d=1.61317e-67 t=51676
 lei si 	類似	c=14 d=0.000376347 t=51676
 lei si yu 	類似於	c=3 d=0.0358163 t=51676
-lei xing 	類型	c=39 d=0.0066709 t=51676
+lei xing 	類型	c=39 d=0.677057 t=51676
 leng 	楞	c=1 d=7.48876e-40 t=51676
 li 	例	c=9 d=4.04748e-07 t=51676
 li 	利	c=3 d=1.39286e-16 t=51676
@@ -3229,9 +3296,11 @@ li li si 	莉莉絲	c=1 d=1.58424e-60 t=51676
 li lun 	理論	c=1 d=0.00860854 t=51676
 li lun shang 	理論上	c=1 d=4.57178e-87 t=51676
 li ma 	立馬	c=1 d=0.810584 t=51676
+li mi 	釐米	c=4 d=3.87642 t=48097
 li mian 	裏面	c=9 d=1.9458 t=51676
 li nian 	歷年	c=2 d=1.96698e-47 t=51676
-li ru 	例如	c=56 d=0.0204326 t=51676
+li qing 	釐清	c=1 d=1 t=46983
+li ru 	例如	c=56 d=0.0876626 t=51676
 li san 	離散	c=1 d=9.17642e-78 t=51676
 li shi 	歷史	c=20 d=0.226968 t=51676
 li shi shang 	歷史上	c=1 d=2.62328e-52 t=51676
@@ -3241,7 +3310,7 @@ li xian 	離線	c=1 d=1.91939e-53 t=51676
 li xiang 	理想	c=2 d=4.36718e-19 t=51676
 li xiao 	離校	c=1 d=1.18153e-80 t=51676
 li yi 	利益	c=1 d=2.68969e-52 t=51676
-li yong 	利用	c=43 d=0.392987 t=51676
+li yong 	利用	c=44 d=0.392987 t=51676
 li you 	理由	c=1 d=2.33346e-57 t=51676
 li zi 	例子	c=10 d=0.00224287 t=51676
 lian 	練	c=1 d=0.128735 t=51676
@@ -3249,7 +3318,7 @@ lian 	臉	c=1 d=0.00538036 t=51676
 lian 	連	c=4 d=2.96377e-09 t=51676
 lian 	鏈	c=3 d=2.54142e-33 t=51676
 lian biao 	鏈表	c=10 d=1.11185e-12 t=51676
-lian bu 	臉部	c=1 d=2.10487e-50 t=51676
+lian bu 	臉部	c=2 d=0.153355 t=51676
 lian cheng 	連成	c=1 d=1.55716e-63 t=51676
 lian dai zhe 	連帶着	c=1 d=0.156453 t=51676
 lian dao 	練刀	c=9 d=2.1202e-47 t=51676
@@ -3259,7 +3328,7 @@ lian he 	聯合	c=6 d=0.493619 t=51676
 lian huo 	戀活	c=1 d=1.63677e-32 t=51676
 lian ji 	聯機	c=7 d=0.527695 t=51676
 lian jie 	連接	c=59 d=3.04415 t=51676
-lian jie 	鏈接	c=31 d=0.114178 t=51676
+lian jie 	鏈接	c=31 d=0.524663 t=51676
 lian jie de 	連接的	c=2 d=0.000428594 t=51676
 lian jie qi 	連接器	c=1 d=8.82712e-92 t=51676
 lian jie qi 	鏈接器	c=1 d=9.09594e-92 t=51676
@@ -3275,10 +3344,11 @@ lian xi 	練習	c=9 d=1.0609e-19 t=51676
 lian xi 	聯繫	c=11 d=4.75541e-07 t=51676
 lian xi ma 	聯繫嗎	c=1 d=1.3799e-53 t=51676
 lian xi qi lai 	聯繫起來	c=1 d=4.66285e-25 t=51676
+lian xian 	連線	c=1 d=1 t=47332
 lian xu 	連續	c=17 d=0.0992298 t=51676
 lian xu xing 	連續性	c=2 d=1.91561e-51 t=51676
 lian yi qun 	連衣裙	c=3 d=3.17504e-50 t=51676
-lian yu 	煉獄	c=2 d=5.65219e-24 t=51676
+lian yu 	煉獄	c=3 d=0.000237581 t=51676
 lian zhe 	連着	c=1 d=2.98299e-05 t=51676
 lian zi fu 	連字符	c=1 d=0.00108086 t=51676
 liang 	亮	c=1 d=4.44902e-67 t=51676
@@ -3299,9 +3369,12 @@ liang lei 	兩類	c=1 d=3.75606e-69 t=51676
 liang lie 	兩列	c=1 d=8.00966e-37 t=51676
 liang lun 	兩輪	c=1 d=5.80829e-21 t=51676
 liang men 	兩門	c=0 d=1.84614e-08 t=51676
+liang tai 	兩臺	c=1 d=1 t=46318
 liang tiao 	兩條	c=1 d=3.01297e-05 t=51676
 liang tui 	兩腿	c=1 d=2.82816e-25 t=51676
 liang xia 	兩下	c=1 d=9.72595e-27 t=51676
+liang xin 	良心	c=0 d=0.1 t=47758
+liang xin yun 	良心雲	c=1 d=1 t=47759
 liang zhang 	兩張	c=3 d=4.27911e-44 t=51676
 liang zhe 	兩者	c=7 d=0.00367997 t=51676
 liang zhi 	兩隻	c=1 d=1.57444e-39 t=51676
@@ -3334,7 +3407,7 @@ lin yu 	鄰域	c=3 d=0.522046 t=51676
 ling 	令	c=2 d=2.31436e-48 t=51676
 ling 	凌	c=8 d=8.10886e-27 t=51676
 ling 	另	c=1 d=8.85298e-97 t=51676
-ling 	零	c=7 d=2.8852e-55 t=51676
+ling 	零	c=8 d=0.000267872 t=51676
 ling 	領	c=1 d=2.34922e-48 t=51676
 ling dao 	領導	c=1 d=0.000122182 t=51676
 ling kuan 	零寬	c=2 d=0.138715 t=51676
@@ -3349,7 +3422,7 @@ ling yi 	另一	c=1 d=1.29751e-64 t=51676
 ling yi ge 	另一個	c=10 d=0.974173 t=51676
 ling yi jia 	另一家	c=2 d=0.0210314 t=51676
 ling yi zhong 	另一種	c=1 d=5.31906e-74 t=51676
-ling yu 	領域	c=29 d=0.77891 t=51676
+ling yu 	領域	c=31 d=0.77891 t=51676
 liu 	六	c=3 d=0.126186 t=51676
 liu 	柳	c=1 d=3.92974e-42 t=51676
 liu 	流	c=8 d=1.29508e-42 t=51676
@@ -3360,6 +3433,7 @@ liu dian 	六點	c=1 d=6.06924e-38 t=51676
 liu dian 	留點	c=1 d=6.09966e-38 t=51676
 liu hai 	劉海	c=0 d=6.54061e-66 t=51676
 liu ji 	六級	c=4 d=4.45237e-11 t=51676
+liu lan 	瀏覽	c=1 d=1 t=46239
 liu lan guo 	瀏覽過	c=1 d=2.29317e-58 t=51676
 liu lan qi 	瀏覽器	c=20 d=0.796579 t=51676
 liu le 	留了	c=1 d=0.00100779 t=51676
@@ -3371,11 +3445,14 @@ liu shu 	留數	c=1 d=3.84882e-52 t=51676
 liu shu fa 	留數法	c=1 d=3.79781e-52 t=51676
 liu su 	流速	c=1 d=2.38546e-81 t=51676
 liu ti 	流體	c=1 d=2.03808e-53 t=51676
+liu wei zhi 	留位置	c=1 d=1 t=48542
 liu xing 	流行	c=1 d=9.35732e-43 t=51676
+liu yan 	留言	c=1 d=1 t=46240
+lo 	咯	c=0 d=0.1 t=47881
 long qi 	隆起	c=9 d=1.66102e-43 t=51676
 long tong 	籠統	c=2 d=1.98297e-54 t=51676
 lou chu 	露出	c=1 d=0.0113334 t=51676
-lu 	陸	c=0 d=0.1 t=51673
+lu 	陸	c=0 d=0.0985112 t=51676
 lu 	露	c=1 d=2.21611e-97 t=51676
 lu 	魯	c=7 d=1.87921e-10 t=51676
 lu a hong 	魯阿訇	c=1 d=6.44694e-13 t=51676
@@ -3386,10 +3463,10 @@ lu na 	露娜	c=1 d=6.70505e-63 t=51676
 lu pa 	露帕	c=3 d=1.67725e-89 t=51676
 lu ping 	錄屏	c=5 d=9.10713e-29 t=51676
 lu qu 	錄取	c=2 d=2.48479e-51 t=51676
-lu xian 	路線	c=2 d=3.86058e-39 t=51676
+lu xian 	路線	c=5 d=0.0806361 t=51676
 lu xun 	魯迅	c=2 d=3.11276e-06 t=51676
 lu yong 	錄用	c=2 d=4.06295e-73 t=51676
-lu you 	路由	c=4 d=0.927743 t=51676
+lu you 	路由	c=5 d=0.927743 t=51676
 lu you biao 	路由表	c=2 d=1.64901e-82 t=51676
 lu you qi 	路由器	c=9 d=0.100259 t=51676
 luan ma 	亂碼	c=13 d=1.49211e-22 t=51676
@@ -3399,8 +3476,9 @@ lun dian 	論點	c=4 d=1.90857e-46 t=51676
 lun kuo 	輪廓	c=4 d=1.08306e-12 t=51676
 lun shu 	輪數	c=5 d=4.76779e-76 t=51676
 lun tan 	論壇	c=5 d=5.29394e-18 t=51676
-lun wen 	論文	c=59 d=0.598223 t=51676
-lun wen zhong 	論文中	c=1 d=1.22828e-66 t=51676
+lun wen 	論文	c=108 d=2.24461 t=51676
+lun wen li 	論文裏	c=1 d=1 t=47796
+lun wen zhong 	論文中	c=2 d=2.50409e-05 t=51676
 lun xun 	輪詢	c=2 d=3.77283e-96 t=51676
 lun zheng 	論證	c=4 d=1.93336e-46 t=51676
 luo 	絡	c=2 d=4.27328e-28 t=51676
@@ -3455,7 +3533,7 @@ mao hao 	冒號	c=1 d=5.14711e-11 t=51676
 mao niang 	貓娘	c=3 d=6.9192e-08 t=51676
 mao pao 	冒泡	c=8 d=8.22611e-74 t=51676
 mao xian 	冒險	c=1 d=1.30335e-58 t=51676
-me 	麼	c=4 d=3.10497e-05 t=51676
+me 	麼	c=5 d=0.00319374 t=51676
 me ei le 	麼誒了	c=1 d=1.37138e-39 t=51676
 me ei shi 	麼誒是	c=1 d=1.62971e-40 t=51676
 mei 	每	c=7 d=2.30004e-05 t=51676
@@ -3464,7 +3542,7 @@ mei 	煤	c=2 d=3.06909e-40 t=51676
 mei 	美	c=2 d=3.17539e-55 t=51676
 mei ban fa 	沒辦法	c=1 d=4.96469e-57 t=51676
 mei ban fa le 	沒辦法了	c=1 d=5.01458e-57 t=51676
-mei ci 	每次	c=14 d=0.539882 t=51676
+mei ci 	每次	c=15 d=0.539882 t=51676
 mei dai 	沒帶	c=1 d=9.70776e-05 t=51676
 mei dang 	每當	c=1 d=3.88654e-59 t=51676
 mei dang wo 	每當我	c=1 d=1.04422e-09 t=51676
@@ -3484,6 +3562,7 @@ mei miao 	每秒	c=1 d=2.25358e-59 t=51676
 mei mo 	魅魔	c=0 d=4.1014e-46 t=51676
 mei mo wen 	魅魔紋	c=1 d=4.12196e-45 t=51676
 mei nie zhu 	沒捏住	c=1 d=2.23427e-46 t=51676
+mei quan xian 	沒權限	c=1 d=1 t=46299
 mei ren 	沒人	c=2 d=0.0248475 t=51676
 mei sha 	沒啥	c=0 d=1.65434e-41 t=51676
 mei sha yong 	沒啥用	c=1 d=1.66264e-40 t=51676
@@ -3508,6 +3587,8 @@ mei yi ci 	每一次	c=6 d=2.09453e-21 t=51676
 mei yi dian 	每一點	c=1 d=1.07226e-56 t=51676
 mei yi fen 	每一份	c=1 d=0.00381048 t=51676
 mei yi ge 	每一個	c=22 d=0.0934807 t=51676
+mei yi hang 	沒一行	c=2 d=1.96079 t=46270
+mei yi jia 	每一家	c=1 d=1 t=47124
 mei yi jie 	每一節	c=2 d=2.23874e-07 t=51676
 mei yi lie 	每一列	c=2 d=4.82812e-23 t=51676
 mei yi tian 	每一天	c=2 d=1.38693e-84 t=51676
@@ -3546,7 +3627,7 @@ mi yun suan 	冪運算	c=1 d=1.09146e-59 t=51676
 mian 	麪	c=9 d=0.133989 t=51676
 mian ban 	面板	c=8 d=0.764021 t=51676
 mian dui 	面對	c=4 d=1.63498e-22 t=51676
-mian fei 	免費	c=7 d=8.62761e-29 t=51676
+mian fei 	免費	c=9 d=0.0806028 t=51676
 mian fei de 	免費的	c=1 d=3.12168e-69 t=51676
 mian ji 	面積	c=4 d=8.20933e-53 t=51676
 mian jing 	面經	c=8 d=0.0325318 t=51676
@@ -3556,18 +3637,18 @@ mian shi zhong 	面試中	c=1 d=1.74485e-49 t=51676
 mian xiang 	面向	c=5 d=0.00244185 t=51676
 miao 	秒	c=7 d=2.46896e-15 t=51676
 miao miao miao 	喵喵喵	c=12 d=6.25606e-41 t=51676
-miao shu 	描述	c=18 d=3.51766e-06 t=51676
+miao shu 	描述	c=20 d=0.102113 t=51676
 miao shu fu 	描述符	c=2 d=2.96893e-67 t=51676
 miao zhun 	瞄準	c=10 d=1.07862e-08 t=51676
 mie 	滅	c=1 d=1.12999e-26 t=51676
 mie you 	咩有	c=4 d=5.04509e-07 t=51676
 min gan 	敏感	c=2 d=2.40051e-08 t=51676
 min zhu 	民主	c=1 d=0.000129737 t=51676
-ming 	名	c=19 d=0.873716 t=51676
+ming 	名	c=20 d=0.873716 t=51676
 ming 	明	c=2 d=1.79097e-54 t=51676
 ming bai 	明白	c=1 d=1.41975e-35 t=51676
 ming bai le 	明白了	c=1 d=2.56557e-55 t=51676
-ming chao 	鳴潮	c=43 d=2.14043e-07 t=51676
+ming chao 	鳴潮	c=44 d=0.866491 t=51676
 ming chen 	名臣	c=2 d=7.34196e-13 t=51676
 ming cheng 	名稱	c=35 d=3.64883 t=51676
 ming ci 	名次	c=1 d=3.51501e-24 t=51676
@@ -3581,9 +3662,9 @@ ming lin 	名林	c=2 d=4.00163e-20 t=51676
 ming ling 	命令	c=108 d=1.9891 t=51676
 ming ling hang 	命令行	c=10 d=0.900325 t=51676
 ming ling li 	命令裏	c=1 d=1.09757e-07 t=51676
-ming ming 	命名	c=6 d=4.26602e-08 t=51676
-ming ming 	明明	c=1 d=4.48474e-08 t=51676
-ming que 	明確	c=1 d=0.0020396 t=51676
+ming ming 	命名	c=7 d=0.398519 t=51676
+ming ming 	明明	c=2 d=0.000930303 t=51676
+ming que 	明確	c=2 d=0.0020396 t=51676
 ming tian 	明天	c=3 d=1.81954e-39 t=51676
 ming wen 	明文	c=2 d=0.158817 t=51676
 ming xian 	明顯	c=1 d=4.40268e-26 t=51676
@@ -3628,7 +3709,7 @@ mo ying ren 	魔影人	c=1 d=2.17799e-40 t=51676
 mo zu 	模組	c=1 d=2.75496e-40 t=51676
 mou 	某	c=18 d=0.942772 t=51676
 mou 	眸	c=0 d=0.000215492 t=51676
-mou bu fen 	某部分	c=1 d=4.06833e-38 t=51676
+mou bu fen 	某部分	c=2 d=0.0285814 t=51676
 mou ci 	某次	c=1 d=6.32318e-79 t=51676
 mou ge 	某個	c=59 d=1.47007 t=51676
 mou mou 	哞哞	c=0 d=0.000215492 t=51676
@@ -3650,14 +3731,14 @@ mou zhong 	某種	c=4 d=5.65607e-45 t=51676
 mu 	木	c=2 d=3.4674e-40 t=51676
 mu 	目	c=2 d=9.58962e-08 t=51676
 mu ban 	木板	c=3 d=7.16738e-40 t=51676
-mu ban 	模板	c=20 d=0.6704 t=51676
-mu biao 	目標	c=49 d=1.05737e-08 t=51676
-mu di 	目的	c=8 d=0.0335406 t=51676
+mu ban 	模板	c=27 d=1.67157 t=51676
+mu biao 	目標	c=51 d=0.817963 t=51676
+mu di 	目的	c=8 d=0.0972957 t=51676
 mu lu 	目錄	c=62 d=1.35869 t=51676
 mu lu shang 	目錄上	c=1 d=9.12037e-06 t=51676
 mu lu shu 	目錄樹	c=1 d=8.89519e-06 t=51676
 mu lu xia 	目錄下	c=13 d=2.69653e-08 t=51676
-mu qian 	目前	c=12 d=0.00134683 t=51676
+mu qian 	目前	c=14 d=0.0137039 t=51676
 mu qin 	母親	c=2 d=1.40535e-52 t=51676
 na 	哪	c=1 d=3.35213e-54 t=51676
 na 	娜	c=2 d=3.31877e-54 t=51676
@@ -3673,7 +3754,7 @@ na ge 	那個	c=12 d=3.08319e-10 t=51676
 na guo lai 	拿過來	c=1 d=1.37821e-68 t=51676
 na jia 	哪家	c=1 d=6.73314e-24 t=51676
 na jiu shi 	那就是	c=1 d=1.01263e-30 t=51676
-na li 	哪裏	c=29 d=0.847953 t=51676
+na li 	哪裏	c=30 d=0.847953 t=51676
 na li 	那裏	c=10 d=0.852314 t=51676
 na li le 	哪裏了	c=1 d=3.28932e-08 t=51676
 na li you 	哪裏有	c=1 d=1.43495e-72 t=51676
@@ -3681,9 +3762,11 @@ na me 	那麼	c=31 d=0.942411 t=51676
 na me duo 	那麼多	c=1 d=0.000160054 t=51676
 na mei shi 	那沒事	c=1 d=1.00392e-46 t=51676
 na na 	訥訥	c=1 d=8.96357e-96 t=51676
+na pian 	哪篇	c=1 d=1 t=48462
 na shi 	那是	c=1 d=5.12128e-40 t=51676
 na wo 	那我	c=2 d=0.0137049 t=51676
-na xie 	哪些	c=38 d=0.989081 t=51676
+na xi da 	纳西妲	c=3 d=2.97516 t=48286
+na xie 	哪些	c=41 d=1.21029 t=51676
 na xie 	那些	c=1 d=3.29033e-41 t=51676
 na xie biao 	哪些表	c=1 d=6.63473e-86 t=51676
 na yang 	那樣	c=5 d=2.06326e-21 t=51676
@@ -3702,7 +3785,7 @@ nai 	奶	c=1 d=9.1468e-40 t=51676
 nai jiu 	耐久	c=1 d=6.47795e-40 t=51676
 nai lao 	耐勞	c=1 d=1.47282e-55 t=51676
 nai li 	耐力	c=1 d=5.77422e-40 t=51676
-nai lin 	乃琳	c=1 d=0.00148106 t=51676
+nai lin 	乃琳	c=2 d=0.579842 t=51676
 nai zi 	奶子	c=3 d=0.0223838 t=51676
 nan 	男	c=6 d=3.47149e-10 t=51676
 nan 	難	c=2 d=1.16663e-19 t=51676
@@ -3729,12 +3812,13 @@ nei he e 	內核呃	c=1 d=2.04767e-20 t=51676
 nei he tai 	內核態	c=5 d=0.0147298 t=51676
 nei he zhan 	内核栈	c=1 d=0.00388746 t=51676
 nei lian jie 	內連接	c=1 d=8.20657e-58 t=51676
-nei rong 	內容	c=94 d=0.562716 t=51676
+nei rong 	內容	c=101 d=0.831111 t=51676
 nei rong fen 	內容分	c=1 d=6.89303e-06 t=51676
 nei she 	內射	c=1 d=3.82412e-45 t=51676
 nei tui 	內推	c=0 d=4.17701e-55 t=51676
 nei tui ma 	內推嗎	c=1 d=4.19794e-54 t=51676
 nei wang 	內網	c=2 d=7.66428e-83 t=51676
+nei xin 	內心	c=1 d=1 t=46903
 nei zhi 	內置	c=10 d=0.0587215 t=51676
 nen gou 	嫩構	c=1 d=7.28849e-74 t=51676
 neng 	能	c=34 d=0.565158 t=51676
@@ -3762,6 +3846,7 @@ ni cuo 	你錯	c=1 d=0.00279479 t=51676
 ni de 	你的	c=11 d=0.0526484 t=51676
 ni dui 	你對	c=1 d=8.29805e-13 t=51676
 ni dui wo 	你對我	c=2 d=1.08926e-10 t=51676
+ni ge 	你個	c=1 d=1 t=47207
 ni guang 	逆光	c=1 d=5.71464e-65 t=51676
 ni hai zai 	你還在	c=0 d=7.71839e-14 t=51676
 ni hai zai ma 	你還在嗎	c=1 d=7.75708e-13 t=51676
@@ -3780,6 +3865,7 @@ ni kan 	你看	c=5 d=0.856415 t=51676
 ni kan dao 	你看到	c=1 d=5.83107e-67 t=51676
 ni ke yi 	你可以	c=5 d=0.000208928 t=51676
 ni lu qu 	擬錄取	c=7 d=1.66037e-51 t=51676
+ni ma 	你媽	c=0 d=0.1 t=46281
 ni mei 	你沒	c=1 d=1.17751e-40 t=51676
 ni men 	你們	c=4 d=0.0241131 t=51676
 ni ming xing 	匿名性	c=1 d=1.41286e-66 t=51676
@@ -3789,11 +3875,11 @@ ni nv er 	你女兒	c=1 d=1.59359e-41 t=51676
 ni qu 	你去	c=1 d=3.68181e-40 t=51676
 ni ren wei 	你認爲	c=3 d=0.0132999 t=51676
 ni shi 	你是	c=9 d=1.35547e-78 t=51676
-ni shi shui 	你是誰	c=13 d=2.51664e-05 t=51676
+ni shi shui 	你是誰	c=13 d=0.00918669 t=51676
 ni shui 	逆水	c=0 d=9.91535e-49 t=51676
 ni shui han 	逆水寒	c=4 d=4.50791e-47 t=51676
 ni shuo 	你說	c=4 d=1.54575e-06 t=51676
-ni shuo de 	你說的	c=1 d=5.06498e-57 t=51676
+ni shuo de 	你說的	c=2 d=0.000614317 t=51676
 ni tian 	逆天	c=1 d=5.788e-68 t=51676
 ni tu 	泥土	c=1 d=4.75123e-40 t=51676
 ni wang 	你忘	c=1 d=0.394554 t=51676
@@ -3826,6 +3912,7 @@ niang niang 	孃孃	c=0 d=1.32237e-53 t=51676
 niang niang ba 	孃孃壩	c=1 d=1.329e-52 t=51676
 nie 	捏	c=0 d=0.0995012 t=51676
 nie lian 	捏臉	c=1 d=1.50079e-41 t=51676
+nie zao 	捏造	c=1 d=1 t=46736
 nie zhu 	捏住	c=0 d=2.22313e-47 t=51676
 nin 	您	c=1 d=6.31801e-40 t=51676
 nin hao 	您好	c=2 d=0.00179994 t=51676
@@ -3853,6 +3940,7 @@ o o 	哦哦	c=9 d=8.00882e-41 t=51676
 ou 	偶	c=0 d=9.14309e-95 t=51676
 ou fei 	歐非	c=1 d=3.27204e-93 t=51676
 ou he du 	耦合度	c=1 d=3.22738e-49 t=51676
+ou ka 	歐卡	c=1 d=1 t=47060
 ou lu 	歐陸	c=0 d=2.34388e-81 t=51676
 ou lu la ma 	歐陸喇嘛	c=1 d=2.35563e-80 t=51676
 ou shi 	歐式	c=0 d=9.47291e-12 t=51676
@@ -3863,7 +3951,7 @@ pa chong 	爬蟲	c=5 d=9.12318e-39 t=51676
 pa qu 	爬取	c=2 d=2.64154e-16 t=51676
 pai 	排	c=1 d=1.27233e-10 t=51676
 pai 	派	c=0 d=3.05726e-60 t=51676
-pai ban 	排版	c=2 d=4.32489e-73 t=51676
+pai ban 	排版	c=6 d=0.269756 t=51676
 pai ban 	排班	c=1 d=2.37445e-56 t=51676
 pai chu 	排除	c=4 d=0.501576 t=51676
 pai dao 	拍到	c=1 d=6.33308e-68 t=51676
@@ -3881,6 +3969,7 @@ pai zai 	排在	c=2 d=1.69216e-92 t=51676
 pan 	盤	c=6 d=0.966726 t=51676
 pan ding 	判定	c=3 d=6.27153e-12 t=51676
 pan duan 	判斷	c=13 d=0.979412 t=51676
+pan fu 	盤符	c=2 d=1.956 t=46480
 pan jue 	判決	c=1 d=6.96304e-66 t=51676
 pang da 	龐大	c=1 d=1.35732e-06 t=51676
 pao 	跑	c=3 d=3.38189e-11 t=51676
@@ -3893,16 +3982,18 @@ pei dui 	配對	c=2 d=1.1189e-09 t=51676
 pei dui 	配隊	c=3 d=1.69411e-89 t=51676
 pei he 	配合	c=1 d=7.70608e-53 t=51676
 pei jian 	配件	c=2 d=1.52107e-39 t=51676
+pei tao 	配套	c=1 d=1 t=48509
 pei zhi 	配置	c=153 d=9.36419 t=51676
+pei zhi 	配製	c=1 d=1 t=46201
 pei zhi wen jian 	配置文件	c=1 d=3.75466e-94 t=51676
-pei zhi xiang 	配置項	c=1 d=4.87167e-12 t=51676
+pei zhi xiang 	配置項	c=2 d=0.000617396 t=51676
 peng you 	朋友	c=5 d=2.44983e-16 t=51676
 peng zhang 	膨脹	c=1 d=2.15749e-17 t=51676
 peng zhuang 	碰撞	c=1 d=5.06843e-65 t=51676
 pi ci 	批次	c=1 d=8.32068e-44 t=51676
 pi fu 	皮膚	c=3 d=6.94669e-09 t=51676
 pi ge 	皮革	c=2 d=1.36947e-39 t=51676
-pi liang 	批量	c=7 d=3.35913e-39 t=51676
+pi liang 	批量	c=8 d=0.000165755 t=51676
 pi pei 	匹配	c=14 d=0.946485 t=51676
 pi pei dao 	匹配到	c=1 d=2.57229e-27 t=51676
 pi pei de 	匹配的	c=1 d=2.67946e-66 t=51676
@@ -3940,7 +4031,7 @@ ping gu 	評估	c=1 d=8.8034e-31 t=51676
 ping heng 	平衡	c=1 d=4.63945e-54 t=51676
 ping hua 	平滑	c=1 d=0.000326335 t=51676
 ping hua du 	平滑度	c=1 d=0.00327971 t=51676
-ping jia 	評價	c=21 d=0.00628535 t=51676
+ping jia 	評價	c=21 d=0.00683978 t=51676
 ping jia ai 	評價愛	c=1 d=7.14927e-53 t=51676
 ping ju 	平局	c=1 d=2.68329e-24 t=51676
 ping jun 	平均	c=2 d=2.08719e-39 t=51676
@@ -3948,8 +4039,9 @@ ping jun fen 	平均分	c=9 d=1.29156e-10 t=51676
 ping jun zhi 	平均值	c=1 d=4.86638e-57 t=51676
 ping mu 	屏幕	c=34 d=0.0294518 t=51676
 ping mu shang 	屏幕上	c=4 d=3.79161e-15 t=51676
+ping pu 	平鋪	c=1 d=1 t=46225
 ping shi 	平時	c=4 d=1.88011e-45 t=51676
-ping tai 	平臺	c=28 d=0.162026 t=51676
+ping tai 	平臺	c=29 d=0.162026 t=51676
 ping tai ma 	平臺嗎	c=1 d=2.88873e-39 t=51676
 ping yi 	平移	c=4 d=0.186197 t=51676
 po 	破	c=2 d=1.22651e-38 t=51676
@@ -3959,7 +4051,7 @@ po zai mei jie 	迫在眉睫	c=1 d=7.81855e-47 t=51676
 pou xi 	剖析	c=1 d=0.0593087 t=51676
 pu tong 	普通	c=12 d=8.55222e-14 t=51676
 pu tong ren 	普通人	c=1 d=2.05612e-39 t=51676
-qi 	其	c=36 d=0.0466571 t=51676
+qi 	其	c=37 d=0.0466571 t=51676
 qi 	器	c=12 d=0.23457 t=51676
 qi 	期	c=1 d=0.00932553 t=51676
 qi 	起	c=4 d=3.4e-15 t=51676
@@ -3988,11 +4080,12 @@ qi sha 	起啥	c=1 d=2.17792e-69 t=51676
 qi shan 	岐山	c=1 d=1.58316e-52 t=51676
 qi shan xian 	岐山縣	c=2 d=4.30495e-56 t=51676
 qi shen me 	起什麼	c=2 d=0.000297529 t=51676
-qi shi 	其實	c=6 d=1.67883e-07 t=51676
+qi shi 	其實	c=6 d=0.0187793 t=51676
 qi shi 	起始	c=2 d=6.42702e-06 t=51676
 qi shi shuo 	其是說	c=1 d=2.22237e-42 t=51676
 qi ta 	其他	c=55 d=0.418744 t=51676
 qi wang 	期望	c=6 d=4.23883e-21 t=51676
+qi xia 	旗下	c=1 d=1 t=47049
 qi ya na 	琪亞娜	c=1 d=1.6254e-97 t=51676
 qi ye 	企業	c=2 d=1.01225e-55 t=51676
 qi yi 	其一	c=1 d=2.6455e-63 t=51676
@@ -4002,6 +4095,7 @@ qi you 	汽油	c=1 d=2.73936e-32 t=51676
 qi yu 	其餘	c=3 d=1.15684e-18 t=51676
 qi yu 	奇遇	c=1 d=2.03566e-39 t=51676
 qi yuan 	祈願	c=1 d=3.9047e-55 t=51676
+qi zhang 	七章	c=1 d=1 t=47497
 qi zhong 	其中	c=24 d=1.14223 t=51676
 qi zuo yong 	起作用	c=1 d=8.22528e-26 t=51676
 qian 	前	c=15 d=0.0982736 t=51676
@@ -4016,7 +4110,8 @@ qian duan 	前端	c=24 d=0.0248723 t=51676
 qian fang 	前方	c=1 d=0.0675424 t=51676
 qian hou 	前後	c=1 d=0.00505395 t=51676
 qian hou duan 	前後段	c=6 d=0.156989 t=51676
-qian hou duan 	前後端	c=1 d=0.0507928 t=51676
+qian hou duan 	前後端	c=2 d=0.0507928 t=51676
+qian huan 	前換	c=1 d=1 t=46444
 qian ji ge 	前幾個	c=1 d=3.09009e-67 t=51676
 qian kui 	前饋	c=1 d=1.85332e-82 t=51676
 qian lang 	千浪	c=1 d=8.27636e-40 t=51676
@@ -4038,6 +4133,7 @@ qian shi 	前十	c=2 d=0.000182406 t=51676
 qian shu 	簽署	c=2 d=2.0828e-73 t=51676
 qian shu zhe 	簽署者	c=3 d=4.6246e-79 t=51676
 qian tao 	嵌套	c=2 d=0.0122773 t=51676
+qian ti xia 	前提下	c=1 d=1 t=48181
 qian xi 	前戲	c=1 d=1.58975e-42 t=51676
 qian xian 	前線	c=1 d=1.07433e-20 t=51676
 qian xing 	乾星	c=2 d=2.0255e-39 t=51676
@@ -4059,6 +4155,7 @@ qie 	且	c=57 d=0.182738 t=51676
 qie 	切	c=3 d=0.591555 t=51676
 qie huan 	切換	c=29 d=3.20018 t=51676
 qie huan dao 	切換到	c=3 d=0.00249096 t=51676
+qie huan wei 	切換爲	c=1 d=1 t=48320
 qie ping mian 	切平面	c=1 d=4.27169e-53 t=51676
 qie yu 	且於	c=1 d=1.64642e-13 t=51676
 qin fan 	侵犯	c=1 d=0.0125881 t=51676
@@ -4091,11 +4188,13 @@ qing meng 	清夢	c=2 d=3.87136e-64 t=51676
 qing ni 	請你	c=162 d=1.40949 t=51676
 qing qi 	氫氣	c=1 d=3.81023e-61 t=51676
 qing qing 	輕輕	c=1 d=2.11808e-06 t=51676
-qing qiu 	請求	c=56 d=0.0846343 t=51676
+qing qiu 	請求	c=59 d=0.0846343 t=51676
+qing qiu shi 	請求是	c=1 d=1 t=47142
 qing qiu ti 	請求體	c=2 d=6.22228e-07 t=51676
 qing qiu tou 	請求頭	c=1 d=6.2722e-72 t=51676
 qing qu 	情趣	c=1 d=0.075774 t=51676
-qing shu ru 	請輸入	c=1 d=4.88428e-12 t=51676
+qing shu ru 	請輸入	c=1 d=0.0470011 t=51676
+qing shu ru wen ben 	請輸入文本	c=1 d=1 t=48551
 qing wei 	輕微	c=1 d=3.9473e-65 t=51676
 qing wen 	晴問	c=3 d=0.019223 t=51676
 qing wen 	請問	c=10 d=0.00188279 t=51676
@@ -4105,7 +4204,7 @@ qiong 	穹	c=0 d=2.33226e-52 t=51676
 qiong 	窮	c=1 d=1.45995e-40 t=51676
 qiong ma 	瓊麻	c=0 d=2.45568e-41 t=51676
 qiu 	啾	c=3 d=2.15898e-07 t=51676
-qiu 	求	c=7 d=0.0432828 t=51676
+qiu 	求	c=7 d=0.543351 t=51676
 qiu 	球	c=1 d=1.34304e-58 t=51676
 qiu bi 	瞅比	c=1 d=5.31579e-08 t=51676
 qiu he 	求和	c=1 d=3.37374e-12 t=51676
@@ -4115,7 +4214,7 @@ qiu ye 	秋葉	c=2 d=1.39731e-44 t=51676
 qiu yuan 	仇遠	c=2 d=4.44073e-39 t=51676
 qiu zhao 	秋招	c=3 d=1.21326e-58 t=51676
 qiu zhi 	求職	c=3 d=0.970446 t=51676
-qu 	區	c=6 d=9.14242e-05 t=51676
+qu 	區	c=6 d=0.562705 t=51676
 qu 	去	c=18 d=1.18591e-06 t=51676
 qu 	取	c=3 d=2.48002e-09 t=51676
 qu 	曲	c=0 d=3.5094e-65 t=51676
@@ -4138,7 +4237,7 @@ qu jian 	區間	c=1 d=3.53372e-57 t=51676
 qu kuai lian 	區塊鏈	c=4 d=0.00798652 t=51676
 qu mian 	曲面	c=4 d=2.45487e-51 t=51676
 qu mo 	取模	c=2 d=6.44659e-71 t=51676
-qu xian 	曲線	c=5 d=0.00162053 t=51676
+qu xian 	曲線	c=6 d=0.00310901 t=51676
 qu xiao 	取消	c=2 d=0.240508 t=51676
 qu xin 	去心	c=3 d=5.89588e-50 t=51676
 qu yu 	區域	c=9 d=0.0387742 t=51676
@@ -4154,7 +4253,7 @@ quan ban 	全班	c=1 d=3.47142e-83 t=51676
 quan bei 	全被	c=1 d=2.17126e-33 t=51676
 quan biao 	全表	c=1 d=0.000395642 t=51676
 quan biao sao miao 	全表掃描	c=1 d=8.05118e-39 t=51676
-quan bu 	全部	c=10 d=0.0753403 t=51676
+quan bu 	全部	c=12 d=0.0753403 t=51676
 quan chang jing 	全場景	c=4 d=2.3909e-49 t=51676
 quan cheng 	全程	c=3 d=4.75282e-31 t=51676
 quan cheng 	全稱	c=12 d=0.750708 t=51676
@@ -4164,7 +4263,7 @@ quan guo 	全國	c=10 d=0.496585 t=51676
 quan guo cheng 	全過程	c=1 d=0.000128446 t=51676
 quan hei 	全黑	c=2 d=2.62107e-67 t=51676
 quan heng 	權衡	c=1 d=2.76153e-68 t=51676
-quan ju 	全局	c=15 d=8.54786e-08 t=51676
+quan ju 	全局	c=17 d=0.661904 t=51676
 quan ju bao 	全局包	c=2 d=0.0309618 t=51676
 quan lan 	全藍	c=1 d=2.59444e-69 t=51676
 quan lian jie 	全連接	c=1 d=8.16564e-58 t=51676
@@ -4172,6 +4271,7 @@ quan lian lu 	全鏈路	c=1 d=7.11845e-61 t=51676
 quan liang 	全量	c=1 d=0.279431 t=51676
 quan liu cheng 	全流程	c=2 d=2.99173e-10 t=51676
 quan liu cheng 	權流程	c=1 d=2.80861e-61 t=51676
+quan ma 	全嗎	c=1 d=1 t=46929
 quan mian 	全面	c=3 d=4.4362e-27 t=51676
 quan min 	全民	c=2 d=2.61373e-60 t=51676
 quan pan 	全盤	c=1 d=3.93589e-31 t=51676
@@ -4184,15 +4284,16 @@ quan ti ren min 	全體人民	c=1 d=0.000134358 t=51676
 quan wei 	全爲	c=1 d=5.13104e-33 t=51676
 quan wei 	權威	c=1 d=7.71683e-40 t=51676
 quan wei fen 	全微分	c=1 d=4.13474e-52 t=51676
-quan xian 	權限	c=4 d=2.57088e-07 t=51676
+quan xian 	權限	c=4 d=6.05274e-07 t=51676
 quan yong 	全用	c=1 d=1.48016e-84 t=51676
 quan zhong 	權重	c=9 d=2.27166e-06 t=51676
 quan zi dong 	全自動	c=3 d=4.13515e-36 t=51676
 que 	卻	c=10 d=2.95481e-11 t=51676
-que 	缺	c=1 d=1.49279e-37 t=51676
-que bao 	確保	c=14 d=0.444858 t=51676
+que 	確	c=1 d=1 t=47025
+que 	缺	c=2 d=0.158025 t=51676
+que bao 	確保	c=15 d=0.444858 t=51676
 que dian 	缺點	c=4 d=0.0830281 t=51676
-que ding 	確定	c=8 d=1.37807e-08 t=51676
+que ding 	確定	c=8 d=0.000183188 t=51676
 que neng 	卻能	c=1 d=0.806541 t=51676
 que ren 	確認	c=3 d=7.82223e-51 t=51676
 que ren hao 	確認好	c=1 d=1.00703e-53 t=51676
@@ -4217,7 +4318,7 @@ rang wo 	讓我	c=5 d=0.752014 t=51676
 rang zi ji 	讓自己	c=2 d=0.00552099 t=51676
 rao 	繞	c=2 d=0.0391639 t=51676
 rao 	饒	c=1 d=6.15448e-55 t=51676
-rao guo 	繞過	c=3 d=0.000119762 t=51676
+rao guo 	繞過	c=4 d=0.000119762 t=51676
 re 	熱	c=1 d=0.00585769 t=51676
 re ai 	熱愛	c=6 d=1.40252e-10 t=51676
 re bang 	熱榜	c=4 d=0.909373 t=51676
@@ -4241,6 +4342,7 @@ ren lei 	人類	c=10 d=0.000425922 t=51676
 ren lian 	人臉	c=6 d=3.24929e-11 t=51676
 ren men 	人們	c=2 d=1.71861e-46 t=51676
 ren min 	人民	c=3 d=0.000274157 t=51676
+ren ming 	人名	c=1 d=1 t=47563
 ren ming 	任命	c=1 d=0.000131041 t=51676
 ren qi 	人氣	c=1 d=8.96139e-05 t=51676
 ren shi 	認識	c=1 d=1.10435e-50 t=51676
@@ -4250,13 +4352,13 @@ ren tuo 	任拓	c=1 d=1.07062e-38 t=51676
 ren wei 	人爲	c=6 d=2.0066e-24 t=51676
 ren wei 	認爲	c=2 d=1.94331e-81 t=51676
 ren wo 	人我	c=0 d=4.90745e-98 t=51676
-ren wu 	人物	c=44 d=7.01061e-09 t=51676
-ren wu 	任務	c=32 d=0.319851 t=51676
+ren wu 	人物	c=45 d=0.000665481 t=51676
+ren wu 	任務	c=33 d=0.319851 t=51676
 ren wu ka 	人物卡	c=2 d=1.09131e-28 t=51676
 ren wu lan 	任務欄	c=1 d=2.76144e-97 t=51676
 ren wu shu 	任務書	c=2 d=2.5204e-44 t=51676
 ren xing 	人性	c=1 d=2.0349e-64 t=51676
-ren yi 	任意	c=11 d=0.00114197 t=51676
+ren yi 	任意	c=12 d=0.00114197 t=51676
 ren yi jian 	任意鍵	c=1 d=7.40416e-24 t=51676
 ren yu zi ran 	人與自然	c=1 d=0.000136389 t=51676
 ren yuan 	人員	c=1 d=4.87815e-56 t=51676
@@ -4296,7 +4398,7 @@ ru ci 	如此	c=3 d=0.246597 t=51676
 ru eh 	如誒	c=1 d=0.00433948 t=51676
 ru guo 	如果	c=85 d=1.76751 t=51676
 ru guo you 	如果有	c=2 d=5.15149e-21 t=51676
-ru he 	如何	c=389 d=4.88293 t=51676
+ru he 	如何	c=389 d=5.15436 t=51676
 ru he e 	如何呃	c=1 d=1.64184e-39 t=51676
 ru jin 	如今	c=1 d=7.10998e-47 t=51676
 ru kou 	入口	c=6 d=0.0037068 t=51676
@@ -4321,19 +4423,19 @@ rui 	瑞	c=1 d=1.22975e-80 t=51676
 rui fang 	瑞芳	c=3 d=1.60632e-17 t=51676
 rui jin 	瑞錦	c=1 d=2.28212e-60 t=51676
 rui long 	銳龍	c=1 d=1.88005e-74 t=51676
-run se 	潤色	c=20 d=1.09962 t=51676
-ruo 	若	c=15 d=8.59774e-47 t=51676
+run se 	潤色	c=21 d=1.09962 t=51676
+ruo 	若	c=17 d=0.0604017 t=51676
 ruo gan 	若干	c=2 d=4.56508e-11 t=51676
 sai 	賽	c=4 d=2.15259e-49 t=51676
 sai dao 	賽道	c=1 d=8.18817e-61 t=51676
 sai ji 	賽季	c=2 d=9.69033e-55 t=51676
 sai qu 	賽區	c=5 d=8.35774e-59 t=51676
-san 	三	c=12 d=0.472367 t=51676
+san 	三	c=13 d=0.472367 t=51676
 san ci 	三次	c=3 d=1.64217e-12 t=51676
 san deng jiang 	三等獎	c=2 d=9.90154e-61 t=51676
 san dui 	三對	c=2 d=6.95684e-08 t=51676
 san fen 	三分	c=1 d=1.33448e-71 t=51676
-san ge 	三個	c=16 d=0.798982 t=51676
+san ge 	三個	c=17 d=0.798982 t=51676
 san ge dian 	三個點	c=1 d=1.73432e-66 t=51676
 san ge e 	三個呃	c=1 d=1.14271e-40 t=51676
 san ji 	三級	c=2 d=0.0207543 t=51676
@@ -4349,7 +4451,7 @@ san tai 	三態	c=1 d=1.29446e-84 t=51676
 san tai tu 	三態圖	c=4 d=1.05893e-83 t=51676
 san ti 	三體	c=1 d=1.1234e-16 t=51676
 san wei 	三維	c=1 d=1.0541e-61 t=51676
-san xuan er 	三渲二	c=4 d=1.0158e-08 t=51676
+san xuan er 	三渲二	c=6 d=0.241871 t=51676
 san yuan 	三元	c=1 d=4.90876e-12 t=51676
 san zhang 	三張	c=1 d=0.0198411 t=51676
 san zhong 	三種	c=4 d=1.6169e-06 t=51676
@@ -4361,12 +4463,12 @@ sao rao 	騷擾	c=1 d=1.63249e-60 t=51676
 sao sheng 	臊聲	c=1 d=5.21374e-74 t=51676
 se 	色	c=7 d=0.0271375 t=51676
 se cai 	色彩	c=1 d=5.27634e-38 t=51676
-se qing 	色情	c=2 d=2.37662e-08 t=51676
+se qing 	色情	c=2 d=0.000116806 t=51676
 se xiang 	色相	c=1 d=5.38293e-38 t=51676
 sen 	森	c=1 d=1.2302e-55 t=51676
 sha 	啥	c=4 d=4.98194e-39 t=51676
 sha 	殺	c=2 d=8.14994e-41 t=51676
-sha bi 	傻逼	c=2 d=2.56236e-33 t=51676
+sha bi 	傻逼	c=5 d=0.00108325 t=51676
 sha de 	啥的	c=0 d=1.96457e-63 t=51676
 sha de er 	啥的而	c=1 d=1.97442e-62 t=51676
 sha fa 	沙發	c=1 d=0.0150707 t=51676
@@ -4383,6 +4485,7 @@ shan chu 	刪除	c=40 d=0.91166 t=51676
 shan chu biao 	刪除表	c=1 d=3.10876e-79 t=51676
 shan chu le 	刪除了	c=1 d=5.27994e-46 t=51676
 shan chu ma 	刪除嗎	c=1 d=0.268474 t=51676
+shan diao 	刪掉	c=1 d=1 t=46269
 shan dong 	山東	c=3 d=5.19093e-54 t=51676
 shan hei 	閃黑	c=1 d=2.594e-67 t=51676
 shan jian 	刪減	c=1 d=1.75634e-38 t=51676
@@ -4398,6 +4501,8 @@ shang 	商	c=1 d=4.7814e-85 t=51676
 shang 	尚	c=1 d=1.47995e-53 t=51676
 shang 	裳	c=1 d=4.15193e-42 t=51676
 shang ban 	上班	c=2 d=5.87485e-08 t=51676
+shang bu 	上部	c=1 d=1 t=47400
+shang bu lai 	上不來	c=1 d=1 t=48232
 shang ce 	上冊	c=1 d=2.54878e-66 t=51676
 shang ceng 	上層	c=1 d=1.7332e-29 t=51676
 shang chuan 	上傳	c=9 d=0.0244775 t=51676
@@ -4415,10 +4520,11 @@ shang ke 	上課	c=1 d=5.90913e-47 t=51676
 shang lai 	上來	c=2 d=1.92207e-40 t=51676
 shang lian 	上鍊	c=1 d=4.96553e-59 t=51676
 shang men 	上門	c=1 d=1.16196e-60 t=51676
-shang mian 	上面	c=12 d=1.14398e-19 t=51676
+shang mian 	上面	c=13 d=0.0939493 t=51676
 shang mian de 	上面的	c=1 d=3.85377e-77 t=51676
 shang sheng 	上升	c=2 d=2.41365e-28 t=51676
 shang shu 	上述	c=6 d=0.00455506 t=51676
+shang tu 	上凸	c=2 d=1.99005 t=47410
 shang wei 	上位	c=0 d=0.000594622 t=51676
 shang wei ji 	上位機	c=4 d=0.027772 t=51676
 shang wen 	上文	c=1 d=1.26871e-94 t=51676
@@ -4447,13 +4553,13 @@ she bei hao 	設備好	c=2 d=2.22293e-05 t=51676
 she hui 	社會	c=3 d=0.00012465 t=51676
 she ji 	射擊	c=8 d=4.42298e-29 t=51676
 she ji 	涉及	c=9 d=0.0222592 t=51676
-she ji 	設計	c=46 d=0.239554 t=51676
+she ji 	設計	c=50 d=0.239554 t=51676
 she ji dao 	涉及到	c=3 d=8.7446e-11 t=51676
 she ji mo shi 	設計模式	c=2 d=3.53131e-49 t=51676
 she li 	設立	c=2 d=0.0140978 t=51676
 she me 	什麼	c=2 d=1.86146e-17 t=51676
 she qu 	社區	c=9 d=1.06764 t=51676
-she wei 	設爲	c=1 d=8.2992e-43 t=51676
+she wei 	設爲	c=2 d=0.146607 t=51676
 she xian 	射線	c=0 d=2.63312e-97 t=51676
 she xian guan 	射線管	c=1 d=2.64632e-96 t=51676
 she xiang ji 	攝像機	c=10 d=0.376376 t=51676
@@ -4466,10 +4572,10 @@ she zhi wei 	設置爲	c=1 d=1.95039e-65 t=51676
 shen 	沈	c=2 d=9.45776e-42 t=51676
 shen 	深	c=1 d=2.5448e-77 t=51676
 shen 	申	c=4 d=0.722527 t=51676
-shen 	神	c=10 d=0.458406 t=51676
-shen 	身	c=3 d=2.00576e-12 t=51676
+shen 	神	c=11 d=0.458406 t=51676
+shen 	身	c=4 d=0.548812 t=51676
 shen cha 	審查	c=2 d=4.47187e-63 t=51676
-shen du 	深度	c=18 d=0.13604 t=51676
+shen du 	深度	c=19 d=0.13604 t=51676
 shen er 	甚而	c=0 d=1.11424e-97 t=51676
 shen er mo 	深二模	c=1 d=3.97722e-95 t=51676
 shen fen 	身份	c=10 d=9.53382e-07 t=51676
@@ -4481,6 +4587,7 @@ shen jing 	神經	c=4 d=9.10428e-44 t=51676
 shen lan 	深藍	c=1 d=1.58091e-94 t=51676
 shen me 	什麼	c=376 d=5.34876 t=51676
 shen me e 	什麼哦	c=1 d=3.0003e-73 t=51676
+shen me yang 	什麼樣	c=1 d=1 t=48626
 shen pi 	審批	c=1 d=5.23631e-66 t=51676
 shen qing 	申請	c=2 d=4.66747e-66 t=51676
 shen ren 	神人	c=2 d=0.640824 t=51676
@@ -4493,19 +4600,19 @@ shen zhen 	深圳	c=3 d=0.0948311 t=51676
 shen zhen da xue 	深圳大學	c=1 d=0.00278085 t=51676
 shen zhi 	甚至	c=9 d=0.0227089 t=51676
 sheng 	昇	c=1 d=0.222017 t=51676
-sheng 	生	c=5 d=1.80332e-25 t=51676
+sheng 	生	c=6 d=0.082085 t=51676
 sheng 	省	c=10 d=4.27779e-11 t=51676
 sheng 	聖	c=0 d=7.54603e-13 t=51676
 sheng 	聲	c=2 d=5.69483e-16 t=51676
 sheng chan 	生產	c=3 d=8.48182e-05 t=51676
-sheng cheng 	生成	c=87 d=1.0459 t=51676
+sheng cheng 	生成	c=98 d=1.0459 t=51676
 sheng cun 	生存	c=2 d=1.12903e-16 t=51676
 sheng ji 	升級	c=10 d=6.15668e-16 t=51676
 sheng jia ran 	聖嘉然	c=1 d=7.58385e-12 t=51676
 sheng li 	勝利	c=3 d=2.6699e-24 t=51676
 sheng lve 	省略	c=4 d=0.201897 t=51676
 sheng lve hao 	省略號	c=1 d=1.75175e-66 t=51676
-sheng ming 	聲明	c=3 d=0.479102 t=51676
+sheng ming 	聲明	c=3 d=0.650509 t=51676
 sheng qu 	省去	c=1 d=1.64979e-37 t=51676
 sheng ren 	勝任	c=2 d=0.00197932 t=51676
 sheng wu 	生物	c=3 d=5.62074e-67 t=51676
@@ -4530,8 +4637,9 @@ shi 	時	c=244 d=2.60857 t=51676
 shi 	石	c=3 d=2.77274e-40 t=51676
 shi 	視	c=1 d=3.26536e-69 t=51676
 shi a 	是啊	c=1 d=0.00831246 t=51676
-shi ba 	是吧	c=3 d=2.2984e-26 t=51676
+shi ba 	是吧	c=4 d=0.67368 t=51676
 shi bai 	失敗	c=7 d=1.06088 t=51676
+shi bian 	實變	c=1 d=1 t=47596
 shi bie 	識別	c=46 d=0.491649 t=51676
 shi bie chu 	識別出	c=1 d=3.5449e-06 t=51676
 shi bu shi 	是不是	c=2 d=8.87798e-42 t=51676
@@ -4544,20 +4652,21 @@ shi fang 	釋放	c=3 d=5.24357e-45 t=51676
 shi fen 	十分	c=1 d=2.72097e-41 t=51676
 shi fen 	時分	c=1 d=9.13532e-84 t=51676
 shi fou 	是否	c=49 d=0.917121 t=51676
+shi gao 	石膏	c=1 d=1 t=48329
 shi hao 	諡號	c=1 d=1.66864e-53 t=51676
-shi he 	適合	c=7 d=8.43952e-05 t=51676
+shi he 	適合	c=8 d=0.0144076 t=51676
 shi hou 	時候	c=2 d=7.50539e-86 t=51676
 shi ji 	實際	c=3 d=2.01026e-09 t=51676
-shi ji 	時機	c=2 d=1.82051e-19 t=51676
+shi ji 	時機	c=3 d=0.923116 t=51676
 shi ji shang 	實際上	c=1 d=0.33454 t=51676
-shi jian 	事件	c=15 d=8.30616e-12 t=51676
+shi jian 	事件	c=17 d=0.00022507 t=51676
 shi jian 	實踐	c=15 d=0.0114473 t=51676
-shi jian 	時間	c=53 d=0.709258 t=51676
+shi jian 	時間	c=54 d=0.709258 t=51676
 shi jian duan 	時間段	c=1 d=7.24497e-33 t=51676
 shi jian fu za du 	時間複雜度	c=1 d=1.12647e-48 t=51676
 shi jian hou 	時間後	c=1 d=7.76318e-81 t=51676
 shi jian xian 	時間線	c=1 d=1.56906e-35 t=51676
-shi jiao 	視角	c=16 d=0.0342181 t=51676
+shi jiao 	視角	c=16 d=0.111917 t=51676
 shi jie 	世界	c=19 d=0.319701 t=51676
 shi jie shang 	世界上	c=2 d=0.00755912 t=51676
 shi jiu 	十九	c=1 d=9.23214e-61 t=51676
@@ -4565,8 +4674,10 @@ shi juan 	試卷	c=1 d=5.72651e-60 t=51676
 shi jue 	視覺	c=3 d=1.82777e-07 t=51676
 shi ke 	時刻	c=1 d=1.16381e-20 t=51676
 shi kou 	视口	c=2 d=0.028297 t=51676
-shi li 	實例	c=8 d=5.66574e-09 t=51676
+shi li 	實例	c=9 d=1.87372e-05 t=51676
 shi li 	示例	c=21 d=4.06847e-09 t=51676
+shi liang 	矢量	c=1 d=1 t=47857
+shi liang tu 	矢量圖	c=1 d=1 t=47848
 shi liu 	十六	c=1 d=1.55319e-33 t=51676
 shi ma 	是嗎	c=10 d=0.565525 t=51676
 shi miao 	十秒	c=1 d=4.27619e-36 t=51676
@@ -4574,7 +4685,7 @@ shi o 	是哦	c=0 d=5.48198e-77 t=51676
 shi o neng gou 	是哦能夠	c=3 d=0.0116786 t=51676
 shi pei 	適配	c=6 d=0.180868 t=51676
 shi pei qi 	適配器	c=2 d=0.00680566 t=51676
-shi pin 	視頻	c=32 d=1.40738e-20 t=51676
+shi pin 	視頻	c=34 d=0.0034939 t=51676
 shi ping 	時評	c=2 d=2.45393e-61 t=51676
 shi qi 	使其	c=24 d=0.00115345 t=51676
 shi qing 	事情	c=1 d=5.43721e-09 t=51676
@@ -4600,12 +4711,13 @@ shi wu 	食物	c=2 d=6.98701e-40 t=51676
 shi wu jie 	十五屆	c=1 d=5.79903e-61 t=51676
 shi xi 	實習	c=10 d=2.22912e-54 t=51676
 shi xi 	時隙	c=1 d=9.5558e-84 t=51676
-shi xian 	實現	c=97 d=1.33091 t=51676
+shi xian 	實現	c=99 d=1.33091 t=51676
 shi xian 	視線	c=1 d=0.0361528 t=51676
 shi xian de 	實現的	c=2 d=1.39277e-74 t=51676
 shi xian le 	實現了	c=2 d=2.26295e-49 t=51676
 shi xiao 	失效	c=9 d=0.593803 t=51676
 shi xiao xing 	時效性	c=4 d=5.03115e-37 t=51676
+shi xin 	實心	c=1 d=1 t=47341
 shi xu tu 	時序圖	c=2 d=3.69662e-79 t=51676
 shi yan 	實驗	c=2 d=0.0081887 t=51676
 shi yan 	試驗	c=3 d=3.89408e-23 t=51676
@@ -4640,8 +4752,11 @@ shou 	受	c=1 d=4.20094e-33 t=51676
 shou 	手	c=3 d=0.000183494 t=51676
 shou 	獸	c=2 d=1.13666e-07 t=51676
 shou 	首	c=5 d=1.03926e-30 t=51676
+shou bu dao 	收不到	c=1 d=1 t=47270
 shou ce 	手冊	c=3 d=2.44563e-68 t=51676
+shou ci 	首次	c=1 d=1 t=48459
 shou dao 	收到	c=11 d=0.349446 t=51676
+shou dao de 	收到的	c=1 d=1 t=47255
 shou dong 	手動	c=28 d=0.704826 t=51676
 shou dong na ge 	手動哪個	c=2 d=1.12688e-23 t=51676
 shou fei 	收費	c=1 d=7.18854e-88 t=51676
@@ -4656,16 +4771,17 @@ shou li 	手裏	c=2 d=0.0393979 t=51676
 shou lian 	收斂	c=1 d=9.84179e-78 t=51676
 shou lu 	收錄	c=4 d=8.33277e-73 t=51676
 shou qing 	售罄	c=1 d=4.98295e-12 t=51676
+shou ri 	首日	c=2 d=1.99005 t=47045
 shou shen 	獸神	c=1 d=1.15962e-07 t=51676
 shou sheng 	首勝	c=2 d=2.78325e-34 t=51676
 shou shu 	收束	c=1 d=1.57693e-35 t=51676
 shou xian 	受限	c=1 d=6.33456e-12 t=51676
 shou xian 	首先	c=7 d=0.15259 t=51676
 shu 	數	c=26 d=2.06156e-09 t=51676
-shu 	書	c=2 d=0.0186856 t=51676
+shu 	書	c=3 d=0.0186856 t=51676
 shu 	樹	c=7 d=9.2623e-06 t=51676
 shu biao 	鼠標	c=50 d=0.690734 t=51676
-shu chu 	輸出	c=86 d=0.000248032 t=51676
+shu chu 	輸出	c=86 d=0.00179097 t=51676
 shu fu 	舒服	c=1 d=0.00273944 t=51676
 shu ji 	書籍	c=5 d=3.06622e-64 t=51676
 shu jia 	暑假	c=1 d=1.17563e-80 t=51676
@@ -4686,26 +4802,27 @@ shu liang 	數量	c=10 d=0.00323746 t=51676
 shu liang xia 	數量下	c=1 d=0.00198925 t=51676
 shu lun 	數論	c=1 d=1.22449e-59 t=51676
 shu ru 	輸入	c=108 d=2.12766 t=51676
-shu ru de 	輸入的	c=1 d=1 t=51673
+shu ru de 	輸入的	c=1 d=0.985112 t=51676
 shu ru fa 	輸入法	c=39 d=2.70072 t=51676
 shu ru le 	輸入了	c=1 d=3.66033e-30 t=51676
 shu ru shi 	輸入時	c=1 d=1.02138e-43 t=51676
 shu shi 	舒適	c=1 d=1.89803e-39 t=51676
 shu xi 	熟悉	c=21 d=0.362882 t=51676
 shu xie 	書寫	c=2 d=5.20618e-67 t=51676
-shu xing 	屬性	c=18 d=0.00546167 t=51676
+shu xing 	屬性	c=18 d=0.65377 t=51676
 shu xing 	樹形	c=1 d=0.00349997 t=51676
 shu xue 	數學	c=22 d=0.160081 t=51676
 shu ye 	樹葉	c=1 d=3.86506e-82 t=51676
 shu yu 	屬於	c=14 d=0.231078 t=51676
-shu yu 	術語	c=2 d=3.1777e-43 t=51676
+shu yu 	術語	c=3 d=0.000898306 t=51676
 shu ze 	數則	c=2 d=1.03918e-11 t=51676
 shu zhi 	數值	c=4 d=0.514274 t=51676
 shu zhi 	熟知	c=1 d=7.4484e-94 t=51676
 shu zi 	數字	c=10 d=7.14641e-14 t=51676
 shu zi jian 	數字鍵	c=2 d=8.03475e-15 t=51676
 shu zi te zheng 	數字特徵	c=1 d=8.94985e-78 t=51676
-shu zu 	數組	c=24 d=0.470011 t=51676
+shu zu 	數組	c=26 d=0.470011 t=51676
+shu zu zhong 	數組中	c=1 d=1 t=47097
 shua 	刷	c=3 d=2.81081e-39 t=51676
 shua qu 	刷去	c=1 d=2.95632e-17 t=51676
 shua tie 	刷鐵	c=1 d=1.25314e-37 t=51676
@@ -4722,13 +4839,14 @@ shuang jiu 	雙九	c=1 d=8.57117e-40 t=51676
 shuang lian 	雙鏈	c=4 d=0.0143891 t=51676
 shuang shou 	雙手	c=4 d=1.78258e-36 t=51676
 shuang tui 	雙腿	c=1 d=2.13937e-06 t=51676
-shuang xi tong 	雙系統	c=3 d=1.63474 t=51676
+shuang xi tong 	雙系統	c=4 d=1.63474 t=51676
 shuang xiang 	雙向	c=1 d=2.10781e-37 t=51676
 shuang ye 	雙頁	c=1 d=7.98057e-53 t=51676
 shuang yi liu 	雙一流	c=2 d=0.0062263 t=51676
+shuang yin hao 	雙引號	c=1 d=1 t=46901
 shui 	水	c=1 d=2.22199e-40 t=51676
 shui 	睡	c=2 d=1.74484e-40 t=51676
-shui 	誰	c=9 d=1.05403e-06 t=51676
+shui 	誰	c=11 d=0.00264426 t=51676
 shui de 	誰的	c=1 d=2.04837e-24 t=51676
 shui han 	水寒	c=1 d=1.30539e-47 t=51676
 shui jiao 	睡覺	c=2 d=3.99878e-41 t=51676
@@ -4746,12 +4864,12 @@ shun xu 	順序	c=14 d=0.0655462 t=51676
 shun zhe 	順着	c=1 d=1.89346e-40 t=51676
 shuo 	碩	c=1 d=2.4834e-25 t=51676
 shuo 	說	c=20 d=0.395647 t=51676
-shuo bo 	碩博	c=1 d=0.000219315 t=51676
+shuo bo 	碩博	c=3 d=0.0374131 t=51676
 shuo bu guo qu 	說不過去	c=1 d=1.33081e-68 t=51676
 shuo de 	說的	c=10 d=4.51966e-11 t=51676
 shuo fa 	說法	c=2 d=0.891366 t=51676
 shuo mi 	碩冪	c=1 d=5.98722e-25 t=51676
-shuo ming 	說明	c=53 d=0.131343 t=51676
+shuo ming 	說明	c=53 d=0.823657 t=51676
 shuo shi 	碩士	c=3 d=5.40672e-51 t=51676
 shuo shuo 	說說	c=1 d=3.13146e-47 t=51676
 si 	四	c=5 d=3.4938e-41 t=51676
@@ -4759,6 +4877,7 @@ si 	斯	c=0 d=2.6565e-54 t=51676
 si 	絲	c=0 d=8.9651e-99 t=51676
 si ci 	四次	c=3 d=3.527e-76 t=51676
 si da 	四大	c=1 d=2.33433e-32 t=51676
+si er hou zhi 	死而後止	c=1 d=1 t=46205
 si ge 	四個	c=10 d=0.0327124 t=51676
 si hu 	似乎	c=30 d=0.862042 t=51676
 si hua 	絲滑	c=2 d=3.00407e-30 t=51676
@@ -4787,7 +4906,7 @@ sou bu dao 	搜不到	c=1 d=1.29888e-47 t=51676
 sou dao 	搜到	c=2 d=2.00649e-87 t=51676
 sou gou 	搜狗	c=3 d=2.53179e-39 t=51676
 sou ji 	搜集	c=1 d=0.000203468 t=51676
-sou suo 	蒐索	c=15 d=0.895834 t=51676
+sou suo 	蒐索	c=17 d=0.895834 t=51676
 sou suo xiang 	蒐索項	c=1 d=4.29397e-26 t=51676
 su 	素	c=0 d=2.12198e-58 t=51676
 su 	蘇	c=1 d=4.75204e-42 t=51676
@@ -4820,6 +4939,7 @@ sui ji zhong zi 	隨機種子	c=1 d=2.8972e-44 t=51676
 sui pian 	碎片	c=4 d=0.149992 t=51676
 sui ran 	雖然	c=2 d=4.85449e-87 t=51676
 sui shi 	隨時	c=2 d=1.80117e-11 t=51676
+sui yi 	隨意	c=4 d=1.04712 t=47541
 sui zhe 	隨着	c=6 d=0.0816756 t=51676
 sui zhi 	隨之	c=1 d=4.88744e-49 t=51676
 sun 	孫	c=1 d=5.35136e-57 t=51676
@@ -4829,11 +4949,12 @@ sun shi 	損失	c=3 d=3.67553e-11 t=51676
 sun shi lv 	損失率	c=1 d=7.32627e-76 t=51676
 suo 	所	c=8 d=7.19413e-09 t=51676
 suo 	索	c=1 d=0.00343067 t=51676
-suo 	鎖	c=3 d=2.22932e-11 t=51676
+suo 	鎖	c=3 d=0.22313 t=51676
 suo chu 	所處	c=1 d=1.38375e-27 t=51676
 suo de 	所得	c=1 d=9.61444e-09 t=51676
 suo ding 	鎖定	c=4 d=0.0776922 t=51676
-suo fang 	縮放	c=10 d=0.0737334 t=51676
+suo fang 	縮放	c=10 d=0.208259 t=51676
+suo gei 	所給	c=2 d=1.0973 t=48446
 suo jian 	所見	c=1 d=9.51877e-09 t=51676
 suo jin 	縮進	c=4 d=0.0922261 t=51676
 suo shao 	所少	c=1 d=1.42837e-18 t=51676
@@ -4849,7 +4970,7 @@ suo yin 	索引	c=31 d=1.99696 t=51676
 suo yong 	所用	c=5 d=0.32628 t=51676
 suo you 	所有	c=103 d=1.62043 t=51676
 suo you ceng 	所有層	c=1 d=8.64847e-28 t=51676
-suo you de 	所有的	c=1 d=3.04108e-26 t=51676
+suo you de 	所有的	c=2 d=4.12855e-05 t=51676
 suo zai 	所在	c=2 d=4.3429e-71 t=51676
 ta 	他	c=4 d=0.264477 t=51676
 ta 	她	c=1 d=2.06579e-06 t=51676
@@ -4875,13 +4996,13 @@ tai kuai 	太快	c=2 d=1.39552e-09 t=51676
 tai lan le 	太懶了	c=1 d=7.40542e-26 t=51676
 tai luan 	太亂	c=1 d=1.58128e-38 t=51676
 tai ma fan 	太麻煩	c=1 d=9.91335e-75 t=51676
-tai man 	太慢	c=1 d=1.76048e-95 t=51676
+tai man 	太慢	c=2 d=6.9623e-06 t=51676
 tai qi 	抬起	c=1 d=4.15207e-13 t=51676
 tai zhong 	太重	c=1 d=9.79e-16 t=51676
 tan ce 	探測	c=6 d=0.131994 t=51676
 tan chu 	彈出	c=12 d=9.71058e-07 t=51676
 tan chuang 	彈窗	c=9 d=9.95521e-07 t=51676
-tan jiu 	探究	c=1 d=4.6437e-06 t=51676
+tan jiu 	探究	c=2 d=0.000468957 t=51676
 tan suo 	坍縮	c=2 d=1.50257e-55 t=51676
 tan suo 	探索	c=4 d=2.45701e-17 t=51676
 tan wan 	貪玩	c=1 d=4.67159e-47 t=51676
@@ -4904,22 +5025,22 @@ te shu 	特殊	c=2 d=3.73288e-55 t=51676
 te xiao 	特效	c=1 d=4.18697e-82 t=51676
 te xing 	特性	c=12 d=5.85133e-49 t=51676
 te yi 	特意	c=1 d=1.81106e-46 t=51676
-te zheng 	特徵	c=15 d=0.136769 t=51676
+te zheng 	特徵	c=21 d=0.991213 t=51676
 teng xun 	騰訊	c=2 d=2.28042e-73 t=51676
 ti 	提	c=1 d=2.69206e-33 t=51676
 ti 	題	c=15 d=0.0867261 t=51676
 ti 	體	c=9 d=7.44628e-05 t=51676
-ti chu 	剔除	c=5 d=6.12688e-62 t=51676
-ti chu 	提出	c=7 d=0.0274607 t=51676
+ti chu 	剔除	c=6 d=0.108609 t=51676
+ti chu 	提出	c=9 d=0.304709 t=51676
 ti dai 	替代	c=1 d=3.66644e-79 t=51676
 ti dao 	提到	c=1 d=0.00200924 t=51676
 ti du 	梯度	c=1 d=2.3082e-76 t=51676
 ti gan 	體感	c=1 d=0.00269866 t=51676
 ti gao 	提高	c=5 d=5.58928e-10 t=51676
 ti gao dao 	提高到	c=1 d=8.00395e-58 t=51676
-ti gong 	提供	c=31 d=0.000105936 t=51676
-ti gong shang 	提供商	c=16 d=0.00952124 t=51676
-ti huan 	替換	c=9 d=2.91687e-06 t=51676
+ti gong 	提供	c=32 d=0.000105936 t=51676
+ti gong shang 	提供商	c=19 d=0.00952124 t=51676
+ti huan 	替換	c=9 d=4.77276e-05 t=51676
 ti huan wei 	替換爲	c=8 d=1.69083e-05 t=51676
 ti ji 	體積	c=2 d=0.0166557 t=51676
 ti ji wu 	體積霧	c=1 d=3.46245e-82 t=51676
@@ -4927,7 +5048,7 @@ ti jian 	體檢	c=2 d=5.20036e-05 t=51676
 ti jiao 	提交	c=31 d=1.39784 t=51676
 ti jiao li shi 	提交歷史	c=1 d=0.0572688 t=51676
 ti lian 	提煉	c=4 d=3.45717e-56 t=51676
-ti mu 	題目	c=8 d=3.92747e-47 t=51676
+ti mu 	題目	c=9 d=2.14454e-05 t=51676
 ti qi 	提起	c=1 d=1.65862e-41 t=51676
 ti qian 	提前	c=3 d=0.249075 t=51676
 ti qu 	提去	c=1 d=3.84448e-78 t=51676
@@ -4936,7 +5057,7 @@ ti qu de 	提取的	c=1 d=1.901e-28 t=51676
 ti quan 	提權	c=2 d=2.4796e-07 t=51676
 ti sheng 	提升	c=14 d=0.516851 t=51676
 ti shi 	提示	c=12 d=1.17397 t=51676
-ti shi ci 	提示詞	c=63 d=0.153444 t=51676
+ti shi ci 	提示詞	c=65 d=0.153444 t=51676
 ti shi wo 	提示我	c=1 d=1.37498e-11 t=51676
 ti wen 	提問	c=5 d=2.88039e-05 t=51676
 ti wen 	體溫	c=1 d=1.14466e-60 t=51676
@@ -4946,6 +5067,7 @@ ti xian zai 	體現在	c=1 d=1.51634e-74 t=51676
 ti xing 	梯形	c=0 d=3.5094e-65 t=51676
 ti yan 	體驗	c=3 d=0.00459142 t=51676
 ti yang 	體樣	c=1 d=2.29747e-80 t=51676
+ti zhu 	題注	c=1 d=1 t=48084
 ti zi 	梯子	c=2 d=4.3423e-40 t=51676
 tian 	填	c=1 d=1.85553e-96 t=51676
 tian 	天	c=1 d=1.48737e-53 t=51676
@@ -4962,7 +5084,7 @@ tian kong 	天空	c=8 d=1.73478e-53 t=51676
 tian kong he 	天空盒	c=2 d=3.10414e-53 t=51676
 tian liang 	天亮	c=2 d=0.0161635 t=51676
 tian man 	填滿	c=1 d=1.96044e-96 t=51676
-tian qi 	天啓	c=1 d=0.22313 t=51676
+tian qi 	天啓	c=2 d=0.22313 t=51676
 tian qi 	天氣	c=2 d=2.53796e-16 t=51676
 tian ru 	填入	c=4 d=7.34321e-15 t=51676
 tian shang 	填上	c=1 d=4.13545e-54 t=51676
@@ -4981,7 +5103,8 @@ tiao 	調	c=1 d=1.25912e-93 t=51676
 tiao 	跳	c=4 d=1.6526e-20 t=51676
 tiao dong 	跳動	c=1 d=2.93548e-22 t=51676
 tiao guo 	跳過	c=6 d=0.108067 t=51676
-tiao ji 	調劑	c=4 d=4.51893e-07 t=51676
+tiao hui 	跳回	c=1 d=1 t=48698
+tiao ji 	調劑	c=4 d=1.07643e-05 t=51676
 tiao jian 	條件	c=16 d=0.375057 t=51676
 tiao jian shi 	條件是	c=1 d=1.14186e-90 t=51676
 tiao jian xia 	條件下	c=1 d=0.529935 t=51676
@@ -4997,6 +5120,7 @@ tiao zhan sai 	挑戰賽	c=2 d=8.06489e-59 t=51676
 tiao zheng 	調整	c=8 d=1.27468e-13 t=51676
 tiao zhi 	調製	c=1 d=1.01976e-83 t=51676
 tiao zhi qi 	調製器	c=1 d=9.89617e-84 t=51676
+tiao zhuan 	跳轉	c=2 d=1.97531 t=48694
 tiao zhuan dao 	跳轉到	c=1 d=1.17892e-54 t=51676
 tie 	貼	c=1 d=3.16068e-68 t=51676
 tie 	鐵	c=7 d=1.50688e-37 t=51676
@@ -5008,7 +5132,7 @@ tie jing 	貼經	c=1 d=2.13959e-66 t=51676
 tie kuang 	鐵礦	c=1 d=1.30788e-40 t=51676
 tie qiu 	鐵鍬	c=1 d=4.40792e-40 t=51676
 tie tao 	鐵套	c=1 d=9.54473e-41 t=51676
-tie tu 	貼圖	c=21 d=3.19763e-08 t=51676
+tie tu 	貼圖	c=25 d=1.09447 t=51676
 tie you 	貼有	c=1 d=4.00014e-45 t=51676
 tie zi 	帖子	c=2 d=3.84176e-18 t=51676
 ting 	聽	c=1 d=1.68043e-77 t=51676
@@ -5031,7 +5155,7 @@ tong bu 	同步	c=23 d=6.21182 t=51676
 tong chang 	通常	c=4 d=1.18536e-20 t=51676
 tong cheng wei 	統稱爲	c=1 d=8.81661e-78 t=51676
 tong dao 	同道	c=1 d=2.16294e-76 t=51676
-tong dao 	通道	c=3 d=3.4406e-66 t=51676
+tong dao 	通道	c=4 d=0.136695 t=51676
 tong dao shu 	通道數	c=1 d=2.40862e-77 t=51676
 tong dian 	痛點	c=2 d=2.07029e-56 t=51676
 tong guan 	通關	c=1 d=1.344e-37 t=51676
@@ -5044,9 +5168,9 @@ tong lei 	同類	c=2 d=1.05016e-17 t=51676
 tong mian 	同眠	c=0 d=1.26616e-42 t=51676
 tong ming 	同名	c=3 d=3.48288e-63 t=51676
 tong se 	同色	c=1 d=4.55392e-41 t=51676
-tong shi 	同時	c=28 d=0.546065 t=51676
+tong shi 	同時	c=29 d=0.546065 t=51676
 tong shu zu 	桶數組	c=1 d=8.28623e-54 t=51676
-tong su 	通俗	c=3 d=1.68484e-49 t=51676
+tong su 	通俗	c=4 d=0.00100276 t=51676
 tong su yi dong 	通俗易懂	c=1 d=2.25973e-91 t=51676
 tong tuo 	通脫	c=1 d=8.17233e-97 t=51676
 tong xin 	通信	c=7 d=0.146007 t=51676
@@ -5076,7 +5200,7 @@ tou gao 	投稿	c=2 d=3.75508e-73 t=51676
 tou jian li 	投簡歷	c=1 d=4.92717e-56 t=51676
 tou jie dian 	頭結點	c=1 d=3.14438e-66 t=51676
 tou kan 	偷看	c=1 d=1.56124e-35 t=51676
-tou ken 	頭肯	c=1 d=3.26248e-88 t=51676
+tou ken 	頭肯	c=2 d=0.00180897 t=51676
 tou ming 	透明	c=6 d=1.34729e-07 t=51676
 tou ming du 	透明度	c=3 d=1.22299e-37 t=51676
 tou ru 	投入	c=1 d=4.44375e-47 t=51676
@@ -5086,19 +5210,23 @@ tou wen jian 	頭文件	c=2 d=1.62346e-83 t=51676
 tou xiang 	頭像	c=1 d=4.28785e-68 t=51676
 tou ying 	投影	c=1 d=0.0253494 t=51676
 tou zhi zhen 	頭指針	c=1 d=7.92161e-54 t=51676
-tu 	圖	c=50 d=0.00573324 t=51676
+tu 	凸	c=6 d=4.53118 t=47383
+tu 	圖	c=52 d=0.239792 t=51676
 tu 	土	c=1 d=1.67934e-40 t=51676
 tu biao 	圖標	c=29 d=0.129645 t=51676
 tu biao 	圖表	c=12 d=2.90739e-77 t=51676
 tu chu 	突出	c=1 d=0.00241755 t=51676
 tu chuang 	圖牀	c=2 d=6.44872e-75 t=51676
 tu ci 	突刺	c=1 d=1.49589e-32 t=51676
+tu han shu 	凸函數	c=1 d=1 t=47373
+tu ji 	凸集	c=7 d=5.26717 t=47419
 tu ji 	突擊	c=1 d=0.489192 t=51676
 tu ku 	圖庫	c=1 d=7.8332e-69 t=51676
 tu ling ji 	圖靈機	c=6 d=7.86364e-74 t=51676
 tu lun 	圖論	c=2 d=1.51489e-47 t=51676
+tu ne 	圖呢	c=1 d=1 t=48199
 tu pai 	圖拍	c=1 d=1.05153e-91 t=51676
-tu pian 	圖片	c=84 d=0.103264 t=51676
+tu pian 	圖片	c=84 d=0.74575 t=51676
 tu pian hou 	圖片後	c=1 d=1.13153e-42 t=51676
 tu pian li 	圖片裏	c=1 d=4.15617e-54 t=51676
 tu pian zhong 	圖片中	c=1 d=6.53992e-05 t=51676
@@ -5125,6 +5253,7 @@ tuan zi 	糰子	c=1 d=5.50513e-08 t=51676
 tui bu chu 	推不出	c=2 d=1.74298e-51 t=51676
 tui ce 	推測	c=3 d=4.75058e-09 t=51676
 tui chu 	退出	c=12 d=0.120633 t=51676
+tui chu hou 	推出後	c=1 d=1 t=47184
 tui dao 	推到	c=1 d=2.40567e-92 t=51676
 tui dao 	推導	c=4 d=0.141588 t=51676
 tui dao 	退到	c=1 d=2.69536e-18 t=51676
@@ -5149,9 +5278,10 @@ tun 	臀	c=1 d=0.0112769 t=51676
 tuo 	拖	c=1 d=3.40499e-91 t=51676
 tuo dong 	拖動	c=4 d=5.13662e-42 t=51676
 tuo pan 	托盤	c=2 d=0.843665 t=51676
+tuo ru 	拖入	c=1 d=1 t=48501
 tuo xuan 	拖選	c=1 d=0.697676 t=51676
 tuo ye 	唾液	c=1 d=3.47755e-45 t=51676
-tuo zhuai 	拖拽	c=1 d=0.000116806 t=51676
+tuo zhuai 	拖拽	c=1 d=0.181772 t=51676
 wa 	挖	c=8 d=8.35139e-40 t=51676
 wa dao 	挖到	c=0 d=2.03075e-41 t=51676
 wa ge 	挖個	c=1 d=5.05809e-41 t=51676
@@ -5165,28 +5295,28 @@ wai le 	歪了	c=1 d=1.11655e-91 t=51676
 wai mao 	外貌	c=1 d=2.00085e-42 t=51676
 wai mian 	外面	c=1 d=3.70026e-40 t=51676
 wai xing 	外形	c=2 d=1.10815e-44 t=51676
-wan 	完	c=2 d=3.70807e-06 t=51676
+wan 	完	c=4 d=0.00192811 t=51676
 wan 	晚	c=2 d=1.3147e-13 t=51676
 wan 	玩	c=13 d=0.0437178 t=51676
 wan 	萬	c=2 d=1.60403e-59 t=51676
 wan bi 	完畢	c=2 d=7.1495e-24 t=51676
 wan bian 	萬變	c=2 d=2.48923e-73 t=51676
-wan cheng 	完成	c=35 d=0.0804596 t=51676
+wan cheng 	完成	c=35 d=0.129735 t=51676
 wan cheng le 	完成了	c=0 d=3.11382e-11 t=51676
 wan cheng le ma 	完成了嗎	c=1 d=3.12943e-10 t=51676
 wan fa 	玩法	c=1 d=1.53058e-37 t=51676
 wan fan 	晚飯	c=1 d=2.33989e-60 t=51676
 wan fang 	萬方	c=1 d=2.91163e-73 t=51676
 wan jia 	玩家	c=4 d=2.49415e-17 t=51676
-wan mei 	完美	c=1 d=2.3541e-43 t=51676
-wan quan 	完全	c=6 d=0.0399551 t=51676
+wan mei 	完美	c=2 d=0.000256085 t=51676
+wan quan 	完全	c=7 d=0.0399551 t=51676
 wan shan 	完善	c=2 d=6.10194e-13 t=51676
 wan shang 	晚上	c=1 d=6.54841e-79 t=51676
 wan shou ji 	玩手機	c=1 d=5.62094e-47 t=51676
 wan wei 	萬維	c=1 d=2.8971e-73 t=51676
 wan yao 	彎腰	c=2 d=7.45914e-51 t=51676
 wan zhan 	玩站	c=3 d=6.0715e-13 t=51676
-wan zheng 	完整	c=24 d=0.000167421 t=51676
+wan zheng 	完整	c=25 d=0.0333733 t=51676
 wan zheng xing 	完整性	c=2 d=1.73076e-71 t=51676
 wan zi xi 	晚自習	c=2 d=1.39606e-46 t=51676
 wang 	往	c=6 d=3.14071e-20 t=51676
@@ -5196,7 +5326,7 @@ wang 	網	c=7 d=7.71708e-11 t=51676
 wang diao 	忘掉	c=1 d=0.357007 t=51676
 wang duan 	網段	c=1 d=0.00822975 t=51676
 wang fan 	往返	c=2 d=1.1717 t=51676
-wang ge 	網格	c=5 d=0.00656452 t=51676
+wang ge 	網格	c=5 d=0.0391639 t=51676
 wang guan 	網關	c=7 d=0.00216649 t=51676
 wang ji 	忘記	c=1 d=9.50228e-18 t=51676
 wang ji kan le 	忘記看了	c=1 d=4.46983e-57 t=51676
@@ -5205,18 +5335,20 @@ wang ke 	網課	c=2 d=5.9799e-91 t=51676
 wang kou 	網扣	c=1 d=0.0110536 t=51676
 wang le 	忘了	c=1 d=6.02543e-41 t=51676
 wang luo 	網絡	c=43 d=1.31369 t=51676
+wang na 	往哪	c=0 d=0.1 t=48358
+wang na bian 	往哪邊	c=1 d=1 t=48359
 wang pan 	網盤	c=4 d=1.14691e-63 t=51676
 wang qiao 	網橋	c=3 d=6.12185e-85 t=51676
 wang shang 	網上	c=2 d=1.93063e-92 t=51676
 wang su 	網速	c=1 d=3.18139e-86 t=51676
 wang xia 	往下	c=1 d=1.98878e-59 t=51676
 wang xian 	網線	c=3 d=0.0278983 t=51676
-wang ye 	網頁	c=27 d=3.7087e-08 t=51676
+wang ye 	網頁	c=27 d=9.51553e-05 t=51676
 wang ye ban 	網頁版	c=3 d=0.00843808 t=51676
 wang yi 	網易	c=4 d=5.35153e-28 t=51676
 wang you 	網友	c=1 d=4.14911e-34 t=51676
 wang you 	網遊	c=2 d=4.12841e-34 t=51676
-wang zhan 	網站	c=26 d=0.0374623 t=51676
+wang zhan 	網站	c=28 d=0.517234 t=51676
 wang zhe 	王者	c=2 d=1.89448e-17 t=51676
 wang zheng 	王政	c=1 d=8.03612e-17 t=51676
 wang zhi 	網址	c=5 d=1.65811e-08 t=51676
@@ -5237,12 +5369,13 @@ wei feng 	微風	c=2 d=3.89076e-64 t=51676
 wei fu wu 	微服務	c=4 d=0.110574 t=51676
 wei guan 	微觀	c=1 d=4.21772e-84 t=51676
 wei guan shang 	微觀上	c=1 d=3.92414e-84 t=51676
+wei gui 	違規	c=1 d=1 t=47053
 wei he 	爲何	c=4 d=4.03772e-08 t=51676
 wei hou 	尾後	c=1 d=7.18365e-80 t=51676
 wei hu 	維護	c=13 d=0.174085 t=51676
 wei ji fen 	微積分	c=1 d=1.18583e-64 t=51676
 wei lai 	未來	c=25 d=0.715338 t=51676
-wei le 	爲了	c=9 d=2.3352e-07 t=51676
+wei le 	爲了	c=10 d=0.0986411 t=51676
 wei li 	爲例	c=3 d=0.120032 t=51676
 wei li nai 	維裏奈	c=2 d=1.6666e-68 t=51676
 wei pu 	維普	c=1 d=2.92622e-73 t=51676
@@ -5260,7 +5393,7 @@ wei wan 	委婉	c=1 d=0.00201931 t=51676
 wei wei 	微微	c=5 d=1.01524e-43 t=51676
 wei wo 	爲我	c=16 d=0.684241 t=51676
 wei xin 	微信	c=4 d=6.0878e-72 t=51676
-wei xiu 	維修	c=3 d=0.204406 t=51676
+wei xiu 	維修	c=4 d=0.429557 t=51676
 wei xiu ba 	維修吧	c=1 d=0.025223 t=51676
 wei yi 	位移	c=3 d=1.86564e-13 t=51676
 wei yi 	唯一	c=2 d=3.72336e-25 t=51676
@@ -5276,12 +5409,12 @@ wen 	問	c=3 d=0.0280154 t=51676
 wen 	文	c=4 d=7.88236e-25 t=51676
 wen 	紋	c=0 d=4.1014e-46 t=51676
 wen an 	文案	c=3 d=1.26329e-65 t=51676
-wen ben 	文本	c=30 d=0.000648231 t=51676
+wen ben 	文本	c=30 d=0.0470011 t=51676
 wen ben kuang 	文本框	c=1 d=1.58069e-63 t=51676
 wen ben wen jian 	文本文件	c=1 d=1.38809e-05 t=51676
 wen bi 	文筆	c=1 d=0.000629868 t=51676
 wen da 	問答	c=3 d=0.0439369 t=51676
-wen dang 	文檔	c=26 d=0.0473589 t=51676
+wen dang 	文檔	c=35 d=0.267284 t=51676
 wen de 	問的	c=1 d=3.14181e-27 t=51676
 wen ding 	穩定	c=7 d=1.51514e-06 t=51676
 wen e ti 	文呃題	c=1 d=1.74218e-31 t=51676
@@ -5305,12 +5438,12 @@ wen sheng tu 	文生圖	c=3 d=1.84825e-44 t=51676
 wen ti 	問題	c=126 d=2.06531 t=51676
 wen ti gen 	問題跟	c=1 d=3.28351e-46 t=51676
 wen wo 	問我	c=1 d=0.913931 t=51676
-wen xian 	文獻	c=21 d=0.00273616 t=51676
+wen xian 	文獻	c=33 d=0.77671 t=51676
 wen xue 	文學	c=1 d=1.10668e-16 t=51676
 wen yi xia 	問一下	c=1 d=5.16642e-55 t=51676
 wen zhang 	文章	c=5 d=0.000193545 t=51676
 wen zhou 	溫州	c=1 d=2.27074e-60 t=51676
-wen zi 	文字	c=22 d=0.581456 t=51676
+wen zi 	文字	c=23 d=0.581456 t=51676
 wo 	我	c=557 d=5.79431 t=51676
 wo bu xiang 	我不想	c=6 d=0.158817 t=51676
 wo bu zai 	我不在	c=1 d=0.00177315 t=51676
@@ -5319,8 +5452,9 @@ wo cai fa xian 	我才發現	c=1 d=5.51433e-57 t=51676
 wo cao 	我艹	c=3 d=2.11765e-33 t=51676
 wo cao 	臥槽	c=2 d=8.33631e-95 t=51676
 wo cao le 	臥槽了	c=1 d=4.01719e-95 t=51676
-wo cao ni 	我草擬	c=1 d=1.41623e-94 t=51676
-wo cao ni ma 	我操你媽	c=2 d=1.73922e-11 t=51676
+wo cao ni 	我草擬	c=1 d=5.55951e-07 t=51676
+wo cao ni ma 	我操你媽	c=2 d=0.000531398 t=51676
+wo cao ni ni ma 	我草擬你媽	c=1 d=1 t=46282
 wo cha kan 	我查看	c=1 d=1.7558e-05 t=51676
 wo cheng nuo 	我承諾	c=1 d=1.99365e-29 t=51676
 wo dang 	我黨	c=1 d=3.75938e-50 t=51676
@@ -5334,8 +5468,8 @@ wo fa 	我發	c=1 d=1.68101e-81 t=51676
 wo fa gei 	我發給	c=1 d=2.24478e-13 t=51676
 wo fa gei ni 	我發給你	c=1 d=5.63627e-79 t=51676
 wo fa xian 	我發現	c=7 d=1.29156e-10 t=51676
-wo fang wen 	我訪問	c=2 d=2.59461e-11 t=51676
-wo gai 	我該	c=29 d=0.0328817 t=51676
+wo fang wen 	我訪問	c=3 d=0.000829241 t=51676
+wo gai 	我該	c=30 d=0.527419 t=51676
 wo gan jue 	我感覺	c=2 d=2.20903e-30 t=51676
 wo gen 	我跟	c=1 d=1.85206e-74 t=51676
 wo guo 	我國	c=2 d=0.0107807 t=51676
@@ -5347,9 +5481,11 @@ wo hao 	我好	c=0 d=2.13989e-98 t=51676
 wo hao ma 	我好嗎	c=1 d=2.15062e-97 t=51676
 wo hen hao 	我很好	c=1 d=2.01527e-97 t=51676
 wo huai yi 	我懷疑	c=2 d=8.24797e-29 t=51676
-wo jiang 	我將	c=8 d=5.57183e-32 t=51676
+wo ji de 	我記得	c=1 d=1 t=47486
+wo jiang 	我將	c=9 d=0.247833 t=51676
 wo jie shou 	我接受	c=1 d=0.0010333 t=51676
-wo jiu shi 	我就是	c=1 d=1 t=51670
+wo jiu 	我就	c=1 d=1 t=48403
+wo jiu shi 	我就是	c=1 d=0.970446 t=51676
 wo jue 	我覺	c=1 d=1.20396e-66 t=51676
 wo jue de 	我覺得	c=6 d=1.73981e-15 t=51676
 wo kan dao 	我看到	c=3 d=0.722527 t=51676
@@ -5396,19 +5532,20 @@ wo xiang yong 	我想用	c=1 d=0.00381048 t=51676
 wo xiang zai 	我想在	c=1 d=3.78016e-56 t=51676
 wo xu yao 	我需要	c=43 d=1.06581 t=51676
 wo xuan ze 	我選擇	c=1 d=1.3783e-10 t=51676
-wo yao 	我要	c=10 d=1.41966e-07 t=51676
+wo yao 	我要	c=11 d=0.0992096 t=51676
 wo ye 	我也	c=4 d=3.71893e-11 t=51676
 wo yi 	我已	c=1 d=2.07749e-43 t=51676
 wo yi jing 	我已經	c=4 d=1.04643e-29 t=51676
 wo yi wai 	我以外	c=1 d=5.81701e-68 t=51676
 wo ying gai 	我應該	c=2 d=9.99663e-43 t=51676
 wo yong 	我用	c=1 d=1.25071e-73 t=51676
-wo you 	我又	c=3 d=0.00600598 t=51676
+wo you 	我又	c=4 d=0.375311 t=51676
 wo you 	我有	c=1 d=0.00615802 t=51676
 wo you gai 	我又該	c=1 d=1.09072e-51 t=51676
 wo you lai 	我由來	c=1 d=1.11818e-20 t=51676
 wo zai 	我在	c=15 d=0.0880368 t=51676
 wo zhe 	我這	c=1 d=1.81754e-40 t=51676
+wo zhe li 	我這裏	c=1 d=1 t=47220
 wo zhi dao 	我知道	c=1 d=4.59656e-33 t=51676
 wo zhi shi 	我只是	c=1 d=1.8496e-29 t=51676
 wo zhi xiang 	我只想	c=2 d=3.73936e-46 t=51676
@@ -5418,7 +5555,7 @@ wo zuo wan 	我昨晚	c=1 d=4.24474e-08 t=51676
 wu 	五	c=1 d=2.03386e-58 t=51676
 wu 	吳	c=2 d=2.42792e-66 t=51676
 wu 	武	c=1 d=3.36023e-53 t=51676
-wu 	無	c=18 d=0.000316691 t=51676
+wu 	無	c=19 d=0.000316691 t=51676
 wu 	物	c=4 d=5.58508e-37 t=51676
 wu 	霧	c=0 d=3.44519e-83 t=51676
 wu bi 	務必	c=4 d=0.0350844 t=51676
@@ -5452,15 +5589,17 @@ wu quan 	無權	c=1 d=1.38592e-16 t=51676
 wu ran 	無染	c=1 d=2.2155e-35 t=51676
 wu sun 	無損	c=1 d=3.6842e-77 t=51676
 wu tai 	舞臺	c=2 d=1.05201e-64 t=51676
-wu ti 	物體	c=12 d=0.0842621 t=51676
+wu ti 	物體	c=15 d=0.736698 t=51676
+wu tou 	無頭	c=3 d=2.53777 t=46383
 wu wu 	嗚嗚	c=1 d=0.00755912 t=51676
 wu wu wu 	嗚嗚嗚	c=6 d=0.121846 t=51676
+wu wu wu 	嗚嗚無	c=1 d=1 t=46243
 wu xian 	無線	c=1 d=5.56294e-72 t=51676
 wu xian 	無限	c=14 d=0.307279 t=51676
 wu xiang 	無想	c=1 d=1.50411e-67 t=51676
 wu xiang tu 	無向圖	c=1 d=0.00737249 t=51676
 wu xiang ying 	無響應	c=4 d=3.87136e-13 t=51676
-wu xiao 	無效	c=2 d=4.23346e-30 t=51676
+wu xiao 	無效	c=3 d=0.0430669 t=51676
 wu xiao de 	無效的	c=1 d=1.32651e-30 t=51676
 wu xing 	五星	c=2 d=7.47454e-93 t=51676
 wu xu 	無需	c=5 d=8.29469e-66 t=51676
@@ -5511,12 +5650,12 @@ xi zhi 	細緻	c=1 d=1.90755e-39 t=51676
 xia 	下	c=82 d=3.95649 t=51676
 xia 	嚇	c=1 d=6.99959e-10 t=51676
 xia ban 	下班	c=1 d=0.657047 t=51676
-xia bian 	下邊	c=1 d=3.08924e-05 t=51676
+xia bian 	下邊	c=1 d=0.00162866 t=51676
 xia bian 	瞎編	c=1 d=7.03467e-10 t=51676
 xia biao 	下標	c=1 d=3.27403e-12 t=51676
 xia ce 	下冊	c=1 d=2.53607e-66 t=51676
 xia ci 	下次	c=1 d=5.22262e-94 t=51676
-xia de 	下的	c=2 d=3.16896e-40 t=51676
+xia de 	下的	c=3 d=4.0169e-06 t=51676
 xia jiang 	下降	c=3 d=2.43791e-28 t=51676
 xia jie 	下屆	c=1 d=1.3045e-39 t=51676
 xia ku 	嚇哭	c=1 d=0.873716 t=51676
@@ -5528,6 +5667,7 @@ xia mian 	下面	c=6 d=4.23955e-23 t=51676
 xia shou 	下手	c=1 d=0.591555 t=51676
 xia shuo 	瞎說	c=1 d=2.5122e-43 t=51676
 xia tai 	下臺	c=1 d=5.00622e-08 t=51676
+xia tu 	下凸	c=2 d=1.956 t=47422
 xia wu 	下午	c=2 d=8.53395e-77 t=51676
 xia xian le 	下線了	c=1 d=0.00261214 t=51676
 xia yi bu 	下一步	c=2 d=4.50952e-14 t=51676
@@ -5537,7 +5677,8 @@ xia yi hang 	下一行	c=2 d=0.238115 t=51676
 xia yi lun 	下一輪	c=1 d=5.0748e-21 t=51676
 xia yi ye 	下一頁	c=2 d=4.89111e-79 t=51676
 xia yu 	下雨	c=1 d=6.39802e-41 t=51676
-xia zai 	下載	c=81 d=0.316912 t=51676
+xia zai 	下載	c=83 d=0.35904 t=51676
+xia zai liang 	下載量	c=1 d=1 t=47046
 xia zai ma 	下載嗎	c=1 d=6.47816e-11 t=51676
 xia zai qi 	下載器	c=2 d=2.15896e-25 t=51676
 xian 	仙	c=1 d=5.17275e-40 t=51676
@@ -5547,6 +5688,7 @@ xian 	線	c=6 d=0.196912 t=51676
 xian 	縣	c=1 d=1.5911e-52 t=51676
 xian 	限	c=1 d=2.87346e-53 t=51676
 xian 	顯	c=1 d=1.25446e-20 t=51676
+xian biao 	线表	c=1 d=1 t=48104
 xian bu 	先不	c=1 d=1.85143e-70 t=51676
 xian cheng 	現成	c=2 d=2.30678e-10 t=51676
 xian cheng 	線程	c=38 d=0.0400469 t=51676
@@ -5562,7 +5704,7 @@ xian huo qu 	先獲取	c=1 d=2.3211e-24 t=51676
 xian jin 	先進	c=1 d=1.51093e-32 t=51676
 xian jin 	現今	c=1 d=2.64964e-52 t=51676
 xian jing 	陷阱	c=28 d=1.16141e-13 t=51676
-xian ka 	顯卡	c=25 d=2.8687e-22 t=51676
+xian ka 	顯卡	c=26 d=0.00220948 t=51676
 xian kuan 	線寬	c=2 d=4.26005e-13 t=51676
 xian qian 	先前	c=1 d=4.2569e-71 t=51676
 xian ran 	顯然	c=1 d=2.15742e-46 t=51676
@@ -5571,7 +5713,7 @@ xian ru 	陷入	c=1 d=2.20565e-12 t=51676
 xian shang 	線上	c=2 d=2.88575e-56 t=51676
 xian shi 	現實	c=6 d=2.68046e-41 t=51676
 xian shi 	顯示	c=100 d=3.71571 t=51676
-xian shi qi 	顯示器	c=5 d=6.21663e-05 t=51676
+xian shi qi 	顯示器	c=6 d=6.21663e-05 t=51676
 xian shi wei 	顯示爲	c=3 d=0.904837 t=51676
 xian shi zai 	顯示在	c=1 d=2.65108e-29 t=51676
 xian shi zhong 	現實中	c=1 d=8.65555e-67 t=51676
@@ -5587,10 +5729,11 @@ xian zai 	現在	c=94 d=0.738326 t=51676
 xian zai ne 	現在呢	c=1 d=7.79596e-13 t=51676
 xian zhao dao 	先找到	c=1 d=5.71695e-11 t=51676
 xian zhi 	限制	c=6 d=2.41213e-06 t=51676
+xian zhuang 	現狀	c=2 d=1.02055 t=47578
 xian zhuang 	線狀	c=1 d=4.67875e-65 t=51676
 xian zi 	仙子	c=0 d=6.03692e-35 t=51676
-xian zi a 	仙子錒	c=3 d=3.56206e-29 t=51676
-xiang 	像	c=18 d=7.52398e-07 t=51676
+xian zi a 	仙子錒	c=4 d=3.32984e-05 t=51676
+xiang 	像	c=19 d=0.155832 t=51676
 xiang 	向	c=9 d=2.15009e-06 t=51676
 xiang 	想	c=37 d=0.305893 t=51676
 xiang 	箱	c=1 d=7.36849e-26 t=51676
@@ -5615,7 +5758,7 @@ xiang hui 	相會	c=1 d=1.78781e-41 t=51676
 xiang ji 	相機	c=11 d=0.548726 t=51676
 xiang jiao 	香蕉	c=4 d=1.81903e-38 t=51676
 xiang jiao yu 	相較於	c=2 d=1.82407e-70 t=51676
-xiang jie 	詳解	c=49 d=0.999013 t=51676
+xiang jie 	詳解	c=49 d=3.78446 t=51676
 xiang jie he 	相結合	c=1 d=4.55702e-49 t=51676
 xiang jin 	相近	c=8 d=1.31403e-07 t=51676
 xiang kan 	想看	c=1 d=2.02688e-47 t=51676
@@ -5628,7 +5771,7 @@ xiang mao dun 	相矛盾	c=1 d=1.30836e-15 t=51676
 xiang mu 	項目	c=122 d=1.51834 t=51676
 xiang mu ming 	項目名	c=2 d=1.72706e-91 t=51676
 xiang mu xu qiu 	項目需求	c=1 d=1.89707e-33 t=51676
-xiang mu zhong 	項目中	c=4 d=5.66103e-13 t=51676
+xiang mu zhong 	項目中	c=5 d=0.000207579 t=51676
 xiang pi pei 	相匹配	c=1 d=7.23735e-50 t=51676
 xiang qian 	向前	c=2 d=3.8539e-48 t=51676
 xiang qing 	詳情	c=15 d=0.0369807 t=51676
@@ -5644,7 +5787,7 @@ xiang wai 	向外	c=1 d=1.29112e-06 t=51676
 xiang wan 	向晚	c=2 d=1.19799 t=51676
 xiang wen 	想問	c=1 d=6.34191e-55 t=51676
 xiang wo 	向我	c=1 d=1.2681e-59 t=51676
-xiang xi 	詳細	c=69 d=0.151287 t=51676
+xiang xi 	詳細	c=70 d=0.21449 t=51676
 xiang xia 	向下	c=3 d=1.04781e-20 t=51676
 xiang xiang 	想象	c=1 d=0.018043 t=51676
 xiang yao 	想要	c=19 d=0.240508 t=51676
@@ -5677,6 +5820,7 @@ xiao hao di 	消耗第	c=1 d=3.36012e-82 t=51676
 xiao hua 	小花	c=0 d=0.000162866 t=51676
 xiao hua hua 	小花花	c=1 d=0.00163682 t=51676
 xiao ji 	消極	c=3 d=7.09334e-31 t=51676
+xiao jie 	小結	c=1 d=1 t=47957
 xiao lang hao 	小狼毫	c=30 d=0.484823 t=51676
 xiao li 	小粒	c=1 d=2.19689e-24 t=51676
 xiao lv 	效率	c=7 d=0.0939493 t=51676
@@ -5691,7 +5835,7 @@ xiao si le 	笑死了	c=1 d=3.5106e-68 t=51676
 xiao tou 	小頭	c=1 d=0.585669 t=51676
 xiao tu dou 	小土豆	c=1 d=1.36924e-50 t=51676
 xiao xi 	小溪	c=2 d=2.86143e-37 t=51676
-xiao xi 	消息	c=17 d=0.000111269 t=51676
+xiao xi 	消息	c=18 d=0.00033379 t=51676
 xiao xi dui lie 	消息隊列	c=2 d=1.92705e-41 t=51676
 xiao xi xun huan 	消息循環	c=1 d=2.16602e-34 t=51676
 xiao xing 	小型	c=4 d=2.97477e-06 t=51676
@@ -5699,21 +5843,22 @@ xiao yin 	消音	c=1 d=1.73674e-53 t=51676
 xiao ying 	效應	c=1 d=1.40945e-67 t=51676
 xiao you xi 	小遊戲	c=1 d=1.98371e-29 t=51676
 xiao yu 	小於	c=4 d=1.27823e-35 t=51676
+xiao yuan 	小緣	c=1 d=1 t=48591
 xiao yuan 	校園	c=2 d=8.73214e-53 t=51676
 xiao yuan ka 	校園卡	c=1 d=1.28085e-59 t=51676
 xiao zhao 	校招	c=8 d=0.582748 t=51676
 xie 	些	c=4 d=7.83238e-09 t=51676
-xie 	寫	c=65 d=0.81702 t=51676
+xie 	寫	c=66 d=0.81702 t=51676
 xie 	謝	c=5 d=3.70718e-54 t=51676
 xie 	鞋	c=1 d=2.11398e-42 t=51676
 xie bu xia 	寫不下	c=1 d=3.40337e-56 t=51676
-xie cheng 	協程	c=10 d=2.58294e-59 t=51676
-xie cheng 	寫成	c=1 d=3.57798e-27 t=51676
+xie cheng 	協程	c=11 d=4.70171e-05 t=51676
+xie cheng 	寫成	c=2 d=9.90387e-05 t=51676
 xie cheng 	攜程	c=2 d=5.58249e-54 t=51676
 xie chu 	寫出	c=33 d=0.427415 t=51676
 xie dai 	攜帶	c=2 d=5.09416e-07 t=51676
 xie dai ma 	寫代碼	c=3 d=7.64135e-42 t=51676
-xie dao 	寫到	c=2 d=4.96839e-07 t=51676
+xie dao 	寫到	c=4 d=0.0148646 t=51676
 xie de 	寫的	c=5 d=7.77716e-14 t=51676
 xie fa 	寫法	c=6 d=0.511709 t=51676
 xie fang cha 	協方差	c=1 d=1.066e-46 t=51676
@@ -5738,6 +5883,7 @@ xie yi ge 	寫一個	c=26 d=0.847894 t=51676
 xie yi pian 	寫一篇	c=1 d=2.83066e-06 t=51676
 xie zai 	卸載	c=9 d=0.718924 t=51676
 xie zuo 	協作	c=4 d=0.000425673 t=51676
+xie zuo 	寫作	c=1 d=1 t=46966
 xin 	信	c=5 d=1.08635e-10 t=51676
 xin 	心	c=2 d=0.400517 t=51676
 xin 	新	c=9 d=0.0458406 t=51676
@@ -5765,7 +5911,7 @@ xin shou guan 	新手關	c=1 d=4.17061e-36 t=51676
 xin tian jia 	新添加	c=1 d=0.000623601 t=51676
 xin wei zhi 	新位置	c=4 d=0.0380064 t=51676
 xin wen 	新聞	c=4 d=0.000110931 t=51676
-xin xi 	信息	c=73 d=5.33536e-07 t=51676
+xin xi 	信息	c=73 d=0.00323438 t=51676
 xin xin ku ku 	辛辛苦苦	c=1 d=1.18914e-38 t=51676
 xin xing 	新興	c=1 d=1.11621e-58 t=51676
 xin xing tai 	新形態	c=2 d=0.00028966 t=51676
@@ -5774,7 +5920,8 @@ xin ying pan 	新硬盤	c=1 d=7.30511e-42 t=51676
 xin yuan 	心願	c=1 d=1.62944e-38 t=51676
 xin zeng 	新增	c=19 d=0.00145967 t=51676
 xing 	型	c=5 d=9.73289e-06 t=51676
-xing 	形	c=2 d=1.25685e-13 t=51676
+xing 	姓	c=1 d=1 t=47566
+xing 	形	c=4 d=0.00235353 t=51676
 xing 	性	c=15 d=0.0843881 t=51676
 xing 	星	c=9 d=0.000376846 t=51676
 xing 	行	c=3 d=0.279431 t=51676
@@ -5791,7 +5938,8 @@ xing hao 	型號	c=3 d=9.63496e-38 t=51676
 xing jia bi 	性價比	c=2 d=2.91122e-42 t=51676
 xing jian ya 	星見雅	c=1 d=1.41753e-46 t=51676
 xing ming 	姓名	c=3 d=9.04317e-53 t=51676
-xing neng 	性能	c=34 d=4.38194e-05 t=51676
+xing mu 	醒目	c=1 d=1 t=46238
+xing neng 	性能	c=35 d=0.00749828 t=51676
 xing qiong 	星穹	c=2 d=1.09046e-42 t=51676
 xing qiong tie dao 	星穹鐵道	c=2 d=4.87046e-51 t=51676
 xing qu 	興趣	c=3 d=2.83868e-58 t=51676
@@ -5803,14 +5951,15 @@ xing tai jian 	形態鍵	c=3 d=1.30432e-68 t=51676
 xing xiang 	形象	c=1 d=4.28289e-25 t=51676
 xing zheng 	行政	c=1 d=1.4899e-73 t=51676
 xing zhi 	性質	c=1 d=1.85723e-48 t=51676
-xing zhuang 	形狀	c=4 d=0.294043 t=51676
+xing zhuang 	形狀	c=5 d=0.294043 t=51676
 xiong 	胸	c=2 d=1.16894e-64 t=51676
 xiong bu 	胸部	c=3 d=0.0051953 t=51676
 xiong di 	兄弟	c=2 d=6.09761e-38 t=51676
 xiong di men 	兄弟們	c=1 d=2.0522e-46 t=51676
+xiu 	修	c=1 d=1 t=46233
 xiu ai 	修唉	c=1 d=7.73919e-74 t=51676
 xiu fu 	修復	c=7 d=0.0037683 t=51676
-xiu gai 	修改	c=139 d=0.825158 t=51676
+xiu gai 	修改	c=139 d=1.61145 t=51676
 xiu gai cheng 	修改成	c=1 d=0.0122161 t=51676
 xiu gai gai 	修改該	c=1 d=8.07588e-75 t=51676
 xiu gai ma 	修改嗎	c=1 d=3.8925e-77 t=51676
@@ -5828,41 +5977,44 @@ xu bu shi gua hao 	須不是掛號	c=1 d=5.26989e-53 t=51676
 xu bu xu yao 	需不需要	c=6 d=0.00895987 t=51676
 xu chuan 	續傳	c=1 d=5.3811e-34 t=51676
 xu han shu 	虛函數	c=1 d=1.82641e-57 t=51676
-xu hao 	序號	c=4 d=1.33745e-19 t=51676
+xu hao 	序號	c=6 d=0.0858804 t=51676
 xu jia 	虛假	c=1 d=5.31165e-87 t=51676
 xu lie 	序列	c=28 d=1.67904e-11 t=51676
 xu lie hao 	序列號	c=1 d=9.57921e-54 t=51676
 xu lie hua 	序列化	c=3 d=3.64944e-57 t=51676
+xu lun 	緒論	c=5 d=3.42167 t=46792
 xu ni 	虛擬	c=36 d=0.300028 t=51676
 xu ni ji 	虛擬機	c=21 d=0.0395575 t=51676
 xu ni nei cun 	虛擬內存	c=1 d=9.23813e-98 t=51676
 xu qiu 	絮球	c=1 d=3.65511e-72 t=51676
-xu qiu 	需求	c=13 d=0.0164743 t=51676
+xu qiu 	需求	c=15 d=0.0164743 t=51676
+xu qiu shi 	需求時	c=1 d=1 t=47810
 xu yao 	需要	c=144 d=1.39061 t=51676
 xuan 	玄	c=1 d=4.52981e-08 t=51676
 xuan 	選	c=8 d=0.0679267 t=51676
 xuan dao shi 	選導師	c=1 d=1.46902e-54 t=51676
 xuan fu 	懸浮	c=2 d=2.81702e-08 t=51676
 xuan ku 	炫酷	c=1 d=1.13937e-35 t=51676
-xuan ran 	渲染	c=37 d=0.000372259 t=51676
-xuan ran qi 	渲染器	c=1 d=1.27225e-68 t=51676
+xuan ran 	渲染	c=38 d=1.33832 t=51676
+xuan ran qi 	渲染器	c=2 d=0.509156 t=51676
 xuan ran shi 	渲染是	c=1 d=2.29512e-68 t=51676
 xuan ran wei 	渲染爲	c=1 d=0.000129737 t=51676
-xuan ti 	選題	c=1 d=1.69415e-55 t=51676
+xuan ti 	選題	c=2 d=0.00427488 t=51676
 xuan xiang 	選項	c=13 d=0.330158 t=51676
 xuan xing 	選型	c=1 d=2.11326e-38 t=51676
 xuan xue 	玄學	c=1 d=3.91839e-08 t=51676
-xuan ze 	選擇	c=56 d=0.951229 t=51676
+xuan ze 	選擇	c=59 d=0.951229 t=51676
 xuan ze xing 	選擇性	c=1 d=0.474734 t=51676
 xuan zhong 	選中	c=10 d=1.28801e-07 t=51676
 xuan zhuan 	旋轉	c=11 d=0.436517 t=51676
-xue 	學	c=5 d=4.1454e-49 t=51676
+xue 	學	c=5 d=0.00958472 t=51676
 xue 	穴	c=3 d=0.0115669 t=51676
-xue 	血	c=3 d=4.92209e-31 t=51676
+xue 	血	c=4 d=0.224249 t=51676
 xue 	雪	c=1 d=4.45298e-42 t=51676
 xue cheng 	薛城	c=1 d=8.91309e-59 t=51676
 xue guo 	學過	c=2 d=1.80958e-07 t=51676
 xue hui 	學會	c=2 d=1.37896e-45 t=51676
+xue ji shu 	學技術	c=1 d=1 t=48233
 xue jian 	削減	c=1 d=2.2232e-17 t=51676
 xue jie 	學姐	c=2 d=1.14195e-54 t=51676
 xue ke 	學科	c=1 d=2.43961e-51 t=51676
@@ -5871,11 +6023,11 @@ xue liang 	血量	c=1 d=3.07373e-34 t=51676
 xue qi 	學期	c=1 d=1.77177e-82 t=51676
 xue sheng 	學生	c=40 d=0.0378169 t=51676
 xue sheng zheng 	學生證	c=1 d=7.60219e-11 t=51676
-xue shu 	學術	c=1 d=7.68096e-44 t=51676
+xue shu 	學術	c=4 d=0.00412395 t=51676
 xue tiao 	血條	c=1 d=1.28818e-38 t=51676
 xue wei 	學位	c=2 d=1.22895e-44 t=51676
 xue wei er 	學位而	c=1 d=1.23511e-43 t=51676
-xue xi 	學習	c=47 d=0.0163532 t=51676
+xue xi 	學習	c=50 d=2.03632 t=51676
 xue xi guo 	學習國	c=1 d=3.36252e-61 t=51676
 xue xi lv 	學息率	c=1 d=2.97146e-77 t=51676
 xue xi lv 	學習率	c=2 d=2.71308e-76 t=51676
@@ -5883,11 +6035,12 @@ xue xi xue xi 	學習學習	c=1 d=2.42579e-43 t=51676
 xue xiao 	學校	c=8 d=0.100708 t=51676
 xue xiao ma 	學校嗎	c=1 d=1.3398e-59 t=51676
 xue ye 	學業	c=3 d=1.61745e-10 t=51676
-xue yuan 	學院	c=18 d=9.14709e-11 t=51676
+xue yuan 	學院	c=18 d=0.00909528 t=51676
 xun 	遜	c=1 d=7.68463e-79 t=51676
 xun fei 	訊飛	c=2 d=2.87393e-08 t=51676
 xun huan 	循環	c=21 d=1.36881 t=51676
-xun lian 	訓練	c=60 d=0.242892 t=51676
+xun lian 	訓練	c=61 d=0.242892 t=51676
+xun lian chu 	訓練出	c=1 d=1 t=46581
 xun lian hou 	訓練後	c=1 d=5.30714e-77 t=51676
 xun lian ji 	訓練集	c=5 d=2.32216e-30 t=51676
 xun lian shi 	訓練師	c=2 d=1.00681e-24 t=51676
@@ -5904,17 +6057,18 @@ ya suo 	壓縮	c=2 d=1.91946e-24 t=51676
 ya suo bao 	壓縮包	c=1 d=7.06707e-64 t=51676
 ya yi 	芽衣	c=1 d=1.08211e-46 t=51676
 yan 	燕	c=1 d=2.98492e-42 t=51676
-yan 	眼	c=1 d=3.68118e-38 t=51676
+yan 	眼	c=2 d=0.000231716 t=51676
+yan 	顏	c=1 d=1 t=48308
 yan chang 	延長	c=1 d=2.16374e-51 t=51676
 yan chi 	延遲	c=4 d=0.4368 t=51676
 yan chi di 	延遲低	c=1 d=0.0728029 t=51676
 yan ge 	嚴格	c=4 d=0.00154923 t=51676
 yan jiang 	岩漿	c=3 d=1.28153e-37 t=51676
 yan jin 	嚴謹	c=3 d=9.73951e-14 t=51676
-yan jiu 	研究	c=10 d=4.04695e-06 t=51676
+yan jiu 	研究	c=17 d=0.0367016 t=51676
 yan jiu sheng 	研究生	c=6 d=2.68715e-05 t=51676
 yan li 	眼裏	c=1 d=1.44321e-22 t=51676
-yan se 	顏色	c=21 d=2.82062e-05 t=51676
+yan se 	顏色	c=21 d=0.294776 t=51676
 yan shan 	燕山	c=3 d=0.00647795 t=51676
 yan shi 	延時	c=2 d=1.01198e-12 t=51676
 yan shi 	演示	c=5 d=0.0186162 t=51676
@@ -5922,7 +6076,7 @@ yan tou 	眼透	c=2 d=1.90485e-68 t=51676
 yan wu 	煙霧	c=1 d=3.58579e-82 t=51676
 yan wu gan 	厭惡感	c=1 d=6.83119e-47 t=51676
 yan xiu 	研修	c=1 d=1.62556e-10 t=51676
-yan zhao wang 	研招網	c=5 d=0.625002 t=51676
+yan zhao wang 	研招網	c=6 d=0.625002 t=51676
 yan zheng 	驗證	c=12 d=0.00684129 t=51676
 yan zheng ma 	驗證碼	c=2 d=1.38031e-88 t=51676
 yan zhong 	嚴重	c=4 d=2.44984e-12 t=51676
@@ -5950,14 +6104,14 @@ yao ge 	要個	c=0 d=6.34731e-66 t=51676
 yao ge sha 	要個啥	c=1 d=6.37913e-65 t=51676
 yao hui 	要回	c=1 d=4.50554e-33 t=51676
 yao hui fu 	要恢復	c=1 d=4.52813e-33 t=51676
-yao qiu 	要求	c=35 d=0.0316302 t=51676
+yao qiu 	要求	c=35 d=0.0487632 t=51676
 yao qiu ma 	要求嗎	c=1 d=3.50165e-38 t=51676
 yao shi 	要是	c=1 d=4.37299e-64 t=51676
 yao su 	要素	c=2 d=3.70386e-42 t=51676
 yao ti qian 	要提前	c=1 d=1.48378e-54 t=51676
 yao xia xian le 	要下線了	c=1 d=0.0262523 t=51676
-yao you 	要有	c=2 d=1.28136e-05 t=51676
-ye 	也	c=49 d=0.655897 t=51676
+yao you 	要有	c=3 d=5.30116e-05 t=51676
+ye 	也	c=51 d=0.655897 t=51676
 ye 	夜	c=1 d=2.90371e-41 t=51676
 ye 	葉	c=4 d=1.11469e-41 t=51676
 ye 	頁	c=6 d=5.13363e-23 t=51676
@@ -5978,7 +6132,7 @@ ye mian 	頁面	c=31 d=0.00549574 t=51676
 ye mie you 	也咩有	c=1 d=1.77792e-64 t=51676
 ye neng 	也能	c=1 d=1.85218e-16 t=51676
 ye neng gou 	也能夠	c=1 d=4.24027e-25 t=51676
-ye shi 	也是	c=19 d=0.00396599 t=51676
+ye shi 	也是	c=19 d=0.138761 t=51676
 ye si 	也似	c=0 d=1.16754e-88 t=51676
 ye si ting 	也似聽	c=1 d=1.1734e-87 t=51676
 ye wu 	業務	c=5 d=1.18061 t=51676
@@ -5996,9 +6150,9 @@ yi 	意	c=1 d=4.90093e-52 t=51676
 yi 	易	c=1 d=0.000318278 t=51676
 yi 	移	c=1 d=2.23465e-48 t=51676
 yi 	義	c=0 d=0.0355226 t=51676
-yi an zhuang 	已安裝	c=2 d=5.57296e-05 t=51676
+yi an zhuang 	已安裝	c=3 d=5.57296e-05 t=51676
 yi ban 	一版	c=1 d=1.09246e-11 t=51676
-yi ban 	一般	c=26 d=0.50036 t=51676
+yi ban 	一般	c=28 d=0.50036 t=51676
 yi bian 	一遍	c=5 d=1.14746e-30 t=51676
 yi bian 	一邊	c=1 d=3.42695e-49 t=51676
 yi bian 	以便	c=3 d=2.27166e-06 t=51676
@@ -6027,8 +6181,9 @@ yi dong 	易懂	c=4 d=1.42051e-48 t=51676
 yi dong 	移動	c=49 d=1.2215 t=51676
 yi dong dao 	移動到	c=3 d=0.882497 t=51676
 yi dong duan 	移動端	c=1 d=2.62783e-43 t=51676
+yi dong hua 	移動話	c=1 d=1 t=48268
 yi du 	易讀	c=1 d=0.000131041 t=51676
-yi duan 	一段	c=9 d=0.0607589 t=51676
+yi duan 	一段	c=10 d=0.0607589 t=51676
 yi duan hua 	一段話	c=1 d=2.54402e-44 t=51676
 yi dui 	一對	c=1 d=3.11329e-08 t=51676
 yi duo 	一朵	c=2 d=0.00166331 t=51676
@@ -6036,7 +6191,8 @@ yi fen 	一份	c=6 d=0.481445 t=51676
 yi fen pei 	一分配	c=1 d=0.000156102 t=51676
 yi fen zhong 	一分鐘	c=1 d=5.08085e-35 t=51676
 yi fu 	衣服	c=4 d=1.41387e-45 t=51676
-yi ge 	一個	c=371 d=1.68857 t=51676
+yi fu gai 	已覆蓋	c=1 d=1 t=48593
+yi ge 	一個	c=371 d=2.33026 t=51676
 yi ge yue 	一個月	c=2 d=0.136154 t=51676
 yi ge zi 	一個字	c=2 d=3.57885e-81 t=51676
 yi gong 	以供	c=1 d=1.47874e-14 t=51676
@@ -6045,6 +6201,7 @@ yi hao 	一號	c=1 d=7.87566e-15 t=51676
 yi hao 	縊號	c=1 d=1.90846e-74 t=51676
 yi hou 	以後	c=2 d=0.145876 t=51676
 yi hua 	一滑	c=1 d=0.00414854 t=51676
+yi huan 	異環	c=3 d=2.72577 t=47070
 yi hui 	一會	c=2 d=9.19098e-56 t=51676
 yi ji 	一級	c=3 d=0.000880518 t=51676
 yi ji 	一集	c=2 d=0.15155 t=51676
@@ -6058,15 +6215,15 @@ yi jiang 	已將	c=1 d=1.77032e-43 t=51676
 yi jiao 	一覺	c=1 d=8.63643e-41 t=51676
 yi jing 	已經	c=38 d=0.46312 t=51676
 yi jiu 	依舊	c=7 d=1.93078e-05 t=51676
-yi ju 	依據	c=4 d=0.504095 t=51676
+yi ju 	依據	c=6 d=0.504095 t=51676
 yi ka 	一卡	c=2 d=7.01583e-59 t=51676
 yi kan dao 	一看到	c=1 d=1.16477e-59 t=51676
 yi kao 	依靠	c=2 d=1.73812e-23 t=51676
-yi kuai 	一塊	c=3 d=3.96628e-06 t=51676
+yi kuai 	一塊	c=3 d=1.34706e-05 t=51676
 yi kuan 	一款	c=3 d=3.57311e-11 t=51676
 yi kuo zhan 	易擴展	c=1 d=0.00319873 t=51676
 yi lai 	依賴	c=15 d=2.00233e-07 t=51676
-yi lan 	一欄	c=2 d=2.26692e-34 t=51676
+yi lan 	一欄	c=3 d=0.0536647 t=51676
 yi lei 	一類	c=1 d=3.36893e-54 t=51676
 yi liao 	醫療	c=22 d=1.57344 t=51676
 yi liao ji gou 	醫療機構	c=1 d=1.74059e-79 t=51676
@@ -6077,7 +6234,7 @@ yi ming 	一名	c=7 d=1.5553e-49 t=51676
 yi nei 	以內	c=4 d=0.546074 t=51676
 yi ou 	一漚	c=0 d=9.8307e-07 t=51676
 yi pai 	一派	c=2 d=3.52771e-39 t=51676
-yi pian 	一篇	c=8 d=0.0223057 t=51676
+yi pian 	一篇	c=9 d=0.241929 t=51676
 yi qi 	一起	c=8 d=0.044601 t=51676
 yi qi da 	一起打	c=1 d=8.96568e-40 t=51676
 yi qie 	一切	c=1 d=3.7498e-20 t=51676
@@ -6087,7 +6244,7 @@ yi ren 	一人	c=1 d=0.0330412 t=51676
 yi ren 	一任	c=1 d=5.15868e-08 t=51676
 yi ru 	移入	c=1 d=4.33685e-84 t=51676
 yi shan 	一閃	c=1 d=6.05377e-08 t=51676
-yi shang 	以上	c=42 d=1.55724 t=51676
+yi shang 	以上	c=47 d=1.55724 t=51676
 yi sheng 	醫生	c=17 d=2.87289e-49 t=51676
 yi shi 	一是	c=1 d=1.16659e-48 t=51676
 yi shi jian 	一時間	c=0 d=2.26642e-68 t=51676
@@ -6095,7 +6252,7 @@ yi shou 	一首	c=3 d=8.53502e-87 t=51676
 yi shun jian 	一瞬間	c=1 d=2.16367e-80 t=51676
 yi si 	意思	c=68 d=1.88498 t=51676
 yi si shi 	意思是	c=2 d=9.58798e-06 t=51676
-yi tai 	一臺	c=2 d=0.946485 t=51676
+yi tai 	一臺	c=3 d=0.946485 t=51676
 yi tao 	一套	c=1 d=1.38465e-64 t=51676
 yi ti 	一體	c=1 d=5.38128e-05 t=51676
 yi tian 	一天	c=3 d=0.0710054 t=51676
@@ -6125,12 +6282,13 @@ yi xuan ze 	以選擇	c=1 d=1.20465e-14 t=51676
 yi yang 	一樣	c=14 d=1.07064 t=51676
 yi ye 	一頁	c=2 d=5.71658e-69 t=51676
 yi yi 	一一	c=1 d=1.95239e-77 t=51676
-yi yi 	意義	c=2 d=9.56648e-09 t=51676
+yi yi 	意義	c=3 d=0.00953983 t=51676
 yi yi ge 	以一個	c=1 d=2.80927e-05 t=51676
-yi you 	已有	c=6 d=2.44534e-17 t=51676
+yi you 	已有	c=7 d=0.0294518 t=51676
 yi you de 	已有的	c=1 d=4.65319e-30 t=51676
 yi yuan 	醫院	c=5 d=1.09084e-65 t=51676
-yi zhang 	一張	c=23 d=0.0517143 t=51676
+yi zhang 	一張	c=23 d=0.133989 t=51676
+yi zhang 	一章	c=1 d=1 t=46776
 yi zhao 	依照	c=1 d=1.7103e-49 t=51676
 yi zheng ge 	一整個	c=1 d=9.90997e-71 t=51676
 yi zheng kuai 	一整塊	c=1 d=8.83341e-71 t=51676
@@ -6149,6 +6307,7 @@ yi zu 	一組	c=3 d=0.0629761 t=51676
 yin 	印	c=1 d=0.0130365 t=51676
 yin 	引	c=2 d=2.55677e-44 t=51676
 yin 	音	c=2 d=3.70921e-39 t=51676
+yin biao 	音標	c=1 d=1 t=46253
 yin cang 	隱藏	c=5 d=1.85101e-08 t=51676
 yin cang le 	隱藏了	c=1 d=1.06825e-12 t=51676
 yin chu 	引出	c=1 d=0.017249 t=51676
@@ -6162,7 +6321,7 @@ yin hang 	銀行	c=1 d=5.52672e-54 t=51676
 yin hao 	引號	c=5 d=1.04758e-07 t=51676
 yin ji 	陰極	c=1 d=2.63312e-96 t=51676
 yin li 	引理	c=1 d=1.11215e-74 t=51676
-yin pin 	音頻	c=9 d=2.79089e-16 t=51676
+yin pin 	音頻	c=11 d=1.00869e-05 t=51676
 yin qin 	殷勤	c=1 d=1.90852e-45 t=51676
 yin qing 	引擎	c=20 d=0.0542846 t=51676
 yin ru 	引入	c=2 d=0.00904991 t=51676
@@ -6175,15 +6334,16 @@ yin xiang 	印象	c=3 d=3.77124e-46 t=51676
 yin xiao 	吟嘯	c=1 d=8.23509e-40 t=51676
 yin yao 	引要	c=1 d=1.90451e-79 t=51676
 yin ying 	陰影	c=4 d=1.13541e-37 t=51676
-yin yong 	引用	c=26 d=1.583e-08 t=51676
+yin yong 	引用	c=29 d=0.231269 t=51676
 yin yong hao 	引用好	c=1 d=1.36765e-07 t=51676
 yin yue 	音樂	c=24 d=0.00010438 t=51676
 ying 	影	c=2 d=2.23345e-40 t=51676
 ying 	應	c=7 d=4.95356e-23 t=51676
 ying 	硬	c=0 d=2.04523e-07 t=51676
-ying ai 	英愛	c=4 d=0.00179994 t=51676
+ying ai 	英愛	c=4 d=0.00311976 t=51676
 ying bi 	硬幣	c=2 d=4.12039e-88 t=51676
 ying bian ma 	硬編碼	c=3 d=1.24782e-14 t=51676
+ying biao 	應標	c=1 d=1 t=46251
 ying cang 	應倉	c=1 d=8.78993e-13 t=51676
 ying gai 	應該	c=46 d=0.398212 t=51676
 ying gai shi 	應該是	c=1 d=5.56217e-41 t=51676
@@ -6201,10 +6361,10 @@ ying she wei 	映射爲	c=2 d=3.61384e-47 t=51676
 ying shi 	影石	c=1 d=2.36872e-57 t=51676
 ying wei 	應爲	c=2 d=2.15368e-55 t=51676
 ying wei da 	英偉達	c=1 d=7.37602e-38 t=51676
-ying wen 	英文	c=29 d=1.14648 t=51676
+ying wen 	英文	c=33 d=1.14648 t=51676
 ying wen ban 	英文版	c=1 d=1.54565e-64 t=51676
 ying wen ming 	英文名	c=1 d=3.35795e-45 t=51676
-ying xiang 	影響	c=18 d=6.23167e-06 t=51676
+ying xiang 	影響	c=18 d=0.000129162 t=51676
 ying xing 	應性	c=1 d=4.02935e-13 t=51676
 ying xiong 	英雄	c=2 d=5.62399e-24 t=51676
 ying yong 	應用	c=72 d=0.932252 t=51676
@@ -6220,7 +6380,7 @@ yong bu liao 	用不了	c=1 d=7.93562e-16 t=51676
 yong dao 	用到	c=6 d=0.000784864 t=51676
 yong de 	用的	c=5 d=1.37465 t=51676
 yong duo shao 	用多少	c=1 d=0.000152248 t=51676
-yong fa 	用法	c=2 d=1.63705e-34 t=51676
+yong fa 	用法	c=3 d=0.000228266 t=51676
 yong guo 	用過	c=1 d=2.01499e-66 t=51676
 yong hu 	用戶	c=111 d=1.34275 t=51676
 yong hu de 	用戶的	c=1 d=1.52554e-57 t=51676
@@ -6238,11 +6398,11 @@ yong tu 	用途	c=3 d=3.57809e-17 t=51676
 yong wei 	用爲	c=1 d=9.90523e-36 t=51676
 yong yi 	用以	c=5 d=0.00240549 t=51676
 yong you 	擁有	c=3 d=2.36067e-17 t=51676
-yong yu 	用於	c=12 d=0.965837 t=51676
+yong yu 	用於	c=14 d=0.965837 t=51676
 yong zhong 	臃腫	c=1 d=0.0845849 t=51676
 yong zhuang 	泳裝	c=1 d=6.57095e-90 t=51676
 you 	優	c=3 d=3.07959e-27 t=51676
-you 	又	c=17 d=1.27069e-06 t=51676
+you 	又	c=17 d=0.117068 t=51676
 you 	右	c=3 d=4.33197e-68 t=51676
 you 	有	c=282 d=2.71569 t=51676
 you 	由	c=21 d=0.360595 t=51676
@@ -6260,6 +6420,7 @@ you dian 	優點	c=13 d=0.0712645 t=51676
 you dian 	有點	c=6 d=2.19392e-08 t=51676
 you dian 	郵電	c=2 d=1.65327e-54 t=51676
 you dui 	又對	c=1 d=0.292293 t=51676
+you dui qi 	右對齊	c=1 d=1 t=48217
 you duo zhong 	有多種	c=1 d=3.82608e-51 t=51676
 you fang 	右方	c=1 d=0.0685632 t=51676
 you gai lv 	有概率	c=2 d=2.65018e-25 t=51676
@@ -6292,19 +6453,22 @@ you li fen shi 	有理分式	c=1 d=5.95191e-73 t=51676
 you lian jie 	右連接	c=2 d=1.55853e-44 t=51676
 you mei you 	有沒有	c=20 d=0.499074 t=51676
 you na xie 	有哪些	c=5 d=0.0167392 t=51676
+you nuo 	尤諾	c=1 d=1 t=48499
 you qi 	尤其	c=1 d=1.0057e-08 t=51676
 you qi shi 	尤其是	c=1 d=0.000207579 t=51676
 you qian 	有錢	c=1 d=1.09604e-20 t=51676
 you qu bie 	有區別	c=1 d=9.42154e-94 t=51676
 you que dian 	優缺點	c=5 d=0.0104625 t=51676
+you ren 	有人	c=1 d=1 t=48399
 you she me 	有什麼	c=1 d=1.87079e-16 t=51676
 you shen me 	有什麼	c=65 d=0.502659 t=51676
 you shi 	優勢	c=8 d=0.45165 t=51676
 you shi 	又是	c=3 d=0.22091 t=51676
 you shi 	有事	c=1 d=3.95777e-08 t=51676
 you shi 	有時	c=9 d=0.00429766 t=51676
-you shi hou 	有時候	c=1 d=0.000485661 t=51676
+you shi hou 	有時候	c=3 d=0.346864 t=51676
 you shi you 	有時有	c=1 d=2.07078e-05 t=51676
+you suo 	有所	c=1 d=1 t=46685
 you wan 	遊玩	c=1 d=3.32736e-55 t=51676
 you wei 	有爲	c=1 d=4.46208e-66 t=51676
 you wen ti 	有問題	c=8 d=3.78473e-07 t=51676
@@ -6315,7 +6479,7 @@ you xi neng 	遊戲能	c=1 d=9.23087e-30 t=51676
 you xi zhong 	遊戲中	c=4 d=1.36835e-13 t=51676
 you xia 	遊俠	c=1 d=6.10174e-42 t=51676
 you xia jiao 	右下角	c=2 d=5.47954e-12 t=51676
-you xian 	優先	c=4 d=4.61096e-11 t=51676
+you xian 	優先	c=5 d=0.442639 t=51676
 you xian 	有限	c=2 d=1.0945e-38 t=51676
 you xian ji 	優先級	c=3 d=1.39107e-56 t=51676
 you xiang 	郵箱	c=9 d=0.000165616 t=51676
@@ -6332,7 +6496,8 @@ you xu yao 	有需要	c=1 d=8.23929e-46 t=51676
 you yao 	又要	c=1 d=0.00267181 t=51676
 you yi 	右移	c=1 d=6.51485e-48 t=51676
 you yi bu fen 	有一部分	c=2 d=1.88119e-44 t=51676
-you yi ge 	有一個	c=15 d=5.26468e-12 t=51676
+you yi ge 	有一個	c=15 d=6.73909e-05 t=51676
+you yi tai 	有一臺	c=1 d=1 t=46382
 you yi xie 	有一些	c=4 d=2.28927e-38 t=51676
 you yi zhang 	有一張	c=1 d=6.20787e-39 t=51676
 you yong 	有用	c=2 d=1.61725e-38 t=51676
@@ -6340,6 +6505,7 @@ you you 	又有	c=1 d=0.308819 t=51676
 you yu 	優於	c=2 d=2.01004e-57 t=51676
 you zai 	又在	c=1 d=0.0231676 t=51676
 you zhe ge 	有這個	c=1 d=2.74542e-58 t=51676
+you zheng 	郵政	c=1 d=1 t=46937
 yu 	宇	c=2 d=4.06707e-34 t=51676
 yu 	峪	c=1 d=1.34908e-52 t=51676
 yu 	於	c=16 d=0.012268 t=51676
@@ -6351,14 +6517,14 @@ yu 	雨	c=1 d=1.61185e-28 t=51676
 yu bian yi 	預編譯	c=3 d=4.39051e-57 t=51676
 yu ce 	預測	c=11 d=0.0303487 t=51676
 yu ceng 	與層	c=1 d=1.62893e-05 t=51676
-yu chu li 	預處理	c=8 d=1.00555e-14 t=51676
+yu chu li 	預處理	c=9 d=0.00814786 t=51676
 yu chu li qi 	與處理器	c=1 d=3.40869e-45 t=51676
 yu dao 	遇到	c=10 d=3.86326e-08 t=51676
 yu dao de 	遇到的	c=1 d=1.77122e-49 t=51676
 yu ding 	預定	c=0 d=0.0355226 t=51676
 yu ding yi 	預定義	c=1 d=0.357007 t=51676
 yu e 	餘額	c=1 d=1.41748e-75 t=51676
-yu fa 	語法	c=27 d=0.0135841 t=51676
+yu fa 	語法	c=28 d=0.612675 t=51676
 yu fen pei 	預分配	c=3 d=0.108536 t=51676
 yu ji 	預計	c=1 d=4.44059e-68 t=51676
 yu jian 	遇見	c=1 d=6.71304e-77 t=51676
@@ -6368,7 +6534,7 @@ yu kuai 	愉快	c=1 d=9.45006e-12 t=51676
 yu lan 	預覽	c=4 d=0.0982736 t=51676
 yu lan de 	預覽的	c=1 d=5.51733e-34 t=51676
 yu mao qiu 	羽毛球	c=1 d=1.34977e-58 t=51676
-yu ming 	域名	c=15 d=1.09593e-08 t=51676
+yu ming 	域名	c=15 d=0.000720907 t=51676
 yu ni 	與你	c=1 d=1.57773e-41 t=51676
 yu qi 	預期	c=20 d=1.48925 t=51676
 yu she 	預設	c=2 d=0.00655433 t=51676
@@ -6377,7 +6543,7 @@ yu wen 	語文	c=1 d=2.5461e-83 t=51676
 yu wo 	與我	c=1 d=1.73497e-41 t=51676
 yu xian 	預先	c=3 d=0.0622372 t=51676
 yu xian 	餘弦	c=1 d=2.35483e-76 t=51676
-yu yan 	語言	c=47 d=1.59578 t=51676
+yu yan 	語言	c=51 d=2.10626 t=51676
 yu yan jia 	預言家	c=1 d=1.493e-68 t=51676
 yu yi 	語義	c=2 d=0.0031042 t=51676
 yu yin 	語音	c=1 d=3.33903e-08 t=51676
@@ -6385,9 +6551,10 @@ yu zhi 	與之	c=1 d=7.61125e-25 t=51676
 yu zhi 	閾值	c=1 d=5.40164e-20 t=51676
 yu zhi 	預置	c=1 d=1.35391e-94 t=51676
 yuan 	元	c=1 d=4.00286e-53 t=51676
-yuan 	原	c=2 d=1.20003e-57 t=51676
+yuan 	原	c=3 d=0.0132336 t=51676
 yuan 	員	c=1 d=2.76792e-07 t=51676
-yuan 	源	c=9 d=0.0822835 t=51676
+yuan 	圓	c=1 d=1 t=47342
+yuan 	源	c=10 d=0.0822835 t=51676
 yuan 	緣	c=1 d=1.37563e-46 t=51676
 yuan 	遠	c=1 d=4.41933e-41 t=51676
 yuan 	院	c=3 d=8.70553e-10 t=51676
@@ -6397,7 +6564,7 @@ yuan ben 	原本	c=2 d=0.00050296 t=51676
 yuan cai liao 	原材料	c=1 d=8.17869e-18 t=51676
 yuan cheng 	遠程	c=13 d=1.74264 t=51676
 yuan dai ma 	源代碼	c=2 d=4.72488e-84 t=51676
-yuan dian 	原點	c=3 d=0.0943927 t=51676
+yuan dian 	原點	c=3 d=0.102284 t=51676
 yuan dian 	圓點	c=1 d=0.970446 t=51676
 yuan dian 	遠點	c=1 d=0.965605 t=51676
 yuan duan 	遠端	c=1 d=1.90268e-09 t=51676
@@ -6407,11 +6574,11 @@ yuan gong 	員工	c=1 d=6.84283e-67 t=51676
 yuan gu 	緣故	c=2 d=2.46287e-45 t=51676
 yuan jiao 	圓角	c=4 d=2.48189 t=51676
 yuan jiao ben 	源腳本	c=1 d=4.74234e-18 t=51676
-yuan lai 	原來	c=3 d=0.000413853 t=51676
+yuan lai 	原來	c=4 d=0.118837 t=51676
 yuan li 	原理	c=72 d=1.41723 t=51676
 yuan li li 	原理裏	c=1 d=4.54279e-71 t=51676
 yuan ma 	源碼	c=13 d=0.265803 t=51676
-yuan shen 	原神	c=11 d=7.81215e-08 t=51676
+yuan shen 	原神	c=14 d=0.97688 t=51676
 yuan sheng 	原生	c=6 d=0.0789185 t=51676
 yuan shi 	原始	c=7 d=1.08098e-08 t=51676
 yuan shi pin 	源視頻	c=1 d=1.78137e-28 t=51676
@@ -6419,11 +6586,11 @@ yuan shu ju 	元數據	c=2 d=0.367879 t=51676
 yuan su 	元素	c=58 d=0.823495 t=51676
 yuan ti 	原題	c=2 d=3.84785e-51 t=51676
 yuan tou 	源頭	c=2 d=3.71211e-40 t=51676
-yuan tu 	原圖	c=8 d=0.00118047 t=51676
+yuan tu 	原圖	c=8 d=0.0133665 t=51676
 yuan tu shang 	原圖上	c=1 d=5.29253e-74 t=51676
 yuan wen jian 	源文件	c=2 d=9.42024e-63 t=51676
 yuan xian 	原先	c=1 d=4.7046e-71 t=51676
-yuan xiao 	院校	c=5 d=4.54122e-07 t=51676
+yuan xiao 	院校	c=5 d=5.42225e-06 t=51676
 yuan xin xi 	元信息	c=2 d=3.5953e-25 t=51676
 yuan xing 	原型	c=2 d=1.72337e-86 t=51676
 yuan xing 	原形	c=1 d=6.99295e-87 t=51676
@@ -6439,19 +6606,22 @@ yuan zu 	遠足	c=1 d=2.38133e-90 t=51676
 yue 	月	c=9 d=1.26664e-42 t=51676
 yue 	約	c=3 d=1.26616e-41 t=51676
 yue 	越	c=2 d=0.084163 t=51676
+yue chu 	月初	c=1 d=1 t=46881
 yue da 	越大	c=1 d=2.62694e-39 t=51676
 yue ding 	約定	c=4 d=0.045275 t=51676
 yue du 	月讀	c=1 d=5.91335e-26 t=51676
-yue du 	閱讀	c=10 d=0.425283 t=51676
+yue du 	閱讀	c=16 d=1.81411 t=51676
 yue duo 	越多	c=1 d=1.32805e-73 t=51676
+yue fen 	月份	c=1 d=1 t=46874
 yue juan 	閱卷	c=2 d=1.23142e-59 t=51676
 yue lai 	越來	c=4 d=0.0837432 t=51676
 yue lai yue di 	越來越低	c=1 d=2.65334e-39 t=51676
 yue meng 	約猛	c=1 d=1.3414e-73 t=51676
 yue pu 	樂譜	c=1 d=3.44108e-68 t=51676
 yue shu 	約束	c=3 d=8.4644e-39 t=51676
+yue ya 	月牙	c=1 d=1 t=47350
 yue yu 	粵語	c=1 d=3.63379e-62 t=51676
-yun 	雲	c=4 d=3.33154e-11 t=51676
+yun 	雲	c=4 d=0.00124513 t=51676
 yun ceng 	雲層	c=1 d=3.84578e-82 t=51676
 yun dong 	運動	c=3 d=4.85826e-08 t=51676
 yun fu wu 	雲服務	c=1 d=1.94001e-61 t=51676
@@ -6466,6 +6636,7 @@ yun xi 	云溪	c=0 d=2.9497e-21 t=51676
 yun xi gai 	云溪該	c=1 d=2.96448e-20 t=51676
 yun xing 	運行	c=97 d=1.85495 t=51676
 yun xing hou 	運行後	c=1 d=3.83284e-13 t=51676
+yun xing qian 	運行前	c=1 d=1 t=47447
 yun xing shi 	運行時	c=7 d=2.92195e-10 t=51676
 yun xing zai 	運行在	c=1 d=4.97653e-85 t=51676
 yun xu 	允許	c=2 d=0.00111936 t=51676
@@ -6476,7 +6647,7 @@ zai 	再	c=49 d=0.302855 t=51676
 zai 	在	c=634 d=6.88058 t=51676
 zai a 	在啊	c=1 d=3.30862e-18 t=51676
 zai an 	再按	c=1 d=1.95717e-47 t=51676
-zai ci 	再次	c=9 d=0.0022095 t=51676
+zai ci 	再次	c=10 d=0.669925 t=51676
 zai ci 	在此	c=4 d=0.00136037 t=51676
 zai gan ma 	在幹嘛	c=1 d=3.8408e-08 t=51676
 zai hu 	在乎	c=1 d=4.6138e-77 t=51676
@@ -6486,14 +6657,14 @@ zai na li 	在哪裏	c=7 d=0.647304 t=51676
 zai nan xing 	災難性	c=1 d=0.465334 t=51676
 zai qi 	在其	c=1 d=6.60319e-30 t=51676
 zai sheng cheng 	在生成	c=1 d=1.08702e-11 t=51676
-zai shuo 	再說	c=1 d=3.99755e-08 t=51676
+zai shuo 	再說	c=1 d=0.000567086 t=51676
 zai wan 	在玩	c=1 d=1.82361e-39 t=51676
 zai wang shang 	在網上	c=1 d=0.156453 t=51676
 zai wo 	在我	c=0 d=1.65891e-44 t=51676
 zai wo zhe 	在我這	c=1 d=1.66722e-43 t=51676
-zai xian 	在線	c=16 d=2.83066e-06 t=51676
+zai xian 	在線	c=16 d=0.0800583 t=51676
 zai ye 	再也	c=1 d=2.57361e-33 t=51676
-zai yi 	在意	c=2 d=4.30788e-64 t=51676
+zai yi 	在意	c=3 d=0.341298 t=51676
 zai yong 	再用	c=1 d=1.44136e-95 t=51676
 zai yu 	在於	c=4 d=3.43881e-11 t=51676
 zai yu 	在與	c=1 d=8.84452e-27 t=51676
@@ -6510,7 +6681,7 @@ zao sheng 	噪聲	c=5 d=2.7559e-44 t=51676
 zao wan 	早晚	c=1 d=4.06128e-47 t=51676
 zao yi 	早已	c=1 d=1.2279e-33 t=51676
 zao yu 	早於	c=1 d=1.54192e-65 t=51676
-ze 	則	c=28 d=1.42781e-10 t=51676
+ze 	則	c=29 d=0.00153381 t=51676
 ze cheng 	則稱	c=1 d=9.89112e-78 t=51676
 ze hui 	則會	c=1 d=0.177284 t=51676
 ze ne ma 	則呢嗎	c=5 d=0.0248263 t=51676
@@ -6538,7 +6709,7 @@ zha 	炸	c=2 d=4.83059e-29 t=51676
 zha dao 	炸到	c=1 d=0.0254765 t=51676
 zha yan 	眨眼	c=1 d=3.68044e-65 t=51676
 zha yu 	炸魚	c=2 d=3.51172e-46 t=51676
-zhai yao 	摘要	c=2 d=0.0239282 t=51676
+zhai yao 	摘要	c=4 d=0.0239282 t=51676
 zhai you 	摘由	c=1 d=0.0116203 t=51676
 zhan 	佔	c=3 d=4.71628e-12 t=51676
 zhan 	棧	c=8 d=0.0187015 t=51676
@@ -6558,24 +6729,25 @@ zhan shi 	戰士	c=1 d=1.379e-16 t=51676
 zhan tie 	粘貼	c=3 d=0.895574 t=51676
 zhan wei 	佔位	c=2 d=4.45692e-23 t=51676
 zhan wei 	站位	c=1 d=1.48636e-45 t=51676
+zhan yang 	瞻仰	c=1 d=1 t=47423
 zhan yong 	佔用	c=14 d=0.740654 t=51676
 zhan yong 	沾用	c=1 d=9.65183e-84 t=51676
 zhan zhen 	棧幀	c=2 d=1.36177e-95 t=51676
 zhan zhi zhen 	栈指针	c=1 d=0.00351752 t=51676
 zhang 	張	c=3 d=2.17222e-30 t=51676
 zhang 	掌	c=1 d=1.154e-38 t=51676
-zhang 	章	c=2 d=0.0199405 t=51676
+zhang 	章	c=5 d=0.0210191 t=51676
 zhang cheng 	張成	c=1 d=5.44444e-54 t=51676
 zhang hao 	賬號	c=4 d=0.0015415 t=51676
 zhang hu 	賬戶	c=1 d=4.08664e-32 t=51676
 zhang jie 	張傑	c=1 d=1.12176e-87 t=51676
-zhang jie 	章節	c=1 d=1.28482e-66 t=51676
+zhang jie 	章節	c=3 d=0.0855067 t=51676
 zhang kai 	張開	c=1 d=2.84234e-25 t=51676
 zhang san 	張三	c=3 d=0.141564 t=51676
 zhang tu 	張圖	c=2 d=0.00126207 t=51676
 zhang wei 	張偉	c=3 d=6.09175e-78 t=51676
 zhang wo 	掌握	c=16 d=1.15964 t=51676
-zhao 	找	c=15 d=0.0157237 t=51676
+zhao 	找	c=15 d=0.177284 t=51676
 zhao 	趙	c=3 d=1.53993e-65 t=51676
 zhao bu dao 	找不到	c=9 d=0.451581 t=51676
 zhao chu 	找出	c=11 d=0.0611149 t=51676
@@ -6586,7 +6758,7 @@ zhao dao le 	找到了	c=1 d=4.75998e-91 t=51676
 zhao ge 	找個	c=1 d=2.32182e-57 t=51676
 zhao huan 	召喚	c=2 d=3.37576e-39 t=51676
 zhao hui 	召回	c=0 d=6.99601e-05 t=51676
-zhao hui lv 	召回率	c=1 d=0.000703108 t=51676
+zhao hui lv 	召回率	c=1 d=0.0780817 t=51676
 zhao le 	找了	c=1 d=1.91249e-40 t=51676
 zhao mao hua hu 	照貓畫虎	c=1 d=1.71712e-37 t=51676
 zhao mei zhao dao 	找沒找到	c=1 d=2.17948e-48 t=51676
@@ -6604,14 +6776,14 @@ zhe 	着	c=9 d=0.190139 t=51676
 zhe 	者	c=3 d=6.02562e-12 t=51676
 zhe 	這	c=58 d=1.85704 t=51676
 zhe bi 	遮蔽	c=4 d=1.29148e-68 t=51676
-zhe bian 	這邊	c=1 d=1.04724e-43 t=51676
+zhe bian 	這邊	c=2 d=7.39283e-06 t=51676
 zhe bu fen 	這部分	c=3 d=9.54798e-45 t=51676
 zhe ci 	這次	c=5 d=0.386741 t=51676
 zhe dang 	遮擋	c=2 d=7.24768e-08 t=51676
 zhe dao 	這道	c=1 d=0.150318 t=51676
 zhe duan 	這段	c=33 d=0.278047 t=51676
 zhe fen 	這份	c=6 d=0.138587 t=51676
-zhe ge 	這個	c=240 d=2.44866 t=51676
+zhe ge 	這個	c=240 d=4.01153 t=51676
 zhe ge ku 	這個庫	c=1 d=3.52471e-27 t=51676
 zhe ge ne 	這個呢	c=1 d=6.30384e-43 t=51676
 zhe ge tu 	這個圖	c=1 d=5.48403e-51 t=51676
@@ -6641,7 +6813,7 @@ zhe mo la 	折磨拉	c=1 d=1.95957e-32 t=51676
 zhe ne 	着呢	c=0 d=1.0364e-98 t=51676
 zhe ne me 	着呢麼	c=6 d=2.03995e-05 t=51676
 zhe pian 	這片	c=1 d=3.652e-62 t=51676
-zhe pian 	這篇	c=14 d=0.449256 t=51676
+zhe pian 	這篇	c=16 d=0.449256 t=51676
 zhe san ci 	這三次	c=1 d=1.05281e-76 t=51676
 zhe san ge 	這三個	c=2 d=9.00631e-05 t=51676
 zhe shi 	這是	c=124 d=1.40779 t=51676
@@ -6655,15 +6827,16 @@ zhe si ge 	這四個	c=2 d=0.000735471 t=51676
 zhe tan 	這彈	c=1 d=2.6174e-55 t=51676
 zhe teng 	折騰	c=2 d=0.000288735 t=51676
 zhe xian tu 	折線圖	c=1 d=1.18133e-78 t=51676
-zhe xie 	這些	c=21 d=1.23773e-07 t=51676
+zhe xie 	這些	c=21 d=0.254107 t=51676
 zhe xu yao 	這需要	c=1 d=6.56132e-14 t=51676
 zhe yang 	這樣	c=56 d=0.36337 t=51676
+zhe yang de 	這樣的	c=1 d=1 t=48094
 zhe yang ma 	這樣嘛	c=1 d=4.82319e-11 t=51676
 zhe yang zuo 	這樣做	c=1 d=6.63156e-51 t=51676
 zhe ye 	這也	c=1 d=5.96262e-06 t=51676
 zhe yi 	這一	c=3 d=2.52329e-32 t=51676
 zhe yi bu fen 	這一部分	c=1 d=0.000169103 t=51676
-zhe yi duan 	這一段	c=2 d=5.63453e-46 t=51676
+zhe yi duan 	這一段	c=3 d=0.00308872 t=51676
 zhe yi ge 	這一個	c=2 d=6.33133e-06 t=51676
 zhe yi hang 	這一行	c=1 d=0.331211 t=51676
 zhe yi jia 	這一家	c=1 d=0.010889 t=51676
@@ -6671,6 +6844,7 @@ zhe yi ju 	這一局	c=1 d=3.38812e-62 t=51676
 zhe yi kuai 	這一塊	c=2 d=0.276651 t=51676
 zhe yi mo kuai 	這一模塊	c=1 d=9.25446e-60 t=51676
 zhe yi shi jian 	這一時間	c=1 d=2.27778e-67 t=51676
+zhe yi zhang 	這一章	c=1 d=1 t=46803
 zhe you xi 	這遊戲	c=1 d=3.95832e-39 t=51676
 zhe zhang 	這張	c=2 d=6.98389e-13 t=51676
 zhe zhang ka 	這張卡	c=1 d=1.38752e-59 t=51676
@@ -6712,6 +6886,7 @@ zheng he 	整合	c=10 d=1.40432e-44 t=51676
 zheng jian zhao 	證件照	c=1 d=6.69115e-68 t=51676
 zheng kuai 	整塊	c=0 d=8.78936e-72 t=51676
 zheng li 	整理	c=8 d=0.0293049 t=51676
+zheng li cheng 	整理成	c=3 d=2.88468 t=47083
 zheng mian 	正面	c=2 d=2.3031e-50 t=51676
 zheng ming 	證明	c=1 d=1.15463e-15 t=51676
 zheng pian 	正片	c=0 d=1.19202e-38 t=51676
@@ -6728,7 +6903,7 @@ zheng shu 	證書	c=17 d=3.9096e-11 t=51676
 zheng tai 	正太	c=1 d=2.42407e-64 t=51676
 zheng tai 	正態	c=2 d=2.34435e-53 t=51676
 zheng ti 	政體	c=1 d=2.94299e-52 t=51676
-zheng ti 	整體	c=6 d=3.90881e-38 t=51676
+zheng ti 	整體	c=7 d=0.0071546 t=51676
 zheng wen 	正文	c=1 d=0.079659 t=51676
 zheng xiang 	正向	c=1 d=0.00436124 t=51676
 zheng zai 	正在	c=8 d=1.63511e-08 t=51676
@@ -6745,6 +6920,7 @@ zhi 	秩	c=0 d=0.0357007 t=51676
 zhi 	至	c=1 d=2.55095e-76 t=51676
 zhi 	致	c=1 d=6.11525e-68 t=51676
 zhi bao han 	只包含	c=1 d=0.00726273 t=51676
+zhi bao liu 	只保留	c=1 d=1 t=46212
 zhi biao 	指標	c=26 d=0.0418374 t=51676
 zhi biao fu 	製表符	c=1 d=0.000642592 t=51676
 zhi bo 	直播	c=6 d=0.57695 t=51676
@@ -6758,7 +6934,7 @@ zhi chu 	指出	c=3 d=1.60988e-43 t=51676
 zhi cun zai 	只存在	c=1 d=1.22116e-27 t=51676
 zhi dao 	指導	c=1 d=2.31196e-07 t=51676
 zhi dao 	直到	c=1 d=8.95014e-49 t=51676
-zhi dao 	知道	c=28 d=3.59041e-09 t=51676
+zhi dao 	知道	c=28 d=0.240508 t=51676
 zhi dao ni 	知道你	c=1 d=1.5311e-41 t=51676
 zhi dao wo 	指導我	c=1 d=3.60499e-86 t=51676
 zhi de 	值得	c=1 d=1.74931e-79 t=51676
@@ -6766,9 +6942,10 @@ zhi ding 	指定	c=48 d=0.715338 t=51676
 zhi ding lie 	指定列	c=1 d=3.0415e-57 t=51676
 zhi du 	制度	c=3 d=1.53407e-46 t=51676
 zhi du 	只讀	c=2 d=4.60861e-05 t=51676
+zhi fa 	只發	c=1 d=1 t=46970
 zhi fang tu 	直方圖	c=6 d=4.60282e-73 t=51676
 zhi fu 	制服	c=1 d=4.12407e-51 t=51676
-zhi fu ze 	只負責	c=1 d=1.56506e-05 t=51676
+zhi fu ze 	只負責	c=2 d=3.60718e-05 t=51676
 zhi gei chu 	只給出	c=1 d=1.44346e-24 t=51676
 zhi guan 	直觀	c=0 d=4.54695e-24 t=51676
 zhi hou 	之後	c=22 d=0.00214418 t=51676
@@ -6809,12 +6986,13 @@ zhi wai 	之外	c=3 d=1.08646e-05 t=51676
 zhi wang 	知網	c=5 d=1.25377e-43 t=51676
 zhi wei 	職位	c=2 d=5.0519e-56 t=51676
 zhi wu 	職務	c=2 d=3.025e-73 t=51676
-zhi xian 	直線	c=2 d=5.20649e-70 t=51676
+zhi xian 	直線	c=3 d=0.00117675 t=51676
 zhi xiang 	只想	c=4 d=0.0120342 t=51676
-zhi xiang 	指向	c=6 d=8.5638e-48 t=51676
+zhi xiang 	指向	c=7 d=0.000209665 t=51676
 zhi xin 	之心	c=2 d=2.53973e-73 t=51676
-zhi xing 	執行	c=88 d=2.01498 t=51676
-zhi xing hou 	執行後	c=1 d=1.01571e-95 t=51676
+zhi xing 	執行	c=89 d=2.01498 t=51676
+zhi xing hou 	執行後	c=2 d=0.0216013 t=51676
+zhi xing shi 	執行時	c=1 d=1 t=47474
 zhi xu yao 	只需要	c=9 d=0.422432 t=51676
 zhi yan jiu 	只研究	c=1 d=1.44847e-06 t=51676
 zhi yao 	只要	c=2 d=0.0265162 t=51676
@@ -6828,6 +7006,7 @@ zhi yue 	制約	c=2 d=3.94631e-59 t=51676
 zhi zai 	只在	c=4 d=0.000596161 t=51676
 zhi zao 	製造	c=1 d=1.6376e-38 t=51676
 zhi ze 	職責	c=1 d=1.03555e-58 t=51676
+zhi zhang 	紙張	c=1 d=1 t=48043
 zhi zhen 	指針	c=17 d=5.39612e-08 t=51676
 zhi zhi 	紙質	c=0 d=2.68823e-76 t=51676
 zhi zhi ban 	紙質版	c=1 d=2.7017e-75 t=51676
@@ -6837,6 +7016,7 @@ zhi zuo 	制作	c=16 d=0.212222 t=51676
 zhi zuo de 	製作的	c=1 d=6.78997e-64 t=51676
 zhong 	中	c=465 d=2.85433 t=51676
 zhong 	種	c=8 d=0.079659 t=51676
+zhong da 	重大	c=1 d=1 t=46877
 zhong deng 	中等	c=1 d=9.34936e-33 t=51676
 zhong dian 	重點	c=1 d=3.87585e-56 t=51676
 zhong du 	中毒	c=1 d=4.26733e-41 t=51676
@@ -6849,6 +7029,7 @@ zhong ji 	重擊	c=1 d=2.17459e-51 t=51676
 zhong ji qi 	中繼器	c=1 d=1.29152e-39 t=51676
 zhong jian 	中間	c=12 d=0.523924 t=51676
 zhong jian ceng 	中間層	c=1 d=1.21859e-61 t=51676
+zhong jian dai ma 	中間代碼	c=1 d=1 t=47489
 zhong jian jian 	中間件	c=5 d=1.04134e-06 t=51676
 zhong jian ren 	中間人	c=8 d=1.71865e-70 t=51676
 zhong ke 	中科	c=1 d=2.22774e-41 t=51676
@@ -6860,9 +7041,9 @@ zhong qi 	中期	c=1 d=4.76677e-49 t=51676
 zhong tu 	中途	c=2 d=6.09651e-24 t=51676
 zhong wai wen 	中外文	c=1 d=2.72033e-97 t=51676
 zhong wei shu 	中位數	c=3 d=1.28512e-10 t=51676
-zhong wen 	中文	c=40 d=1.25541 t=51676
+zhong wen 	中文	c=42 d=1.25541 t=51676
 zhong wen ban 	中文版	c=1 d=3.08159e-64 t=51676
-zhong xin 	中心	c=3 d=0.0202419 t=51676
+zhong xin 	中心	c=4 d=0.210289 t=51676
 zhong xing 	中性	c=1 d=3.62564e-65 t=51676
 zhong xue 	中學	c=1 d=1.99807e-55 t=51676
 zhong yao ma 	重要嗎	c=1 d=4.99653e-44 t=51676
@@ -6888,7 +7069,7 @@ zhu 	主	c=8 d=0.64679 t=51676
 zhu 	住	c=3 d=5.62017e-16 t=51676
 zhu 	朱	c=1 d=1.65204e-53 t=51676
 zhu ban 	主板	c=2 d=1.33711e-06 t=51676
-zhu ce 	註冊	c=8 d=2.53672e-07 t=51676
+zhu ce 	註冊	c=10 d=0.000785788 t=51676
 zhu ce biao 	註冊表	c=8 d=1.37749e-06 t=51676
 zhu da jia 	祝大家	c=1 d=2.97722e-41 t=51676
 zhu dong 	主動	c=9 d=0.117068 t=51676
@@ -6898,11 +7079,13 @@ zhu guang 	主光	c=1 d=5.65778e-65 t=51676
 zhu han shu 	主函數	c=2 d=6.29807e-91 t=51676
 zhu hang 	住行	c=1 d=6.75473e-91 t=51676
 zhu hang 	逐行	c=1 d=6.78859e-91 t=51676
-zhu ji 	主機	c=2 d=1.56869e-82 t=51676
+zhu ji 	主機	c=6 d=3.51757e-05 t=51676
+zhu ji ming 	主機名	c=1 d=1 t=46450
 zhu jian 	主鍵	c=1 d=8.42176e-39 t=51676
 zhu jiao 	主教	c=1 d=5.18454e-08 t=51676
 zhu jie 	注解	c=8 d=0.00923273 t=51676
 zhu jie mian 	主界面	c=1 d=1.77696e-87 t=51676
+zhu kong 	主控	c=2 d=1.9802 t=46433
 zhu lei 	主類	c=2 d=2.14865e-75 t=51676
 zhu liu 	主流	c=1 d=0.0411719 t=51676
 zhu mo xing 	主模型	c=1 d=0.179066 t=51676
@@ -6927,12 +7110,14 @@ zhu zhuang tu 	柱狀圖	c=5 d=1.65316e-61 t=51676
 zhu zi 	逐字	c=0 d=6.92102e-84 t=51676
 zhu zi jie 	逐字節	c=1 d=6.95571e-83 t=51676
 zhua 	抓	c=6 d=1.18899e-36 t=51676
-zhua bao 	抓包	c=12 d=1.17715e-07 t=51676
+zhua bao 	抓包	c=20 d=0.00535231 t=51676
 zhua dao 	抓到	c=1 d=4.52967e-37 t=51676
-zhua qu 	抓取	c=2 d=5.87747e-72 t=51676
+zhua qu 	抓取	c=3 d=0.000170353 t=51676
+zhua qu de 	抓取的	c=1 d=1 t=46961
 zhuan 	轉	c=4 d=0.109701 t=51676
 zhuan dong 	轉動	c=2 d=1.28773e-20 t=51676
 zhuan fa 	轉發	c=6 d=6.83488e-28 t=51676
+zhuan fa gei 	轉發給	c=1 d=1 t=47249
 zhuan fan 	轉帆	c=1 d=1.14089e-80 t=51676
 zhuan hang 	轉行	c=1 d=5.12825e-56 t=51676
 zhuan huan 	轉換	c=12 d=0.0800583 t=51676
@@ -6940,11 +7125,12 @@ zhuan huan dao 	轉換到	c=3 d=5.13208e-06 t=51676
 zhuan huan hou 	轉換後	c=1 d=1.72979e-94 t=51676
 zhuan huan qi 	轉換器	c=1 d=1.58883e-94 t=51676
 zhuan huan wei 	轉換爲	c=28 d=0.0816805 t=51676
+zhuan huan wo er ei 	轉換我而誒	c=1 d=1 t=47772
 zhuan jia 	專家	c=3 d=5.54433e-79 t=51676
 zhuan men 	專門	c=3 d=0.00802655 t=51676
 zhuan wei 	轉爲	c=4 d=0.0572688 t=51676
 zhuan xiang 	轉向	c=2 d=3.15474e-19 t=51676
-zhuan xie 	撰寫	c=17 d=0.71177 t=51676
+zhuan xie 	撰寫	c=22 d=0.71177 t=51676
 zhuan ye 	專業	c=23 d=1.0205 t=51676
 zhuan ye ban 	專業版	c=1 d=9.28345e-38 t=51676
 zhuan yi 	轉移	c=1 d=1.34487e-74 t=51676
@@ -6952,7 +7138,7 @@ zhuan yi 	轉義	c=2 d=3.01159e-06 t=51676
 zhuan yi xing 	專一性	c=1 d=6.34602e-92 t=51676
 zhuan zhen 	轉診	c=18 d=4.69885e-49 t=51676
 zhuan zhi 	轉置	c=2 d=2.28132e-43 t=51676
-zhuang 	裝	c=1 d=1.70241e-24 t=51676
+zhuang 	裝	c=2 d=8.17034e-06 t=51676
 zhuang bei 	裝備	c=1 d=5.25539e-50 t=51676
 zhuang shi 	妝飾	c=1 d=1.42808e-45 t=51676
 zhuang shi 	裝飾	c=3 d=7.56968e-21 t=51676
@@ -6980,11 +7166,11 @@ zhun xing 	準星	c=1 d=5.8565e-30 t=51676
 zhuo chong 	桌寵	c=3 d=1.48688e-07 t=51676
 zhuo mian 	桌面	c=17 d=0.995871 t=51676
 zhuo mian duan 	桌面端	c=2 d=6.99083e-43 t=51676
-zhuo se 	着色	c=0 d=2.18989e-68 t=51676
+zhuo se 	着色	c=1 d=0.141564 t=51676
 zhuo se qi 	着色其	c=1 d=1.09768e-67 t=51676
-zhuo se qi 	着色器	c=5 d=0.0333975 t=51676
+zhuo se qi 	着色器	c=8 d=3.72 t=51676
 zhuo shang 	桌上	c=1 d=1.43695e-59 t=51676
-zi 	子	c=5 d=0.0524663 t=51676
+zi 	子	c=6 d=0.0524663 t=51676
 zi 	字	c=22 d=0.914589 t=51676
 zi 	紫	c=1 d=3.26148e-55 t=51676
 zi 	自	c=4 d=4.40942e-44 t=51676
@@ -7006,11 +7192,11 @@ zi fu 	字符	c=48 d=0.978402 t=51676
 zi fu chuan 	字符串	c=28 d=0.0566989 t=51676
 zi fu ji 	字符集	c=1 d=2.04871e-26 t=51676
 zi gong 	子宮	c=2 d=0.0127147 t=51676
-zi ji 	自己	c=61 d=0.174654 t=51676
+zi ji 	自己	c=61 d=0.491772 t=51676
 zi jian 	自建	c=3 d=0.506617 t=51676
 zi jie 	字節	c=18 d=0.109091 t=51676
 zi jie liu 	字節流	c=15 d=1.21473e-21 t=51676
-zi jie ma 	字節碼	c=4 d=1.70768e-31 t=51676
+zi jie ma 	字節碼	c=5 d=0.00193045 t=51676
 zi jie xu 	字節序	c=2 d=5.53631e-96 t=51676
 zi ju 	字句	c=2 d=3.1289e-59 t=51676
 zi ju 	自居	c=1 d=1.54886e-59 t=51676
@@ -7031,7 +7217,7 @@ zi ran shu 	自然數	c=1 d=3.08212e-66 t=51676
 zi shen 	資深	c=1 d=1.79554e-33 t=51676
 zi shi 	姿勢	c=4 d=0.00660453 t=51676
 zi shi 	子式	c=1 d=3.0705e-51 t=51676
-zi shu 	字數	c=5 d=0.000148489 t=51676
+zi shu 	字數	c=6 d=0.0308074 t=51676
 zi shu 	自述	c=2 d=1.84045e-10 t=51676
 zi tai 	姿態	c=1 d=2.01088e-42 t=51676
 zi ti 	字體	c=13 d=0.000726867 t=51676
@@ -7051,24 +7237,26 @@ zi xun 	諮詢	c=1 d=1.12378e-20 t=51676
 zi yao 	自要	c=1 d=2.38343e-71 t=51676
 zi you 	自由	c=1 d=1.18345e-11 t=51676
 zi you hun 	自由魂	c=1 d=1.38253e-46 t=51676
-zi yuan 	資源	c=33 d=0.00775117 t=51676
+zi yuan 	資源	c=34 d=0.522046 t=51676
 zi zhu 	自主	c=2 d=6.1217e-51 t=51676
 zi zi 	滋滋	c=1 d=2.4046e-28 t=51676
 zong 	縱	c=1 d=4.27997e-17 t=51676
-zong 	總	c=6 d=0.0735345 t=51676
+zong 	總	c=7 d=0.682407 t=51676
+zong de 	總的	c=1 d=1 t=46778
 zong fen 	總分	c=4 d=3.11367e-11 t=51676
 zong gong 	總共	c=5 d=1.83724e-09 t=51676
 zong he 	綜合	c=1 d=7.55735e-59 t=51676
 zong he 	總和	c=5 d=7.03817e-64 t=51676
 zong hui 	總會	c=1 d=4.89676e-42 t=51676
-zong jie 	總結	c=71 d=2.02738e-06 t=51676
+zong jie 	總結	c=71 d=0.250096 t=51676
 zong jie chu 	總結出	c=1 d=4.3837e-34 t=51676
 zong jue sai 	總決賽	c=2 d=1.89522e-58 t=51676
 zong ren shu 	總人數	c=1 d=2.7783e-51 t=51676
 zong shang 	綜上	c=1 d=2.71709e-83 t=51676
 zong shi 	總是	c=22 d=0.771314 t=51676
+zong shu 	綜述	c=2 d=1.90032 t=46944
 zong shu 	總數	c=2 d=4.01827e-10 t=51676
-zong ti 	總體	c=4 d=7.11724e-59 t=51676
+zong ti 	總體	c=5 d=0.00778933 t=51676
 zong xiang 	縱向	c=2 d=2.2488e-78 t=51676
 zong zhi 	總之	c=1 d=2.76736e-34 t=51676
 zong zhou 	縱軸	c=1 d=0.0018512 t=51676
@@ -7091,7 +7279,7 @@ zu jian 	組件	c=6 d=0.0246002 t=51676
 zu se 	阻塞	c=13 d=0.282239 t=51676
 zu wang 	組網	c=1 d=1.00947e-52 t=51676
 zu yong 	租用	c=2 d=2.54851e-06 t=51676
-zu zhi 	組織	c=6 d=0.123483 t=51676
+zu zhi 	組織	c=7 d=0.123483 t=51676
 zu zhou 	詛咒	c=0 d=0.0644036 t=51676
 zu zhou ni 	詛咒你	c=1 d=0.647265 t=51676
 zuan shi 	鑽石	c=2 d=3.86604e-40 t=51676
@@ -7147,7 +7335,7 @@ zui zuo qian zhui 	最做前綴	c=1 d=0.0948935 t=51676
 zun 	尊	c=0 d=1.38253e-47 t=51676
 zun cong 	遵從	c=1 d=1.12146e-25 t=51676
 zun shou 	遵守	c=5 d=0.0982736 t=51676
-zun xun 	遵循	c=8 d=5.66049e-05 t=51676
+zun xun 	遵循	c=10 d=0.000574022 t=51676
 zuo 	作	c=2 d=1.7561e-07 t=51676
 zuo 	做	c=71 d=1.37155 t=51676
 zuo 	左	c=3 d=0.113042 t=51676
@@ -7164,14 +7352,15 @@ zuo biao zhou 	坐標軸	c=4 d=0.060813 t=51676
 zuo bu dao 	做不到	c=1 d=1.3969e-50 t=51676
 zuo ce 	左側	c=1 d=0.000599149 t=51676
 zuo cheng 	做成	c=5 d=7.85106e-37 t=51676
-zuo chu 	做出	c=1 d=5.91699e-92 t=51676
+zuo chu 	做出	c=2 d=0.494109 t=51676
 zuo dao 	做到	c=2 d=3.31719e-19 t=51676
 zuo de 	做的	c=4 d=5.43518e-34 t=51676
 zuo ge 	做個	c=1 d=0.0065062 t=51676
 zuo guo 	做過	c=2 d=3.49e-60 t=51676
 zuo hao 	做好	c=1 d=3.58701e-86 t=51676
+zuo jian 	左鍵	c=1 d=1 t=48692
 zuo jian tou 	左箭頭	c=1 d=9.35383e-68 t=51676
-zuo le 	做了	c=2 d=8.31011e-96 t=51676
+zuo le 	做了	c=3 d=0.215456 t=51676
 zuo lian jie 	左連接	c=2 d=1.65409e-57 t=51676
 zuo ming ci 	做名詞	c=1 d=2.22888e-47 t=51676
 zuo mou shi 	做某事	c=1 d=1.53476e-69 t=51676
@@ -7188,7 +7377,7 @@ zuo yi xia 	做一下	c=2 d=0.00690852 t=51676
 zuo yong 	作用	c=33 d=0.78238 t=51676
 zuo yong yu 	作用域	c=1 d=2.77387e-91 t=51676
 zuo yong yu 	作用於	c=1 d=4.19138e-65 t=51676
-zuo you 	左右	c=9 d=3.13646e-07 t=51676
+zuo you 	左右	c=10 d=0.000220592 t=51676
 zuo zai 	坐在	c=2 d=3.38348e-64 t=51676
 zuo zhe 	作者	c=1 d=5.35392e-92 t=51676
 zuo zheng 	佐證	c=1 d=1.17423e-66 t=51676

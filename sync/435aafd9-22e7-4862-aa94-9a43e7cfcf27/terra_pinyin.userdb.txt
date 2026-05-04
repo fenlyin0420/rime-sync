@@ -1,6 +1,6 @@
 # Rime user dictionary
 #@/db_name	terra_pinyin
 #@/db_type	userdb
-#@/rime_version	1.10.0
+#@/rime_version	1.13.1
 #@/tick	0
 #@/user_id	435aafd9-22e7-4862-aa94-9a43e7cfcf27
