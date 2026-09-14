@@ -53,16 +53,16 @@ patch:
     "}": "｝"
     "~": "~"
   punctuator/symbols/+:
+  # 这里定义的符号会覆盖预置符号，如果不想覆盖掉预置符号，将预置符号也在这里定义一遍
     "/xk": "😂"
     "/xx": ["✨", "🌟"]
     "/hj": ["🚀"]
     "/mg": ["🌹"]
-    "/dg": ["✅"]
+    "/dg": ["✅", "✓"]
     "/rmb": ["￥"]
     "/ax": ["❤️", "🩷", "♥", "♡", "❤", "💔"]
-    "/hello": ["Hello World!"]
-    "/yuandian": ["·", "•", "●", "∘", "◦"]
-    "/dg": ["✓"]
+    "/yd": ["·", "•", "●", "∘", "◦"]
 
   recognizer/patterns/reverse_lookup: noop
+  # 自定义词典入口文件
   translator/dictionary: luna_pinyin.extended

@@ -13,3 +13,10 @@ patch:
   style/comment_font_face: "SimSun"
   style/font_face: "SimSun"
   style/label_font_face: "SimSun"
+  app_options:
+    WindowsTerminal.exe:
+      vim_mode: true
+    code.exe:
+      vim_mode: true
+    Obsidian.exe:
+      vim_mode: true

@@ -2,6 +2,7 @@
 build
 
 # 词典文件夹
+db
 luna_pinyin.userdb
 stroke.userdb
 terra_pinyin.userdb

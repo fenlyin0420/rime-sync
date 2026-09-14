@@ -9,3 +9,4 @@ import_tables:
     - yuanshen
     - computer_science
 
+# 所有词库在不熟时将被编译为.bin索引文件，极速检索
