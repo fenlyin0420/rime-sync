@@ -1,0 +1,11 @@
+---
+name: luna_pinyin.extended
+version: "2021.01.01"
+sort: by_wight
+use_preset_vocabulary: true
+import_tables:
+    - luna_pinyin
+    - my_dict
+    - yuanshen
+    - computer_science
+
